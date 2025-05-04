@@ -1,19 +1,17 @@
 import ollama
 import json
-def run_ollama_prompt(model_name, prompt):
+def run_ollama_prompt(model_name, messages):
     """
-    Run an Ollama model with a given prompt.
+    Run an Ollama model using structured chat messages.
 
-    :param model_name: The name of the model to use (e.g., 'llama2', 'mistral')
-    :param prompt: The input prompt for the model to respond to
+    :param model_name: The name of the model (e.g., 'llama2', 'mistral')
+    :param messages: A list of messages with roles (system, user, etc.)
     :return: Model's response content
     """
     try:
         response = ollama.chat(
             model=model_name,
-            messages=[
-                {'role': 'user', 'content': prompt}
-            ]
+            messages=messages
         )
         return response['message']['content']
     except Exception as e:
@@ -46,3 +44,80 @@ def from_str_to_dict(model_output):
         print(model_output)
     except Exception as e:
         print(f"Error: {e}")
+
+
+def build_user_prompt(names, text):
+    name_list = ', '.join(names)
+    user_prompt= f"""
+You are an information extractor. From the transcript below, extract the exact sentences that discuss these names: {name_list}.
+
+For each name:
+
+Return the exact quoted text (no paraphrasing).
+
+Group multiple mentions for the same name as a list.
+
+Return ONLY JSON like this:
+{{
+"players": {{
+"name_1": ["quote 1", "quote 2"],
+"name_2": ["quote 1"],
+...
+}}
+}}
+
+Transcript:
+{text}
+"""
+    return [{"role": "user", "content": user_prompt.strip()}]
+
+def build_system_user_prompt(names, text):
+    name_list = ', '.join(names)
+    
+    system_message = """
+You are an information extractor. Given a transcript, extract only the sentences that mention specific names.
+
+Instructions:
+- Return the exact quoted sentences (no summarizing or paraphrasing).
+- If a name appears multiple times, group all quotes into a list.
+- Only return JSON like:
+{
+  "players": {
+    "name_1": ["quote 1", "quote 2"],
+    "name_2": ["quote 1"]
+  }
+}
+"""
+
+    user_prompt = f"""
+Names to extract: {name_list}
+
+Transcript:
+{text}
+"""
+
+    return [{"role": "system", "content": system_message.strip()},
+            {"role": "user", "content": user_prompt.strip()}]
+
+
+def extract_json(text):
+    """Extracts the first complete JSON object from a string by tracking bracket balance."""
+    start = text.find('{')
+    if start == -1:
+        return None
+
+    bracket_count = 0
+    for i in range(start, len(text)):
+        if text[i] == '{':
+            bracket_count += 1
+        elif text[i] == '}':
+            bracket_count -= 1
+
+        if bracket_count == 0:
+            json_str = text[start:i+1]
+            try:
+                return json.loads(json_str)
+            except json.JSONDecodeError as e:
+                print("JSON decode error:", e)
+                return None
+    return None

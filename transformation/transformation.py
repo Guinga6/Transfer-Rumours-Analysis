@@ -1,7 +1,7 @@
 import whisper
 from utils.mongoDB import MongoDBHandler
 
-import whisper
+from faster_whisper import WhisperModel
 
 def audio_to_text(audio_path):
     """

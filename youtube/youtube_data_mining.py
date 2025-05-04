@@ -1,4 +1,8 @@
 import yt_dlp
+import sys
+import os
+
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 from datetime import datetime
 from youtube_comment_downloader import YoutubeCommentDownloader
 from utils.mongoDB import MongoDBHandler  
@@ -50,7 +54,7 @@ def get_youtube_videos(channel_url, start_results=0,end_results= 1):
                     'published_at': formatted_date,
                     'channel': entry.get('channel', 'Fabrizio Romano')
                 })
-            
+            print(videos)
             return videos
     except Exception as e:
         print(f"Error: {e}")
@@ -61,23 +65,22 @@ def get_youtube_videos(channel_url, start_results=0,end_results= 1):
 
 def download_audio(video_url):
     ydl_opts = {
-        'format': 'bestaudio/best',  # Download the best audio quality
+        'format': 'bestaudio/best',
         'postprocessors': [{
-            'key': 'FFmpegAudioConvertor',  # Converts the audio to the desired format
-            'preferredcodec': 'mp3',  # Preferred audio format (can be 'aac', 'flac', etc.)
-            'preferredquality': '192',  # Set quality (for mp3)
+            'key': 'FFmpegExtractAudio',       # Correct key for audio extraction
+            'preferredcodec': 'mp3',
+            'preferredquality': '192',
         }],
-        # Customize the output filename
-        'outtmpl': '%(title)s.%(ext)s',  # Output file name as video title.mp3 (or .flac, etc.)
-        'quiet': False  # Show logs (set to True to suppress logs)
+        'outtmpl': '%(title)s.%(ext)s',
+        'quiet': False
     }
 
     with yt_dlp.YoutubeDL(ydl_opts) as ydl:
         ydl.download([video_url])
 
 # # Example usage
-# download_audio('https://www.youtube.com/watch?v=YOUR_VIDEO_URL')
-def fetch_and_store_youtube_comments(video_url, db, collection_name):
+# download_audio('https://www.youtube.com/watch?v=hIuJySt7zAI')
+def fetch_and_store_youtube_comments(video_url, db, collection_name,video_title):
     """
     Fetch and store YouTube video comments in the MongoDB database.
 
@@ -92,18 +95,25 @@ def fetch_and_store_youtube_comments(video_url, db, collection_name):
     downloader = YoutubeCommentDownloader()
     comments = downloader.get_comments_from_url(video_url)
 
-    # Prepare the comment data, grouped under the URL key
-    comment_data = {
-        'url': video_url,
-        'comments': [{'comment_text': comment['text']} for comment in comments]  # Store only the comment text
-    }
+    if not comments:
+        print(f"No comments found or failed to fetch for: {video_url}")
+        comments = []
 
-    try:
-        # Insert or update the document based on the video URL
-        handler.update_one(collection_name, {'url': video_url}, {'$set': comment_data}, upsert=True)
-        print(f"Successfully stored comments for video: {video_url}")
-    except Exception as e:
-        print(f"Error storing comments: {e}")
+    return comments
+
+    # Prepare the comment data, grouped under the URL key
+    # comment_data = {
+    #     'url': video_url,
+    #     'title': video_title,
+    #     'comments': [{'comment_text': comment['text']} for comment in comments]  # Store only the comment text
+    # }
+
+    # try:
+    #     # Insert or update the document based on the video URL
+    #     handler.update_one(collection_name, {'url': video_url}, {'$set': comment_data}, upsert=True)
+    #     print(f"Successfully stored comments for video: {video_url}")
+    # except Exception as e:
+    #     print(f"Error storing comments: {e}")
 
 # Example usage
 # Assuming 'db' is your MongoDB database instance and 'comments_collection' is the collection name
