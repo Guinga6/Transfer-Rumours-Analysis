@@ -63,7 +63,7 @@ def get_youtube_videos(channel_url, start_results=0,end_results= 1):
 
 
 
-def download_audio(video_url):
+def download_audio(video_url,output_name='%(title)s'):
     ydl_opts = {
         'format': 'bestaudio/best',
         'postprocessors': [{
@@ -71,7 +71,7 @@ def download_audio(video_url):
             'preferredcodec': 'mp3',
             'preferredquality': '192',
         }],
-        'outtmpl': '%(title)s.%(ext)s',
+        'outtmpl': f'{output_name}.%(ext)s',
         'quiet': False
     }
 

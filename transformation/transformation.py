@@ -1,16 +1,16 @@
-import whisper
+
 from utils.mongoDB import MongoDBHandler
 
 from faster_whisper import WhisperModel
 
-def audio_to_text(audio_path):
+def audio_to_text(audio_path,model):
     """
     Transcribes audio to text and returns the transcription text.
 
     :param audio_path: Path to the audio file (e.g., .mp3)
     :return: The transcribed text
     """
-    model = whisper.load_model("small")
+    
 
     try:
         # Transcribe the audio with language specified (e.g., English)
