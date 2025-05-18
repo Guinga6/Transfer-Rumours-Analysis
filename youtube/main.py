@@ -26,17 +26,39 @@ client = MongoClient(config["secret"]["mongodb"])
 
 db = client['Web_mining']
 
-model = whisper.load_model("small")
+#model = whisper.load_model("small")
 
 collection_name = 'fabrizio_youtube'
 
 handler = MongoDBHandler(db)
 
-nlp = spacy.load("en_core_web_trf") #34
+nlp = spacy.load("en_core_web_trf") #34 # 59 +43 +3
 
-videos = get_youtube_videos(channel_url="https://www.youtube.com/@FabrizioRomanoYT",start_results=34,end_results=56)
+data_existant= []
 
+for filename in os.listdir('video_data'):
+    if filename.endswith('.json'):
+        data_existant.append(filename[:-5])
+for filename in os.listdir('video_data/done'):
+    if filename.endswith('.json'):
+        data_existant.append(filename[:-5])
+for filename in os.listdir('video_data/rerun'):
+    if filename.endswith('.json'):
+        data_existant.append(filename[:-5])
+
+videos = get_youtube_videos(playlist_url="https://www.youtube.com/playlist?list=PLpo-zNXD5plEYSSU2m-5t7kGRiWvJuH7H",start_results=0,end_results=400)
+print("*********************************\n******************************\n*************************")
+print("*********************************\n******************************\n*************************")
+print("*********************************\n******************************\n*************************")
+print("*********************************\n******************************\n*************************")
+print("*********************************\n******************************\n*************************")
+print(f'there is the len() of the list: {len(set(data_existant))}')
+print(f'the type of vidos is {type(videos)}')
+print(f'{len(videos)}')
+print(f'the firt item in the list:{videos[-1]}')
 for video in videos:
+    if video['video_id'] in data_existant:
+        continue  
     try:
         start_time = time.time()
         # Step 1: Download audio of the video

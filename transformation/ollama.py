@@ -72,32 +72,45 @@ Transcript:
     return [{"role": "user", "content": user_prompt.strip()}]
 
 def build_system_user_prompt(names, text):
-    name_list = ', '.join(names)
-    
+    name_list = ', '.join(name.strip() for name in names)
+    cleaned_text = text.strip()
+
     system_message = """
-You are an information extractor. Given a transcript, extract only the sentences that mention specific names.
+You are a summarizer. Given a transcript and a list of names (player, coach, or club), generate a short summary for each entity mentioned.
 
 Instructions:
-- Return the exact quoted sentences (no summarizing or paraphrasing).
-- If a name appears multiple times, group all quotes into a list.
-- Only return JSON like:
+- Focus on each name's **future or movement in football**, such as transfers, retirements, contract renewals, appointments, or departures.
+- Only return a valid JSON object.
+- Do NOT include any text outside the JSON.
+- Use this exact format:
+
 {
   "players": {
-    "name_1": ["quote 1", "quote 2"],
-    "name_2": ["quote 1"]
+    "name_1": "summary for name_1",
+    "name_2": "summary for name_2"
+  }
+}
+
+Example output:
+{
+  "players": {
+    "Mats Hummels": "Mats Hummels has announced his retirement from professional football and will leave AS Roma at the end of the season.",
+    "AS Roma": "AS Roma will lose Mats Hummels at the end of the season due to his retirement."
   }
 }
 """
 
     user_prompt = f"""
-Names to extract: {name_list}
+Names to summarize: {name_list}
 
 Transcript:
-{text}
+{cleaned_text}
 """
+    return [
+        {"role": "system", "content": system_message.strip()},
+        {"role": "user", "content": user_prompt.strip()}
+    ]
 
-    return [{"role": "system", "content": system_message.strip()},
-            {"role": "user", "content": user_prompt.strip()}]
 
 
 def extract_json(text):
@@ -121,3 +134,36 @@ def extract_json(text):
                 print("JSON decode error:", e)
                 return None
     return None
+import json
+
+def build_json_system_user_prompt(names, text):
+    name_list = ', '.join(name.strip() for name in names)
+    cleaned_text = text.strip()
+
+    # Build the fill-in JSON structure
+    fill_in_structure = {name.strip(): "" for name in names}
+    fill_in_json = json.dumps(fill_in_structure, indent=2, ensure_ascii=False)
+
+    system_message = f"""
+You are a summarizer. Given a transcript and a list of names (players, coaches, or clubs), fill in the provided JSON object.
+
+Instructions:
+- For each name in the JSON object, provide a SHORT STRING summary focused ONLY on their football future or movement (e.g., transfers, retirements, renewals, appointments, departures).
+- ONLY fill in the values directly inside the provided JSON — no new keys, lists, or nested objects.
+- Your output must be a valid, flat JSON. Each value must be either:
+    - a short string (1–2 sentences max), or
+    - null (if the entity is not relevant or mentioned).
+- Do NOT create keys that weren’t given. Do NOT add nested structures or arrays.
+
+Fill in the JSON object below with the correct summaries:
+{fill_in_json}
+"""
+
+    user_prompt = f"""
+Transcript:
+{cleaned_text}
+"""
+    return [
+        {"role": "system", "content": system_message.strip()},
+        {"role": "user", "content": user_prompt.strip()}
+    ]

@@ -8,11 +8,11 @@ from youtube_comment_downloader import YoutubeCommentDownloader
 from utils.mongoDB import MongoDBHandler  
 
 
-def get_youtube_videos(channel_url, start_results=0,end_results= 1):
+def get_youtube_videos(playlist_url, start_results=0, end_results=1):
     """
-    Get the latest videos from a YouTube channel using yt-dlp
+    Get videos from a specific YouTube playlist using yt-dlp
     """
-    if start_results> end_results:
+    if start_results > end_results:
         raise IndexError
     if not isinstance(start_results, int) or not isinstance(end_results, int):
         raise TypeError("Both variables must be integers.")
@@ -23,42 +23,29 @@ def get_youtube_videos(channel_url, start_results=0,end_results= 1):
         'force_generic_extractor': False,
         'quiet': True
     }
-    
+
     try:
         with yt_dlp.YoutubeDL(ydl_opts) as ydl:
-            result = ydl.extract_info(f"{channel_url}/videos", download=False)
-            
+            result = ydl.extract_info(playlist_url, download=False)
+
             if 'entries' not in result:
                 return []
-            
+
             videos = []
             for entry in list(result['entries'])[start_results:end_results]:
-                upload_date = (
-                    entry.get('upload_date') or
-                    entry.get('release_date') or
-                    entry.get('timestamp')
-                )
-                
-                if isinstance(upload_date, str) and len(upload_date) == 8:
-                    formatted_date = f"{upload_date[0:4]}-{upload_date[4:6]}-{upload_date[6:8]}"
-                elif isinstance(upload_date, (int, float)):
-                    from datetime import datetime
-                    formatted_date = datetime.utcfromtimestamp(upload_date).strftime('%Y-%m-%d')
-                else:
-                    formatted_date = 'Unknown'
-                
+                if not entry:  # Skip None entries
+                    continue
                 videos.append({
                     'title': entry.get('title', 'No title'),
                     'url': f"https://www.youtube.com/watch?v={entry.get('id')}",
                     'video_id': entry.get('id', ''),
-                    'published_at': formatted_date,
-                    'channel': entry.get('channel', 'Fabrizio Romano')
+                    'channel': entry.get('channel', 'Unknown'),
                 })
-            print(videos)
             return videos
     except Exception as e:
         print(f"Error: {e}")
         return []
+
 
 
 
