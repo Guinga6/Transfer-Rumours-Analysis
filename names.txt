@@ -1,0 +1,1789 @@
+AC: 2
+AC Milan: 3
+AOA: 1
+Aaron Ramstein: 1
+Abram: 1
+Abroad: 1
+Achenpong: 1
+Addy: 1
+Ademola Lukman: 2
+Adeyemi: 1
+Adi Emi: 1
+Adonis: 1
+Adrian: 1
+Adrian Rabiot: 3
+Adrielle Rabiot: 1
+Adrienne: 1
+Adrienne Rabiot: 1
+Adrienne Rabiò: 1
+Airallo: 2
+Airolo: 1
+Aiten Haag: 1
+Ajax: 2
+Akimi: 1
+Al: 1
+Al Naser: 3
+Al Nasser: 4
+Al-Akhli: 1
+Al-Ali: 1
+Al-Illal: 2
+Al-Katzia: 1
+Al-Katziah: 1
+Al-Nassar: 1
+Al-Nasser: 1
+Alaba: 1
+Alach Lee: 1
+Alachli: 1
+Alain Semaximen: 1
+Alakali: 1
+Alakly: 6
+Alan Varela: 1
+Alanta: 1
+Alcazia: 1
+Alejandro Garnaccio: 9
+Alejandro Grimaldo: 1
+Alex Imenets: 1
+Alex Valle: 1
+Alexander Arnault: 1
+Alexander Arnold: 1
+Alexander Isaac: 7
+Alexander Stankovic: 1
+Alexander-Arnold: 2
+Alfonso: 5
+Alfonso Davies: 10
+Alfonso Davis: 1
+Alfonso Devis: 1
+Alilal: 9
+Alisson: 1
+Alitihad: 4
+Allegri: 1
+Allo: 1
+Alnasser: 7
+Alonso: 1
+Altimira: 1
+Alvarez: 2
+Alvarez Omerodion: 1
+Alvaro Carreras: 1
+Alvaro Morata: 6
+Amad: 4
+Amad Diallo: 3
+Amadialo: 1
+Amadija: 1
+Amadija Law: 1
+Amadou Onana: 1
+Amadou Onaná: 1
+Amaduanana: 1
+Amoghul: 1
+Amogu: 1
+Amor Dion: 1
+Amorim: 12
+Amrabat: 4
+Amrabati: 1
+Amugu: 2
+Ana: 2
+Ancelotti: 12
+Ancico: 1
+Anciflik: 2
+Ando: 1
+Andre: 3
+Andre Berta: 1
+Andre Gomes: 1
+Andre Lunin: 2
+Andre Santos: 2
+Andrea Bertha: 2
+Andrea Cambiasso: 2
+Andrea Rabiou: 1
+Andrei: 1
+Andreonana: 1
+Andrick: 1
+Andriy Lunin: 1
+Andy Barra: 1
+Ange: 1
+Ange Zaghi: 1
+Anguissat: 1
+Anguissà: 1
+Anselmino: 2
+Ansif Lick: 2
+Ansiflick: 1
+Ansiflik: 2
+Anso Fatih: 1
+Ansu Fati: 1
+Anthony: 9
+Anthony Gordon: 4
+Anthony Marzial: 1
+Anthony Marziale: 1
+Antoine Griezmann: 3
+Antoni: 1
+Antonio Conte: 7
+Antonio Conti: 1
+Antonio Silva: 2
+Antonito Cordero: 1
+Anzif Lick: 1
+Anziflique: 1
+Anzomaresca: 1
+Anzou: 1
+Anzou Fati: 1
+Anzu: 1
+Anzufati: 1
+Aquini: 1
+Arauco: 1
+Araujo: 6
+Arcuncourt: 1
+Arda: 4
+Arda Guler: 4
+Arda Guller: 1
+Arlilal: 1
+Armando Broglie: 1
+Arnaz Lot: 1
+Arnaz Loth: 1
+Arnes Lot: 2
+Arnold: 2
+Aron Anselmino: 2
+Aron Arselmino: 1
+Arsenal: 71
+Arsenault: 1
+Arteta: 1
+Artheta: 5
+Artur: 1
+Asencio: 1
+Asensio: 5
+Ashraf Akimi: 1
+Asimilane: 1
+Aspelicueta: 1
+Asprey: 1
+Aston Villa: 30
+Atalanta: 9
+Athletic: 1
+Athletic Club: 1
+Atlanta: 1
+Atleti: 2
+Atletic: 4
+Atletic Bilbao: 6
+Atletico: 10
+Atletico Madrid: 10
+Atlético: 11
+Atlético Madrid: 15
+Audi: 1
+Aurélien: 1
+Aurélien Chouamanie: 1
+Axel DiSasi: 3
+Axel Dizazie: 1
+Ayralo: 1
+BVB: 1
+Backlose: 1
+Badiaszil: 1
+Baichu: 1
+Baiczetich: 1
+Bainu Gittens: 1
+Baira Leverkusen: 1
+Baixatich: 1
+Bajatich: 1
+Bala: 1
+Balotelli: 1
+Bapé: 1
+Barbingen: 1
+Barca: 25
+Barcelona: 80
+Barma: 1
+Barmout: 10
+Barmouth: 4
+Barnav: 1
+Barça: 25
+Basel: 3
+Bayan: 1
+Bayer: 8
+Bayer Leuverkusen: 1
+Bayer Leverkusen: 6
+Bayer-Levercusan: 1
+Bayern: 62
+Bayern Egliedtens: 1
+Bayern Leberkusen: 5
+Bayern Leverkusen: 1
+Bayley: 1
+Begirishtijn: 1
+Bejiktas: 1
+Belayan: 1
+Belayana: 1
+Beluccio Dortmund: 1
+Ben: 3
+Ben Chilwell: 1
+Ben Schilwell: 2
+Ben-Nacer: 1
+Benasser: 1
+Benchie: 1
+Benchil: 1
+Benfica: 13
+Benjamin Cesco: 1
+Benjamin Cesko: 2
+Benjamin Schesco: 1
+Benjaminsche Schesco: 1
+Bento: 1
+Berrave: 1
+Bertha: 1
+Beste: 1
+Bet: 1
+Betis: 12
+Beukema: 1
+Bilbao: 4
+Bissaca: 1
+Bissacca: 1
+Blauvić: 1
+Blavich: 2
+Bloma: 1
+Blu Co: 1
+Blues: 1
+Boca Juniors: 2
+Bologna: 8
+Bondo: 2
+Boniface: 1
+Bonny: 1
+Borussia: 2
+Borussia Dortmund: 18
+Borussia Dortmund Milan: 1
+Bradford: 1
+Brandford: 1
+Brandt Ford: 1
+Brantwhite: 1
+Brazil: 5
+Brazilian Federation: 1
+Bremer: 2
+Brentford: 2
+Brian Gruda: 1
+Brian Hill: 1
+Brighton: 8
+Broglie: 1
+Broja: 1
+Bruges: 1
+Bruno: 4
+Bruno Fernandez: 4
+Bruyne: 2
+Bundes: 1
+Bundesliga: 1
+Byneghitten: 1
+Cabbiasso: 1
+Cadioglu: 1
+Cadre Payets: 1
+Cala Fiori: 1
+Calafioli: 2
+Calafiore: 5
+Calafiori: 4
+Calulu: 1
+Camavinga: 1
+Cambiasso: 2
+Cancelo: 4
+Canda: 1
+Candadil: 1
+Canna Bigic: 1
+Cante: 1
+Carlo: 4
+Carlo Ancelotti: 17
+Carlo Cialotti: 1
+Carlos Soler: 1
+Carnaccio: 1
+Carni: 1
+Carny: 1
+Carrington: 1
+Carvajal: 2
+Casa Dei: 1
+Casadei: 1
+Casemiro: 3
+Castel: 1
+Castello: 2
+Ceballos: 1
+Celtic: 1
+Cerro Portegno: 1
+Cerucone: 1
+Cesc: 1
+Cesc Fabregas: 1
+Cesco: 3
+Cesko: 4
+Chabi: 2
+Chabi Alonso: 2
+Chabiel: 1
+Chaloba: 2
+Chalobar: 1
+Champions League: 22
+Chavi: 2
+Chavi Simons: 3
+Chelsea: 116
+Chelsea Atletico: 1
+Chelsea Football Club: 1
+Chelsea Liverpool: 1
+Chelsea Tottenham: 1
+Cherki: 1
+Cherokee: 1
+Cherqui: 2
+Chesny: 1
+Chicago: 1
+Chicago Fire: 4
+Chiesa: 7
+Chouamanie: 1
+Choukwemeca: 1
+Chris: 1
+Christensen: 1
+Christian Eriksen: 1
+Christian Ronaldo: 1
+Christofran Kunku: 1
+Christoph: 4
+Christoph Ervivell: 1
+Christopher: 4
+Christopher Kunku: 1
+Cia Bia Lonsso: 1
+Cia Bialon: 1
+Cia Bialonso: 1
+Cialotti: 1
+Ciavi: 1
+Ciavi Simons: 2
+Ciavia Lonsso: 1
+Ciaviel: 1
+Ciavielonso: 5
+Ciavio: 1
+Cicchi Begiristain: 1
+Cicueza: 1
+Cido: 4
+Cido Abimartin: 1
+Cido Bimartin: 3
+Ciflique: 1
+Cilotti: 1
+Cimas: 1
+City: 18
+Clement Lenglet: 1
+Cobb Miners: 1
+Cobham: 1
+Col: 1
+Col Palmer: 1
+Cologne Monty: 1
+Colomboigny: 1
+Colomoni: 6
+Colomonia: 1
+Coman: 2
+Common: 4
+Como: 11
+Comom: 1
+Company: 1
+Comuzzo: 1
+Conate: 1
+Conceisao: 1
+Concesao: 1
+Concey-Sao: 1
+Conceysau: 1
+Cone: 1
+Connor Bradley: 1
+Conor: 4
+Conor Gallagher: 15
+Conte: 4
+Copa Miners: 1
+Copminers: 2
+Coppa Italia: 2
+Cordero: 1
+Corinthians: 2
+Corinzi: 1
+Corinzians: 1
+Costich: 1
+Courtois: 1
+Crenier: 1
+Crescensio-Sandarville: 1
+Crescenzio Summerville: 1
+Cristal Palace: 1
+Cristal Palas: 2
+Cristiano: 4
+Cristiano Giuntoli: 1
+Cristiano Ronaldo: 4
+Cristofran Cuncu: 1
+Cristofran Kunku: 1
+Crystal Palace: 9
+Csiky Begirishtijn: 1
+Csiky Begirisztain: 1
+Csíké Beguirisztain: 1
+Cuarascalia: 1
+Cucone: 1
+Cugna: 4
+Cuncu: 1
+Cunha: 5
+Czary Simons: 1
+D'Onarumma: 1
+D'Unfries: 1
+Dala: 1
+Damia Vidalgani: 1
+Dan Ashworth: 1
+Dani: 6
+Dani Carvajal: 2
+Dani Ceballos: 1
+Dani Olmo: 7
+Daniel Olmo: 2
+Daniele de Rossi: 1
+Danielmo: 3
+Danio Olmo: 1
+Daniolmo: 3
+Danny Carvajal: 1
+Dario Esucco: 1
+Dario Esugo: 2
+Darwin: 8
+Darwin Nunes: 2
+Darwin Unets: 1
+Darwin-Uniats: 1
+Darwinuñez: 1
+Datrofofana: 1
+Davi D'Angico: 1
+David: 1
+David Neres: 1
+David Washington: 1
+Davide Fratesi: 1
+Davide Gea: 1
+Davies: 1
+De Bruyne: 3
+De Zerbi: 1
+DeLigt: 1
+DePie: 1
+Dean Hoisen: 7
+Dean Hoyes: 1
+Dean Hoys: 1
+Dean Hoysen: 2
+Dean Hoyson: 1
+Dean Huizen: 1
+Deco: 9
+Delap: 3
+Dele Alli: 1
+Delic: 1
+Delict: 8
+Delight: 1
+Delop: 1
+Dembélé: 1
+Den Hoysen: 1
+Deschamps: 1
+Desi Redway: 1
+Desiree Dway: 1
+Desiree Dwaye: 2
+Desiree Dwe: 1
+Desiree Dwey: 1
+Di Bala: 1
+Di Bò: 1
+Di Marco: 1
+Di Sasi: 1
+DiSasi: 2
+Diallo: 1
+Diatz: 1
+Didier Deschamps: 1
+Diego: 1
+Diego Leon: 2
+Diego León: 1
+Dijk: 1
+Dion: 1
+Disasi: 1
+Disazí: 1
+Dizazí: 1
+Dobbic: 1
+Dominic Solanke: 2
+Domino: 1
+Don: 1
+Doni Rahola: 1
+Donnarum: 1
+Dorco: 1
+Dorcou: 1
+Dorgo: 3
+Dorgu: 4
+Dortmund: 3
+Dothbik: 1
+Douglas Lewis: 1
+Dovan: 1
+Dugarte: 1
+Dujan Blavich: 3
+Durant: 1
+Dusan Blauvić: 1
+EZ: 1
+Eberheciez: 1
+Ed: 1
+Edd interstich: 1
+Edding Ketya: 2
+Eder Militao: 2
+Ederson: 8
+Edu: 2
+Edu Gaspar: 1
+Edze: 1
+Eepswich Town: 1
+Eidhen Hirn: 1
+Eintracht Frankfurt: 1
+Elise: 1
+Emery: 1
+Emile Smithrow: 1
+Empoli: 1
+England: 1
+Enso Mareska: 1
+Enso Mariska: 1
+Enzo: 1
+Enzo Canna Bigic: 1
+Enzo Mareiska: 1
+Enzo Maresca: 1
+Enzo Mareska: 3
+Enzo Marezca: 1
+Enzo Mariesca: 1
+Enzo Mariscal: 1
+Enzo Mariska: 1
+Enzo Marésca: 1
+Ep Guardiola: 1
+Eric: 1
+Eric Dyer: 1
+Eric Kane: 1
+Eric Tenarch: 1
+Eric Tenhag: 2
+Eric Tenhug: 2
+Erick Garcia: 1
+Ericsson: 3
+Eriken Haag: 1
+Eriken Hague: 1
+Eriksen: 4
+Eriton Hague: 1
+Eriton Hugg: 1
+Eritre: 1
+Erling Haaland: 2
+Espanyol: 3
+Esugo: 1
+Etan Waneri: 1
+Ethan Juaneri: 1
+Ethan Waneri: 1
+Eton hug: 1
+Europa League: 3
+Euros: 4
+Evan Ilson: 1
+Everton: 2
+Eze: 1
+FA: 3
+Fab: 2
+Fabio Carvalho: 1
+Fabio Vieira: 2
+Fabri: 3
+Fabriz Cermano: 1
+Fabriz Fermanoguire: 1
+Fabrizio: 11
+Fabrizio Romano: 9
+Fabrizio Romano 3: 1
+Faier: 1
+Fajé: 1
+Fali Ramadani: 2
+Fana: 1
+Federation: 5
+Federico Chiesa: 9
+Federico Di Marco: 1
+Federico Kiesi: 1
+Felix: 3
+Fenerbahce: 6
+Fenerebacce: 1
+Fenerebaccio: 1
+Ferdi Cadioglu: 1
+Ferguson: 2
+Ferland: 1
+Ferland Mende: 1
+Ferland Mendy: 1
+Fermin: 1
+Fermin López: 1
+Ferran Soriano: 1
+Feyenoord: 2
+Feynord: 1
+Filipp Jorgensen: 1
+Fiorentina: 9
+Flamengo: 2
+Flick: 2
+Florentino: 3
+Florentino Peretz: 2
+Florentino Perez: 4
+Florian Timo Peretz: 1
+Florian Veers: 1
+Florian Vierce: 1
+Florian Virts: 2
+Florian Weirce: 1
+Florian Wirth: 2
+Floriano Perez: 1
+Fofana: 2
+Football: 1
+Forest: 4
+Forest News: 1
+Francisco Concesao: 1
+Francisco Conceysau: 1
+Franco Mastantuano: 1
+Frank: 1
+Frankie: 2
+Frankie De Jong: 2
+Fratesi: 1
+Frimpong: 5
+Fulcruc: 1
+Fulham: 4
+Full Crew: 1
+Furlani: 1
+Gabriel: 1
+Gabriel Mac: 4
+Gabriel Mack: 1
+Gabriel Mecc: 1
+Gala: 1
+Galatasaray: 12
+Galaxy: 1
+Galeno: 1
+Gallagher: 11
+Garatasaray: 1
+Garcia: 2
+Garnaccio: 14
+Garte: 4
+Gata Salai: 1
+Gata Sarai: 1
+Gavi: 6
+Gehi: 1
+General Transfer: 2
+Genoa: 1
+Geofelix: 1
+George Mandes: 1
+George Mendes: 4
+George Mendez: 5
+Gerard Martín: 1
+Germain: 5
+Gero: 1
+Gertrude: 1
+Ghidorodriguez: 1
+Giantes: 1
+Gibbs White: 2
+Gigi D'Onarumma: 1
+Gilmour: 1
+Gio Cancelo: 1
+Giocares: 2
+Giochres: 1
+Giorginho: 1
+Giorgio Cancelo: 1
+Giorgio Hato: 1
+Giorgio Hattu: 1
+Gioro: 2
+Giovanni Canda: 2
+Giovanni Kenda: 1
+Giovanni LoCelso: 1
+Giovanni Manna: 1
+Girona: 3
+Giuntoli: 1
+Gjoklis: 1
+Gjokores: 2
+Gjokoress: 1
+Glason Bremerne: 1
+Golo Cante: 1
+Gomes: 1
+Goncalo Ramos: 1
+Gonzalo Ramos: 1
+Goretzka: 1
+Graham Potter: 1
+Grahamio: 1
+Greenwood: 3
+Gremio: 1
+Griezmann: 4
+Grigno: 1
+Grimaldo: 1
+Grêmio: 1
+Guardiola: 6
+Guido Rodríguez: 1
+Gundo: 1
+Gundogan: 3
+Gustepe: 1
+Gutiérrez: 1
+Haag: 1
+Haaland: 2
+Hague: 1
+Harry Kane: 1
+Harry Maguire: 2
+Hattu: 1
+Haven: 1
+Helmhildreed: 1
+Hendrik: 4
+Hermoso: 2
+Heven: 1
+Hoiberg: 1
+Hoiland: 1
+Hoisen: 5
+Hoyes: 1
+Hoys: 1
+Hoysen: 2
+Hoyson: 1
+Hugo Viana: 4
+Hulé Lopetegui: 1
+Hummels: 2
+Humphill: 1
+INEOS: 1
+Ibera: 1
+Ibera Konate: 1
+Ibrahim Conmate: 1
+Ibrahima Conate: 1
+Ibrahima Konate: 1
+Ibu Konate: 1
+Ilhae Gundogan: 1
+Imenets: 1
+Important: 1
+Ine: 1
+Ineos: 6
+Inigo: 1
+Insaghi: 1
+Insagi: 2
+Inter: 16
+Inter Miami: 1
+Interact: 1
+Ipswich: 1
+Ipswich Town: 1
+Iquipeña: 1
+Iralo: 1
+Isaac: 4
+Ismael Ben-Nacer: 1
+Ito: 1
+Ivan Tony: 3
+Ivatuni: 1
+Jack Greenish: 1
+Jadall Sancho: 1
+Jadon: 1
+Jadon Sancho: 17
+Jadon Sancio: 1
+Jalver Cusen: 1
+Jamal Musialla: 1
+Jamie Byneghitten: 1
+Jamie Vardy: 1
+Jan Kouto: 1
+Jared Brantwhite: 1
+Jarek Kansa: 1
+Jason Wilcox: 5
+Jauneves: 1
+Javi Guerra: 1
+Jaydon Sanchez: 1
+Jean-Eves: 2
+Jean-Huez: 1
+Jeremy Frimpong: 6
+Jermaine: 1
+Jimenez: 1
+Jo Felix: 3
+Joan Garcia: 1
+Joao: 4
+Joao Felix: 4
+Joao Neves: 1
+Joao Nevesh: 2
+Joe: 2
+Joe Bellingham: 1
+Joe Felix: 15
+Joe Felix Gallagher: 1
+Joe Gomez: 1
+Jofelic: 1
+John Durand: 3
+John Durant: 4
+John Durán: 1
+John Eves: 1
+John Nicardoso: 1
+Johnny Evans: 1
+Jonathan: 3
+Jonathan David: 3
+Jonathan Ta: 1
+Jonathan Taa: 3
+Jonathan Tah: 1
+Jonathan Tato: 1
+Jonathan Tau: 2
+Jonathan Tà: 5
+Jorgens: 1
+Jorgensen: 3
+Jorot: 2
+Jose Mourinho: 2
+Jose Murinho: 1
+Josh Achenpong: 1
+Joshua: 1
+Joshua Azierze: 1
+Joshua Kimmich: 3
+Joshua Zierze: 4
+Joshua Zilder: 1
+Joshua Zirce: 1
+Jowicz: 1
+João: 1
+João Cancelo: 2
+João Felix: 2
+João Neves: 3
+João Nevesh: 1
+Jr: 1
+Juan Bissac: 1
+Juan Garcia: 2
+Juan Martinez: 2
+Juaneri: 1
+Jude: 1
+Juli Alvarez: 1
+Juli Álvarez: 1
+Julian: 4
+Julian Alvarez: 7
+Julio: 1
+Julio Nalvarez: 1
+Juma Bah: 1
+Junior Pedroso: 1
+Jurgen Klopp: 5
+Juve: 9
+Juvent: 1
+Juventus: 51
+Jürgen Klopp: 1
+KEPA: 1
+Kai: 1
+Kai Walker: 2
+Kailor Navas: 1
+Kamara: 1
+Kangin Lee: 1
+Kanjin Lee: 1
+Kansa: 1
+Kara Fiori: 1
+Karim Adeyemi: 1
+Karni: 1
+Karny: 1
+Karny Chukwameka: 1
+Katia: 1
+Kazemiro: 1
+Kelly: 2
+Ken: 2
+Kenda: 1
+Kepa: 2
+Keppa: 1
+Kerkac: 1
+Kerkens: 1
+Ketia: 1
+Ketya: 2
+Kevin: 1
+Kevin Danso: 1
+Kevin De Bruijn: 1
+Kevin De Bruyne: 7
+Kevin de Bruyne: 1
+Kiesa: 2
+Kiesa Liverpool: 1
+Kiesi: 1
+Kim: 1
+Kim Min Jae: 1
+Kimmich: 4
+Kinej: 1
+Kingsley: 1
+Kingsley Coman: 3
+Kingsley Common: 3
+Kinsley Common: 1
+Kipra: 1
+Klopp: 3
+Kobe: 1
+Kobe Maino: 1
+Kobe Mainu: 1
+Kobe Meno: 1
+Kolomoni: 1
+Komod: 1
+Konate: 2
+Ku: 1
+Kubo: 1
+Kugia: 1
+Kuiper: 1
+Kuku: 2
+Kuncu: 1
+Kung: 1
+Kung-Ku: 1
+Kungku: 1
+Kunko: 1
+Kunkou: 1
+Kunku: 9
+Kurtua: 1
+Kuzanov: 5
+Kvarashkelia: 1
+Kvarschkelia: 1
+Kyla: 1
+Kyle Walker: 1
+L'Ala Clé: 1
+L'Arabie: 1
+LA Galaxy: 1
+LAFC: 2
+La Liga: 14
+La Migliamal: 1
+La Milla Mal: 1
+La Mini Fati: 1
+La Porta: 1
+La Sociedad: 1
+Lans: 1
+Lanz: 1
+Laurenti: 1
+Lautaro Martinez: 1
+Lazio: 1
+Le Vercusion: 1
+Le Verkuzen: 1
+League: 2
+Leal: 1
+Leao: 2
+Lecce: 6
+Left: 1
+Leicester: 2
+Leicester City: 1
+Leipzig: 21
+Lenglet: 1
+Leni Gero: 1
+Leni Gioro: 1
+Lenny Gero: 1
+Lenny Gioro: 1
+Lenny Jorot: 4
+Lenny Jorow: 4
+Lens: 2
+Lenz: 1
+Leon Bailey: 1
+Let: 1
+Levercusan: 1
+Leverkusen: 2
+Lewandowski: 2
+Lewis Kelly: 2
+Liberals: 1
+Liga: 2
+Light Sig: 1
+Ligue 1: 1
+Lille: 8
+Lindelof: 3
+Lindstrom: 1
+Lino Soloku: 1
+Liverpool: 73
+Liverpool Juventus: 1
+Liverpool Valencia: 1
+Llan Uro: 1
+LoCelso: 1
+Lobotka: 1
+Lorenzo: 1
+Lorenzo Luca: 1
+Louis Campos: 1
+Louis Serrique: 1
+Luca: 2
+Luca Gurnaduat: 1
+Luca Jowicz: 1
+Luca Marianucci: 1
+Luca Modric: 2
+Lucas Vazquez: 2
+Lucerna: 1
+Lucho: 1
+Lucqueba: 1
+Lugarte: 3
+Luis: 1
+Luis Diaz: 3
+Luis Díaz: 1
+Luis Enrique: 2
+Luis Kelly: 2
+Lukaku: 13
+Lukman: 2
+Lulia: 1
+Lunin: 2
+Lyam Delap: 1
+Lyon: 3
+Lyon Bailey: 1
+Lyon Bayley: 1
+MLS: 6
+MacTomine: 2
+MacTone: 1
+Macdominane: 1
+Macdomine: 2
+Madrid: 10
+Maduakio: 1
+Maduweke: 1
+Maguire: 1
+Maison Greenwood: 1
+Maison Mount: 1
+Majority: 1
+Majority United: 1
+Malachli: 1
+Malacia: 2
+Malasia: 2
+Malen: 1
+Malik Chao: 1
+Malik Ciaoh: 1
+Malin: 1
+Mamadou Sarre: 1
+Mamar Daszvili: 1
+Mamardash Vili: 1
+Mamardashvili: 5
+Man City: 23
+Man United: 2
+Manchester: 5
+Manchester City: 61
+Manchester United: 118
+Maneri: 1
+Manu: 1
+Manu Cone: 1
+Manu Garte: 6
+Manu Ugart: 1
+Manu Ugarte: 1
+Manuel Hougarte: 1
+Manuel Lugarte: 2
+Manuel Ugarte: 5
+Manuel Ugarthe: 1
+Marc: 1
+Marc Gehe: 1
+Marc Gehi: 1
+Marc Gehilding: 1
+Marc Guillaud: 1
+Marcel: 4
+Marcelo: 1
+Marco: 3
+Marco Asensio: 3
+Marco Royce: 1
+Marco Silva: 2
+Marcos Rashford: 5
+Marcos Rushford: 1
+Marcus Rashford: 5
+Marcus Rush: 1
+Marcus Rushford: 6
+Mardas Vili: 1
+Mardaschmiedi: 1
+Marejka: 1
+Maresca: 2
+Mareska: 1
+Marezca: 1
+Margehi: 1
+Marguerite: 1
+Marguerjee: 1
+Maria Nucci: 1
+Marianucci: 1
+Marinakis: 1
+Mario Balotelli: 1
+Mario Hermoso: 1
+Mariska: 1
+Marmous: 2
+Marmoush: 1
+Marsale: 5
+Marseille: 4
+Martin: 3
+Martin Subimendi: 3
+Martin Zubimendi: 3
+Martinelli: 1
+Martín Subimendi: 1
+Martín Zubimendi: 2
+Masarawi: 1
+Maseraui: 1
+Mason Greenwood: 4
+Masrawi: 2
+Massimiliano Allegri: 1
+Massimiliano Legri: 1
+Mastantuano: 1
+Matai: 2
+Matais Delict: 2
+Mateus Cugna: 1
+Mateus Cunha: 1
+Mateusz: 1
+Mateusz Cunha: 2
+Mateusz Kugia: 1
+Mathias Suley: 1
+Mati: 1
+Mati Stel: 4
+Mati Stell: 2
+Matias: 2
+Matias Delict: 6
+Matias Deligth: 1
+Matias delict: 1
+Matias deligt: 1
+Matis Tell: 1
+Matissa Mugu: 1
+Matisse: 1
+Matisse Amugu: 1
+Matisse Tell: 4
+Matize Delict: 2
+Mats Hummels: 2
+Matsumelze: 1
+Matt Estelle: 1
+Matt Ice Delict: 1
+Matte: 1
+Matteo: 4
+Matteo Schcugna: 2
+Matteo Scugna: 4
+Matteo Skuña: 1
+Matthias Delict: 1
+Matthias Delight: 1
+Matti Stelto: 1
+Mattias Suley: 1
+Mattie Stell: 2
+Mattis Tell: 2
+Mattisthel: 1
+Mauricio Pochettino: 1
+Mauricio Posciettino: 1
+Maurizio Pocettino: 1
+Max: 1
+Max Allegri: 1
+Max Eberl: 1
+May United: 55
+Mayonetta: 1
+Mazraoui: 3
+Mazrawi: 6
+McKenney: 1
+Mectomin: 1
+Medina: 1
+Memphis De Pie: 1
+Memphis DePie: 1
+Mendez: 1
+Mendez City: 1
+Mengian: 1
+Meret: 1
+Merino: 10
+Micah Fajé: 1
+Michaelo Moudric: 1
+Michel Arteta: 1
+Michel Artheta: 5
+Michel Merino: 6
+Mifica: 1
+Miguel Gutiérrez: 1
+Mihailo Moudric: 1
+Mika Faier: 2
+Mikau Tadze: 1
+Mike Panders: 3
+Mila Skriniar: 1
+Milan: 39
+Milan-Berteneiro: 1
+Militao: 1
+Milo Scherke: 1
+Miloš Kerkens: 1
+Miquel Artheta: 3
+Miquel Merino: 4
+Miquela Artheta: 1
+Mitoma: 1
+Mo: 4
+Mo Salah: 5
+Mo Simacan: 1
+Modric: 1
+Moise Ken: 1
+Monaco: 4
+Monodion: 1
+Monsala: 1
+Monschi: 1
+Monza: 2
+Moradion: 1
+Morata: 6
+Morgan Gibbs White: 1
+Morodion: 2
+Mosala: 1
+Mosalab: 1
+Motta: 2
+Moucoco: 2
+Moudric: 2
+Moukoko: 1
+Mount: 1
+Mousiala: 1
+Moussala: 2
+Mukoko: 1
+Musialla: 1
+Muzzo: 1
+NAMAR JUNIOR: 1
+Nacho: 1
+Naples: 1
+Napoli: 59
+Napoli PSG: 1
+Narguinuñez: 1
+Naser: 1
+Nata: 1
+Natan: 1
+Nausie Man: 1
+Nene Durgeles: 1
+Neres: 1
+Neshworth: 1
+Neto: 1
+Neum: 1
+Newcastle: 17
+Neymar: 3
+Neymar Jr: 2
+Nice: 2
+Nico: 27
+Nico Gonzalez: 6
+Nico Jackson: 1
+Nico O'Reilly: 1
+Nico Paz: 1
+Nico Reilly: 1
+Nico Riley: 1
+Nico Williams: 23
+Nico pass: 1
+Nicoh: 1
+Nicohilliams: 1
+Nicolò Teta: 1
+Nicopas: 5
+Nicopats: 1
+Nicopaz: 1
+Niko: 1
+Niko Williams: 1
+Nikon: 1
+Nipan: 1
+Noisen: 1
+Noni: 1
+Noni Maduweke: 1
+Nothing Unforest: 1
+Nottingham Forest: 3
+Nudou Mendes: 1
+Nuggets: 1
+Nugolkeeper: 1
+Nuno: 2
+Nuno Mendes: 3
+Nuno Tavares: 1
+Nusa: 1
+Nusair Mazraoui: 2
+Nusair Mazrawi: 1
+Núñez: 1
+O'Realy: 1
+OSM: 1
+Obameyang: 1
+Oka: 2
+Okafour: 1
+Ole Gunnar Solskjaer: 1
+Oli Watkins: 1
+Olise: 1
+Olmo: 5
+Olympiacos: 1
+Olympic: 1
+Olympic Lyon: 2
+Olympic Marcel: 2
+Olympic Marsale: 11
+Olympic Marseille: 1
+Olympique Lyon: 4
+Olympique Marseille: 1
+Omar Berra: 1
+Omar Marmoush: 2
+Omerodion: 4
+Ommorodion: 1
+Omorodion: 1
+Onana: 2
+Onaná: 1
+One Football: 4
+OneFootball: 2
+Onosimen: 1
+Option: 1
+Ortega: 2
+Oscar Bob: 1
+Osiman: 3
+Osimem: 1
+Ossiman: 3
+Ossimen: 2
+Osumen: 1
+Oven: 3
+Oylund: 1
+Ozi Men: 1
+Oziman: 1
+Ozimán: 4
+Ozyman: 6
+Ozymen: 6
+Ozzyman: 1
+PSG: 50
+PSV: 3
+Pablo Torre: 2
+Pacho: 1
+Paixao: 1
+Palace: 3
+Palas: 2
+Palmeiras: 4
+Panders: 1
+Panmecano: 1
+Pao Víctor: 1
+Paolo Fonseca: 1
+Paolo di Bala: 1
+Paris: 12
+Paris Saint Jaman: 1
+Paris Saint-Germain: 21
+Paris Sancho: 1
+Paris, San Germain: 1
+Parma: 2
+Pascal Gross: 1
+Pat Guardiola: 1
+Patino: 1
+Patric Dorgue: 1
+Patrick: 1
+Patrick Dorco: 1
+Patrick Dorcou: 1
+Patrick Dorg: 1
+Patrick Dorgo: 1
+Patrick Dorgu: 5
+Patrick Dorgue: 1
+Paucu Barca: 1
+Paul Pogba: 5
+Paulo: 1
+Paulo de Bala: 1
+Pedri: 4
+Pedro: 1
+Pedro Neto: 3
+Pedroneto: 2
+Pep: 8
+Pep Guardiola: 8
+Petrovic: 2
+Philip Jorgensen: 1
+Philipp Jorgensen: 2
+Pierre Calulu: 1
+Pierre Obameyang: 1
+Piliqueta: 1
+Pimenta: 1
+Pioli: 1
+Playback: 2
+Pocettino: 1
+Pochettino: 1
+Pogba: 5
+Pong: 1
+Porto: 14
+Posciettino: 1
+Poste Coglu: 1
+Postecoglu: 1
+Poubill: 1
+Premier League: 42
+Pro League: 2
+Proton VPN: 6
+ProtonVPN: 2
+Quara: 1
+Quarascalia: 2
+Quarascchelia: 1
+Quaraschkeli: 1
+Quichac Varascalia: 1
+Quichacuara Scalia: 1
+Qwarshkeli: 1
+Rabiot: 5
+Rabiou: 1
+Rafa: 1
+Rafa Ela Pimenta: 1
+Rafa Leal: 1
+Rafa Leao: 1
+Rafael Varan: 1
+Rafaela Pimenta: 1
+Rafinha: 2
+Rahim Sterling: 5
+Raijan Cherki: 1
+Ram: 1
+Ram Steele: 1
+Ram's Day: 1
+Rami Abbas: 1
+Ramos: 3
+Rams: 1
+Ramsdale: 2
+Ramstein: 1
+Randal: 1
+Raoucho: 1
+Rashford: 14
+Rasmus: 1
+Rasmus Hoiland: 1
+Rasmus Oylund: 1
+Raucho: 1
+Raul Asensio: 2
+Raul Sociedad: 1
+Raul Sosietat: 1
+Ray Snelson: 1
+Rayados: 1
+Rayan Cherqui: 1
+Raúl Asensio: 2
+Real: 4
+Real Betis: 4
+Real Leverkusen: 1
+Real Madrid: 90
+Real Sociedad: 11
+Rebulites: 1
+Red Bull: 3
+Red Bull Group: 1
+Red Bull Leipzig: 11
+Red Bull Light Sig: 1
+Red Bull Salzburg: 1
+Reda Belayana: 1
+Redis: 1
+Regissoria: 1
+Reinder: 1
+Reinders: 2
+Ren: 5
+Renato Vega: 3
+Revan Madrid: 1
+Ricardo Calafioli: 2
+Riccardo Calafiore: 3
+Riccardo Calafiori: 1
+Ricci: 1
+Ricci Massara: 1
+Richard Dugues: 1
+Richard Dukes: 1
+Richard Hughes: 1
+Rick: 1
+Rio: 1
+Rio Gumo: 1
+Riz: 1
+Riz James: 1
+Riz Nelson: 1
+Robert Lewandowski: 1
+Roberto De Zerbi: 1
+Roberto Labbe: 1
+Rodri: 4
+Rodrigo: 2
+Rodrigo Góez: 1
+Rodrigo Mora: 1
+Roma: 18
+Romelu: 3
+Romelu Lukaku: 11
+Romero Lukaku: 6
+Rommand: 1
+Ronald Araujo: 3
+Ronald Raucho: 1
+Ronaldo: 3
+Roni Araujo: 1
+Ronny Araujo: 1
+Rosenberg: 1
+Rosiman: 2
+Rosimand: 8
+Rosimann: 1
+Rosimen: 2
+Rosimund: 1
+Ruben: 1
+Ruben Amarim: 1
+Ruben Amorim: 20
+Rud van Nesterloy: 1
+Rud van Nisterloy: 2
+Rudiger: 2
+Rugarte: 1
+Ruinunias: 1
+Rushford: 5
+Ryan Cherokee: 1
+Ryan Cherqui: 1
+Saga: 1
+Saint-Germain: 1
+Saka: 1
+Sala: 2
+Salah: 3
+Salaries: 1
+Salemacers: 1
+Saliba: 6
+Salzburg: 2
+Sam Omordion: 1
+Samo Morodion: 1
+Samo Ommoro Dion: 1
+Samu Omerodion: 2
+Samu Omorodion: 1
+Samuel Dalle: 1
+San Germain: 1
+San Juan Moradion: 1
+San Monodion: 1
+Sanchez: 2
+Sancho: 17
+Sancio: 3
+Sander Berge: 1
+Sanderland: 1
+Sandro Tonali: 1
+Santa: 1
+Santa Becc: 1
+Santa Bex: 2
+Santi Jiménez: 1
+Santiago: 1
+Santiago Jimenez: 1
+Santos: 3
+Saudi: 6
+Saudi Pro League: 2
+Savigno: 1
+Savio: 1
+Schalobar: 1
+Schcugna: 1
+Schesco: 1
+Schilwell: 2
+Scott MacTone: 1
+Scouse: 1
+Scrinia: 1
+Scugna: 1
+Sebastian Hönes: 1
+Selesao: 1
+Sergei: 1
+Sergei Bratcliffe: 1
+Sergei Muratcliffe: 1
+Sergi Ramos: 1
+Sergim Ratcliffe: 1
+Sergio: 2
+Sergio Concey-Sao: 1
+Sergio Ramos: 1
+Sergio Roberto: 1
+Serie A: 9
+Serie B: 1
+Serri Altemira: 1
+Serro Portegno: 1
+Sesco: 1
+Sevilla: 1
+Seydon: 1
+Seysao: 1
+Shabbi Alonso: 1
+Shabby Simons: 1
+Shabi: 1
+Shabi Alonso: 1
+Shabia: 1
+Shabia Alonso: 1
+Shabia Lonso: 3
+Shabia Lonsso: 1
+Shabian Olso: 1
+Shaby: 1
+Shaby Alonso: 1
+Shallow-Barre: 1
+Shallow-Buy: 1
+Shavi Simons: 1
+Silvanovos: 1
+Simacan: 4
+Simeone: 1
+Similan: 1
+Similand: 1
+Simone Insaghi: 1
+Simone Insagi: 2
+Skriniar: 1
+Skuña: 1
+Smith Rowe: 1
+Smithrow: 1
+So Alvarez: 1
+So Canna Bigic: 1
+Sociedad: 1
+Sofia: 1
+Sofian Amrabat: 1
+Sofjan Amrabat: 1
+Solanke: 2
+Soler: 1
+Solere: 1
+Son: 1
+Sorlot: 1
+Sottile: 1
+Southampton: 3
+Sporting: 6
+Spurs: 3
+Stefan Baiczetich: 1
+Stefan Bycetic: 1
+Stefan Ortega: 2
+Stefano Pioli: 1
+Stel: 1
+Sterling: 5
+Strasbourg: 4
+Strikers: 1
+Strudel: 1
+Stuttgart: 2
+Subimendi: 3
+Sufa Moucoco: 1
+Sugawara: 1
+Suley: 1
+Summerville: 1
+Sunderland: 1
+Sverre: 1
+Sverre Nipan: 1
+Takekubo: 1
+Tamia Abram: 1
+Tammy Abrams: 1
+Tant Alexander-Arnold: 1
+Tarky: 1
+Tassari: 1
+Tau: 1
+Telegraph: 1
+Tema Dobbic: 1
+Ten Haag: 1
+Tenag: 1
+Tenhag: 2
+Tenhug: 2
+Tenso Albes: 1
+Teo Hernández: 1
+Terzino: 1
+Teta: 1
+Thiago Mota: 1
+Thiago Motta: 3
+Thibaut Courtois: 1
+Thomas: 1
+Thomas Arauco: 1
+Thomas Araujo: 1
+Thomas Frank: 1
+Thomas Müller: 1
+Thomas Patti: 1
+Thomas Raoucho: 1
+Thomas Tuchel: 4
+Tia Gomotta: 1
+Tiago Motta: 1
+Tibu Kurtua: 1
+Tijani: 1
+Tijani Reinders: 2
+Tijsani Reinders: 1
+Tom: 1
+Tominey: 1
+Tomori: 1
+Tonali: 1
+Tony: 4
+Tony Rudiger: 3
+Torino: 2
+Tosina: 1
+Tottenham: 27
+Trent: 20
+Trent Alexander: 3
+Trent Alexander Arnault: 1
+Trent Alexander Arnold: 3
+Trent Alexander-Arlo: 1
+Trent Alexander-Arnold: 13
+Trent Alexander-Rambel: 1
+Trevo Chaloba: 1
+Trevo Chalobar: 1
+Tribal Chaloba: 1
+Trippier: 1
+Tuchel: 2
+Tugarte: 1
+Tyrell: 1
+Tyrell Malasia: 1
+Ugarte: 10
+Ugarte Ugarte: 1
+Ugarthe: 4
+Ugo Viana: 1
+Unai: 1
+Unai Emery: 5
+Unaiemeri: 2
+United: 83
+Ure Yemery: 1
+Usair Mazrawi: 1
+Usman Dembélé: 1
+Valencia: 5
+Valentin Carboni: 2
+Valladolid: 1
+Van Dijk: 2
+Van Nisterloy: 1
+Vanderson: 1
+Varan: 1
+Varela: 1
+Vaya: 1
+Veers: 1
+Verkusten: 1
+Vicenza: 1
+Victor: 3
+Victor Boniface: 3
+Victor Diocres: 1
+Victor Giocares: 1
+Victor Gjoklis: 1
+Victor Gjokores: 2
+Victor Onosimen: 1
+Victor Osiman: 1
+Victor Ossiman: 2
+Victor Ossimen: 2
+Victor Ozi Men: 1
+Victor Oziman: 1
+Victor Ozimán: 3
+Victor Ozyman: 4
+Victor Ozymen: 2
+Victor Ozzyman: 1
+Victor Rosiman: 3
+Victor Rosimand: 4
+Victor Rosimann: 1
+Victor Rosimen: 2
+Victor Zivane: 1
+Victor ozimen: 1
+Victoros: 1
+Vierce: 1
+Viktor Gjokoress: 1
+Viktor Osumen: 1
+Viktor Ozimán: 1
+Vila: 1
+Villa: 10
+Villarreal: 2
+Villas-Bosch: 1
+Vincent Company: 4
+Vinic: 4
+Vinicius: 5
+Vinicius Jr: 5
+Virgil: 5
+Virgil van Dijk: 8
+Virts: 2
+Vito Reis: 1
+Vito Reyes: 1
+Vito Roque: 5
+Vitor: 1
+Vitor Osimem: 1
+Vitor Reis: 1
+Vitor Roque: 1
+Vitorroca: 1
+Vittigna: 2
+WANBISACA: 1
+Wahi: 1
+Waleitihad: 1
+Walker: 3
+Wambisaka: 4
+Wanbisaka: 1
+Waneri: 2
+Watkins: 4
+Weirce: 1
+Wesley: 2
+Wesley Fofana: 1
+West End: 2
+West Ham: 9
+West Hem: 1
+Westem: 2
+Westemar: 1
+Wilhelm Esteval: 1
+Will: 1
+William: 1
+William Estebao: 1
+William Estevo: 1
+William Pacho: 1
+William Saliba: 6
+Williams: 2
+Willy: 2
+Willy Cambuala: 1
+Willy Cambuola: 1
+Winger: 1
+Wirth: 1
+Wojciech Chesny: 1
+Wolverhampton: 1
+Wolves: 8
+Wombisaka: 1
+Wunderberg: 1
+Xabi: 1
+Xabi Alonso: 1
+Xavi: 1
+Xavi Simons: 3
+Yano Black: 1
+YouTube: 1
+Ypswich Town: 1
+Yuma Bah: 1
+Zaghi: 1
+Zaleschi: 1
+Zavarni: 1
+Zed: 1
+Zegrova: 2
+Zered: 1
+Zeredue: 1
+Zierze: 3
+Zilder: 1
+Zirte: 1
+Zirz: 2
+Zivane: 1
+Zubi Mendi: 1
+Zubimendi: 9
+Zvonsi Football Club: 1
+araujo: 1
+arsenal: 2
+aston villa: 1
+atleti: 1
+atletico: 1
+atletico Madrid: 1
+bar mount: 1
+barca: 1
+barcelo: 1
+barça: 1
+benjamin: 1
+brahindias: 1
+broya: 1
+byron: 1
+carateta: 1
+casemiro: 1
+champions league: 2
+chelsea: 1
+chiusa: 1
+danie olmo: 1
+de Bala: 1
+de Rossi: 1
+deligt: 1
+hug: 1
+iCAP Athens: 1
+isak: 1
+john duran: 1
+jonathan: 1
+juventus: 1
+lucacu: 1
+matchday: 1
+may United: 1
+may united: 3
+men city: 1
+napoli: 1
+nashworth: 1
+nico gonzalez: 1
+osiman: 1
+ozyman: 1
+paul victor: 1
+proton VPN: 1
+romero lucacu: 1
+ronaldo: 1
+ronaldo araujo: 1
+sancho: 1
+sander berge: 1
+schesco: 1
+secu conne: 1
+shallow: 1
+sporting: 2
+the Alps Sociedad: 1
+the Brazilian Federation: 4
+the Champions League: 7
+the Premier League: 7
+the Rash Ward: 1
+the Red Bull Group: 1
+the Santa Bex: 1
+the Saudi Pro League: 1
+the Serie A: 1
+united: 10
+van Dijk: 6
+van Nesterloy: 1
+victor osiman: 1
+Álvarez: 1
+Álvaro Carreras: 1
+Álvaro Fernández: 1
