@@ -15,7 +15,7 @@ def load_song_metadata(path="./date/songs_metadata.json"):
         logging.error(f"Metadata file not found at {path}")
         return {}
 
-def update_video_data_with_fuzzy_match(metadata, directory="./video_data", cutoff=0.8):
+def update_video_data_with_fuzzy_match(metadata, directory="./video_data/fiha khir", cutoff=0.8):
     files = [f for f in os.listdir(directory) if f.lower().endswith(".json")]
     total = len(files)
     start_time = time()
