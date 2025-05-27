@@ -1,0 +1,1976 @@
+PlayerName,Post,Age,MarketValue,Nationality,Left,TeamJoined,Fee
+Kylian Mbappé,Centre-Forward,25,180.00m,France,Paris Saint-Germain,Real Madrid,free transfer
+Victor Osimhen,Centre-Forward,25,100.00m,Nigeria,SSC Napoli,Galatasaray,loan transfer
+Julián Alvarez,Centre-Forward,24,90.00m,Argentina,Manchester City,Atlético de Madrid,75.00m
+Khvicha Kvaratskhelia,Left Winger,23,85.00m,Georgia,SSC Napoli,Paris Saint-Germain,70.00m
+Xavi Simons,Attacking Midfield,21,80.00m,Netherlands,Paris Saint-Germain,RB Leipzig,50.00m
+Jhon Durán,Centre-Forward,21,40.00m,Colombia,Aston Villa,Al-Nassr FC,0
+Omar Marmoush,Centre-Forward,25,60.00m,Egypt,Eintracht Frankfurt,Manchester City,0
+Douglas Luiz,Central Midfield,26,70.00m,Brazil,Aston Villa,Juventus FC,51.50m
+Matthijs de Ligt,Centre-Back,25,65.00m,Netherlands,Bayern Munich,Manchester United,45.00m
+Dominic Solanke,Centre-Forward,26,40.00m,England,AFC Bournemouth,Tottenham Hotspur,0
+Leny Yoro,Centre-Back,18,50.00m,France,LOSC Lille,Manchester United,0
+Nico González,Central Midfield,23,18.00m,Spain,FC Porto,Manchester City,0
+Pedro Neto,Right Winger,24,55.00m,Portugal,Wolverhampton Wanderers,Chelsea FC,0
+Moussa Diaby,Right Winger,25,55.00m,France,Aston Villa,Al-Ittihad Club,0
+Dani Olmo,Attacking Midfield,26,60.00m,Spain,RB Leipzig,FC Barcelona,55.00m
+Endrick,Centre-Forward,18,60.00m,Brazil,Sociedade Esportiva Palmeiras,Real Madrid,47.50m
+João Neves,Defensive Midfield,19,55.00m,Portugal,SL Benfica,Paris Saint-Germain,0
+Amadou Onana,Defensive Midfield,22,50.00m,Belgium,Everton FC,Aston Villa,0
+Teun Koopmeiners,Attacking Midfield,26,50.00m,Netherlands,Atalanta BC,Juventus FC,0
+Michael Olise,Right Winger,22,55.00m,France,Crystal Palace,Bayern Munich,53.00m
+João Palhinha,Defensive Midfield,29,55.00m,Portugal,Fulham FC,Bayern Munich,51.00m
+Marcus Rashford,Left Winger,27,55.00m,England,Manchester United,Aston Villa,loan transfer
+João Félix,Second Striker,24,30.00m,Portugal,Atlético de Madrid,Chelsea FC,0
+Désiré Doué,Right Winger,19,30.00m,France,Stade Rennais FC,Paris Saint-Germain,0
+Manuel Ugarte,Defensive Midfield,23,45.00m,Uruguay,Paris Saint-Germain,Manchester United,0
+Galeno,Left Winger,27,27.00m,Brazil,FC Porto,Al-Ahli SFC,0
+Joshua Zirkzee,Centre-Forward,23,50.00m,Netherlands,Bologna FC 1909,Manchester United,42.50m
+Conor Gallagher,Central Midfield,24,50.00m,England,Chelsea FC,Atlético de Madrid,42.00m
+Ivan Toney,Centre-Forward,28,50.00m,England,Brentford FC,Al-Ahli SFC,42.00m
+Mikel Merino,Central Midfield,28,50.00m,Spain,Real Sociedad,Arsenal FC,32.00m
+Savinho,Right Winger,20,50.00m,Brazil,ESTAC Troyes,Manchester City,25.00m
+Maximilian Kilman,Centre-Back,27,32.00m,England,Wolverhampton Wanderers,West Ham United,0
+Georginio Rutter,Centre-Forward,22,18.00m,France,Leeds United,Brighton & Hove Albion,0
+Riccardo Calafiori,Left-Back,22,45.00m,Italy,Bologna FC 1909,Arsenal FC,0
+Giorgi Mamardashvili,Goalkeeper,23,45.00m,Georgia,Valencia CF,Liverpool FC,30.00m
+Giorgi Mamardashvili,Goalkeeper,23,45.00m,Georgia,Liverpool FC,Valencia CF,loan transfer
+Ian Maatsen,Left-Back,22,40.00m,Netherlands,Chelsea FC,Aston Villa,0
+Archie Gray,Centre-Back,18,18.00m,England,Leeds United,Tottenham Hotspur,0
+Elliot Anderson,Central Midfield,21,15.00m,England,Newcastle United,Nottingham Forest,0
+Abdukodir Khusanov,Centre-Back,20,12.00m,Uzbekistan,RC Lens,Manchester City,0
+Willian Pacho,Centre-Back,22,35.00m,Ecuador,Eintracht Frankfurt,Paris Saint-Germain,0
+Marcos Leonardo,Centre-Forward,21,25.00m,Brazil,SL Benfica,Al-Hilal SFC,0
+Robin Le Normand,Centre-Back,27,40.00m,Spain,Real Sociedad,Atlético de Madrid,34.50m
+Serhou Guirassy,Centre-Forward,28,40.00m,Guinea,VfB Stuttgart,Borussia Dortmund,18.00m
+Evan Ferguson,Centre-Forward,20,40.00m,Ireland,Brighton & Hove Albion,West Ham United,loan transfer
+Vitor Reis,Centre-Back,19,14.00m,Brazil,Sociedade Esportiva Palmeiras,Manchester City,0
+Evanilson,Centre-Forward,24,35.00m,Brazil,FC Porto,AFC Bournemouth,0
+Santiago Gimenez,Centre-Forward,23,37.00m,Mexico,Feyenoord Rotterdam,AC Milan,32.00m
+Kiernan Dewsbury-Hall,Central Midfield,25,30.00m,England,Leicester City,Chelsea FC,0
+Yankuba Minteh,Right Winger,19,16.00m,The Gambia,Newcastle United,Brighton & Hove Albion,0
+Alessandro Buongiorno,Centre-Back,25,35.00m,Italy,Torino FC,SSC Napoli,0
+Mohamed Simakan,Centre-Back,24,35.00m,France,RB Leipzig,Al-Nassr FC,0
+David Raya,Goalkeeper,28,35.00m,Spain,Brentford FC,Arsenal FC,31.90m
+Davide Frattesi,Central Midfield,24,35.00m,Italy,US Sassuolo,Inter Milan,31.40m
+Artem Dovbyk,Centre-Forward,27,35.00m,Ukraine,Girona FC,AS Roma,30.50m
+Joachim Andersen,Centre-Back,28,35.00m,Denmark,Crystal Palace,Fulham FC,29.50m
+Elye Wahi,Centre-Forward,21,35.00m,France,RC Lens,Olympique Marseille,27.00m
+Khéphren Thuram,Central Midfield,23,35.00m,France,OGC Nice,Juventus FC,20.60m
+Samu Aghehowa,Centre-Forward,20,35.00m,Spain,Atlético de Madrid,FC Porto,20.00m
+Federico Chiesa,Right Winger,26,35.00m,Italy,Juventus FC,Liverpool FC,12.00m
+Nico González,Right Winger,26,35.00m,Argentina,ACF Fiorentina,Juventus FC,Loan fee:8.40m
+Odilon Kossounou,Centre-Back,23,35.00m,Cote d'Ivoire,Bayer 04 Leverkusen,Atalanta BC,Loan fee:5.20m
+Raheem Sterling,Right Winger,29,35.00m,England,Chelsea FC,Arsenal FC,loan transfer
+Jean-Clair Todibo,Centre-Back,24,35.00m,France,OGC Nice,West Ham United,loan transfer
+Nayef Aguerd,Centre-Back,28,35.00m,Morocco,West Ham United,Real Sociedad,loan transfer
+Charles De Ketelaere,Attacking Midfield,23,34.00m,Belgium,AC Milan,Atalanta BC,23.20m
+Lewis Hall,Left-Back,19,18.00m,England,Chelsea FC,Newcastle United,0
+Luiz Henrique,Right Winger,24,22.00m,Brazil,Botafogo de Futebol e Regatas,Zenit St. Petersburg,0
+Igor Thiago,Centre-Forward,23,25.00m,Brazil,Club Brugge KV,Brentford FC,0
+Alexander Sørloth,Centre-Forward,28,25.00m,Norway,Villarreal CF,Atlético de Madrid,0
+Mats Wieffer,Defensive Midfield,24,30.00m,Netherlands,Feyenoord Rotterdam,Brighton & Hove Albion,0
+Scott McTominay,Central Midfield,27,32.00m,Scotland,Manchester United,SSC Napoli,30.50m
+Lutsharel Geertruida,Right-Back,24,32.00m,Netherlands,Feyenoord Rotterdam,RB Leipzig,20.00m
+Moussa Niakhaté,Centre-Back,28,16.00m,Senegal,Nottingham Forest,Olympique Lyon,0
+Emile Smith Rowe,Attacking Midfield,24,22.00m,England,Arsenal FC,Fulham FC,0
+Patrick Dorgu,Left Midfield,20,20.00m,Denmark,US Lecce,Manchester United,0
+Ferdi Kadıoğlu,Left-Back,24,30.00m,Türkiye,Fenerbahce,Brighton & Hove Albion,0
+Romelu Lukaku,Centre-Forward,31,30.00m,Belgium,Chelsea FC,SSC Napoli,0
+Eddie Nketiah,Centre-Forward,25,30.00m,England,Arsenal FC,Crystal Palace,29.70m
+Maximilian Beier,Centre-Forward,21,30.00m,Germany,TSG 1899 Hoffenheim,Borussia Dortmund,28.50m
+Hiroki Ito,Centre-Back,25,30.00m,Japan,VfB Stuttgart,Bayern Munich,23.50m
+Bilal El Khannouss,Attacking Midfield,20,30.00m,Morocco,KRC Genk,Leicester City,22.50m
+Youssouf Fofana,Defensive Midfield,25,30.00m,France,AS Monaco,AC Milan,20.00m
+Noussair Mazraoui,Right-Back,26,30.00m,Morocco,Bayern Munich,Manchester United,15.00m
+Mathys Tel,Centre-Forward,19,30.00m,France,Bayern Munich,Tottenham Hotspur,Loan fee:10.00m
+Axel Disasi,Right-Back,26,30.00m,France,Chelsea FC,Aston Villa,Loan fee:6.00m
+Albert Gudmundsson,Second Striker,27,30.00m,Iceland,Genoa CFC,ACF Fiorentina,Loan fee:5.85m
+João Félix,Second Striker,25,30.00m,Portugal,Chelsea FC,AC Milan,Loan fee:5.50m
+Randal Kolo Muani,Centre-Forward,26,30.00m,France,Paris Saint-Germain,Juventus FC,Loan fee:3.60m
+Tammy Abraham,Centre-Forward,26,30.00m,England,AS Roma,AC Milan,Loan fee:1.50m
+Vitor Roque,Centre-Forward,19,30.00m,Brazil,FC Barcelona,Real Betis Balompié,loan transfer
+Jadon Sancho,Left Winger,24,30.00m,England,Manchester United,Chelsea FC,loan transfer
+Matt O'Riley,Central Midfield,23,20.00m,Denmark,Celtic FC,Brighton & Hove Albion,0
+Wilson Odobert,Right Winger,19,10.00m,France,Burnley FC,Tottenham Hotspur,0
+Crysencio Summerville,Left Winger,22,20.00m,Netherlands,Leeds United,West Ham United,0
+Moteb Al-Harbi,Left-Back,24,800k,Saudi Arabia,Al-Shabab FC,Al-Hilal SFC,0
+Ernest Nuamah,Right Winger,20,18.00m,Ghana,RWD Molenbeek,Olympique Lyon,0
+David Neres,Left Winger,27,25.00m,Brazil,SL Benfica,SSC Napoli,0
+Donyell Malen,Right Winger,25,28.00m,Netherlands,Borussia Dortmund,Aston Villa,25.00m
+Ermedin Demirovic,Centre-Forward,26,28.00m,Bosnia-Herzegovina,FC Augsburg,VfB Stuttgart,23.00m
+Niclas Füllkrug,Centre-Forward,31,15.00m,Germany,Borussia Dortmund,West Ham United,0
+Thiago Almada,Attacking Midfield,23,27.00m,Argentina,Atlanta United FC,Botafogo de Futebol e Regatas,19.50m
+Thiago Almada,Attacking Midfield,23,27.00m,Argentina,Botafogo de Futebol e Regatas,Olympique Lyon,loan transfer
+Deniz Undav,Centre-Forward,28,25.00m,Germany,Brighton & Hove Albion,VfB Stuttgart,0
+Mason Greenwood,Right Winger,22,25.00m,England,Manchester United,Olympique Marseille,0
+Matías Soulé,Right Winger,21,25.00m,Argentina,Juventus FC,AS Roma,0
+Vitor Roque,Centre-Forward,20,20.00m,Brazil,FC Barcelona,Sociedade Esportiva Palmeiras,0
+Elye Wahi,Centre-Forward,22,25.00m,France,Olympique Marseille,Eintracht Frankfurt,0
+João Cancelo,Right-Back,30,25.00m,Portugal,Manchester City,Al-Hilal SFC,0
+Stefanos Tzimas,Centre-Forward,19,10.00m,Greece,1.FC Nuremberg,Brighton & Hove Albion,0
+André,Defensive Midfield,23,25.00m,Brazil,Fluminense Football Club,Wolverhampton Wanderers,22.00m
+Aaron Ramsdale,Goalkeeper,26,25.00m,England,Arsenal FC,Southampton FC,21.40m
+Strahinja Pavlović,Centre-Back,23,25.00m,Serbia,Red Bull Salzburg,AC Milan,18.00m
+Aleix García,Central Midfield,27,25.00m,Spain,Girona FC,Bayer 04 Leverkusen,18.00m
+Vangelis Pavlidis,Centre-Forward,25,25.00m,Greece,AZ Alkmaar,SL Benfica,18.00m
+Mattéo Guendouzi,Central Midfield,25,25.00m,France,Olympique Marseille,SS Lazio,13.00m
+Yan Couto,Right-Back,22,25.00m,Brazil,Manchester City,Borussia Dortmund,Loan fee:4.00m
+Jørgen Strand Larsen,Centre-Forward,24,25.00m,Norway,Celta de Vigo,Wolverhampton Wanderers,Loan fee:3.00m
+Arthur Vermeeren,Defensive Midfield,19,25.00m,Belgium,Atlético de Madrid,RB Leipzig,Loan fee:3.00m
+Kevin Danso,Centre-Back,26,25.00m,Austria,RC Lens,Tottenham Hotspur,loan transfer
+Lesley Ugochukwu,Defensive Midfield,20,25.00m,France,Chelsea FC,Southampton FC,loan transfer
+Kalvin Phillips,Defensive Midfield,28,25.00m,England,Manchester City,Ipswich Town,loan transfer
+Kurt Zouma,Centre-Back,29,25.00m,France,West Ham United,Al-Orobah FC,loan transfer
+Luis Guilherme,Right Winger,18,24.00m,Brazil,Sociedade Esportiva Palmeiras,West Ham United,23.00m
+Jaden Philogene,Left Winger,22,15.00m,England,Aston Villa,Ipswich Town,0
+Odysseas Vlachodimos,Goalkeeper,30,7.00m,Greece,Nottingham Forest,Newcastle United,0
+Sepp van den Berg,Centre-Back,22,12.00m,Netherlands,Liverpool FC,Brentford FC,0
+Sander Berge,Defensive Midfield,26,20.00m,Norway,Burnley FC,Fulham FC,0
+Omari Hutchinson,Attacking Midfield,20,7.00m,England,Chelsea FC,Ipswich Town,0
+Oliver Skipp,Defensive Midfield,23,15.00m,England,Tottenham Hotspur,Leicester City,0
+Luis Sinisterra,Left Winger,25,17.00m,Colombia,Leeds United,AFC Bournemouth,0
+Orel Mangala,Defensive Midfield,26,20.00m,Belgium,Nottingham Forest,Olympique Lyon,0
+Fábio Carvalho,Attacking Midfield,21,14.00m,Portugal,Liverpool FC,Brentford FC,0
+Enzo Le Fée,Central Midfield,24,18.00m,France,Stade Rennais FC,AS Roma,0
+Taylor Harwood-Bellis,Centre-Back,22,22.00m,England,Manchester City,Southampton FC,0
+Waldemar Anton,Centre-Back,27,20.00m,Germany,VfB Stuttgart,Borussia Dortmund,0
+Omari Kellyman,Attacking Midfield,18,1.00m,England,Aston Villa U21,Chelsea FC,0
+Raoul Bellanova,Right Midfield,24,15.00m,Italy,Torino FC,Atalanta BC,0
+Carlos Augusto,Left-Back,25,22.00m,Brazil,AC Monza,Inter Milan,13.25m
+Francisco Conceição,Right Winger,21,22.00m,Portugal,Ajax Amsterdam,FC Porto,10.24m
+Francisco Conceição,Right Winger,21,22.00m,Portugal,FC Porto,Juventus FC,Loan fee:7.00m
+Jesper Lindstrøm,Right Winger,24,22.00m,Denmark,SSC Napoli,Everton FC,Loan fee:2.00m
+Sofyan Amrabat,Defensive Midfield,28,22.00m,Morocco,ACF Fiorentina,Fenerbahce,Loan fee:2.00m
+Fábio Vieira,Attacking Midfield,24,22.00m,Portugal,Arsenal FC,FC Porto,Loan fee:890k
+Armando Broja,Centre-Forward,22,22.00m,Albania,Chelsea FC,Everton FC,loan transfer
+Piotr Zieliński,Central Midfield,30,22.00m,Poland,SSC Napoli,Inter Milan,free transfer
+Sergiño Dest,Right-Back,23,22.00m,United States,FC Barcelona,PSV Eindhoven,free transfer
+Youssoufa Moukoko,Centre-Forward,19,22.00m,Germany,Borussia Dortmund,OGC Nice,loan transfer
+Julio Enciso,Attacking Midfield,21,22.00m,Paraguay,Brighton & Hove Albion,Ipswich Town,loan transfer
+Jacob Greaves,Centre-Back,23,15.00m,England,Hull City,Ipswich Town,0
+Emmanuel Latte Lath,Centre-Forward,26,10.00m,Cote d'Ivoire,Middlesbrough FC,Atlanta United FC,0
+Steven Bergwijn,Left Winger,26,18.00m,Netherlands,Ajax Amsterdam,Al-Ittihad Club,0
+Antonio Nusa,Left Winger,19,15.00m,Norway,Club Brugge KV,RB Leipzig,0
+Brajan Gruda,Right Winger,20,20.00m,Germany,1.FSV Mainz 05,Brighton & Hove Albion,0
+Filip Jørgensen,Goalkeeper,22,20.00m,Denmark,Villarreal CF,Chelsea FC,0
+Martin Terrier,Left Winger,27,20.00m,France,Stade Rennais FC,Bayer 04 Leverkusen,0
+Seko Fofana,Central Midfield,29,12.00m,Cote d'Ivoire,Al-Nassr FC,Stade Rennais FC,0
+Emmanuel Agbadou,Centre-Back,27,10.00m,Cote d'Ivoire,Stade Reims,Wolverhampton Wanderers,0
+Matvey Safonov,Goalkeeper,25,20.00m,Russia,FC Krasnodar,Paris Saint-Germain,0
+Mike Penders,Goalkeeper,19,1.00m,Belgium,KRC Genk,Chelsea FC,0
+Claudinho,Attacking Midfield,27,17.00m,Brazil,Zenit St. Petersburg,Al-Sadd SC,0
+Orri Óskarsson,Centre-Forward,20,5.00m,Iceland,FC Copenhagen,Real Sociedad,0
+Youssef En-Nesyri,Centre-Forward,27,20.00m,Morocco,Sevilla FC,Fenerbahce,19.50m
+Amine Gouiri,Centre-Forward,24,20.00m,Algeria,Stade Rennais FC,Olympique Marseille,19.00m
+Georges Mikautadze,Centre-Forward,23,20.00m,Georgia,FC Metz,Olympique Lyon,18.50m
+Manu Koné,Central Midfield,23,20.00m,France,Borussia Mönchengladbach,AS Roma,18.00m
+Maxence Lacroix,Centre-Back,24,20.00m,France,VfL Wolfsburg,Crystal Palace,18.00m
+Aaron Wan-Bissaka,Right-Back,26,20.00m,DR Congo,Manchester United,West Ham United,17.60m
+Hugo Ekitiké,Centre-Forward,22,20.00m,France,Paris Saint-Germain,Eintracht Frankfurt,16.50m
+Mohamed Camara,Defensive Midfield,24,20.00m,Mali,AS Monaco,Al-Sadd SC,16.50m
+Saïd Benrahma,Left Winger,28,20.00m,Algeria,West Ham United,Olympique Lyon,14.40m
+Arthur Theate,Centre-Back,24,20.00m,Belgium,Stade Rennais FC,Eintracht Frankfurt,13.00m
+Malik Tillman,Attacking Midfield,22,20.00m,United States,Bayern Munich,PSV Eindhoven,12.00m
+Lazar Samardžić,Central Midfield,22,20.00m,Serbia,Udinese Calcio,Atalanta BC,Loan fee:5.00m
+Pierre Kalulu,Centre-Back,24,20.00m,France,AC Milan,Juventus FC,Loan fee:3.30m
+Nicolò Zaniolo,Attacking Midfield,25,20.00m,Italy,Galatasaray,Atalanta BC,Loan fee:3.20m
+Nicolò Fagioli,Central Midfield,23,20.00m,Italy,Juventus FC,ACF Fiorentina,Loan fee:2.50m
+El Bilal Touré,Centre-Forward,22,20.00m,Mali,Atalanta BC,VfB Stuttgart,Loan fee:950k
+Arthur Theate,Centre-Back,24,20.00m,Belgium,Stade Rennais FC,Eintracht Frankfurt,loan transfer
+Orel Mangala,Defensive Midfield,26,20.00m,Belgium,Olympique Lyon,Everton FC,loan transfer
+Antony,Right Winger,24,20.00m,Brazil,Manchester United,Real Betis Balompié,loan transfer
+Guido Rodríguez,Defensive Midfield,30,20.00m,Argentina,Real Betis Balompié,West Ham United,free transfer
+Carlos Soler,Central Midfield,27,20.00m,Spain,Paris Saint-Germain,West Ham United,loan transfer
+Marco Asensio,Attacking Midfield,29,20.00m,Spain,Paris Saint-Germain,Aston Villa,loan transfer
+Tosin Adarabioyo,Centre-Back,26,20.00m,England,Fulham FC,Chelsea FC,free transfer
+Djordje Petrovic,Goalkeeper,24,20.00m,Serbia,Chelsea FC,RC Strasbourg Alsace,loan transfer
+Ben Chilwell,Left-Back,28,20.00m,England,Chelsea FC,Crystal Palace,loan transfer
+Raphaël Varane,Centre-Back,31,20.00m,France,Manchester United,Como 1907,free transfer
+Dean Huijsen,Centre-Back,19,10.00m,Spain,Juventus FC,AFC Bournemouth,0
+Jake O'Brien,Right-Back,23,12.00m,Ireland,Olympique Lyon,Everton FC,0
+Ibrahim Osman,Left Winger,19,12.00m,Ghana,FC Nordsjaelland,Brighton & Hove Albion,0
+Conrad Harder,Centre-Forward,19,2.00m,Denmark,FC Nordsjaelland,Sporting CP,0
+George Ilenikhena,Centre-Forward,17,10.00m,Nigeria,Royal Antwerp FC,AS Monaco,0
+Levi García,Centre-Forward,27,15.00m,Trinidad and Tobago,AEK Athens,Spartak Moscow,0
+Ezequiel Fernández,Defensive Midfield,22,14.00m,Argentina,CA Boca Juniors,Al-Qadsiah FC,0
+Stefanos Tzimas,Centre-Forward,19,10.00m,Greece,PAOK Thessaloniki,1.FC Nuremberg,0
+Iliman Ndiaye,Left Winger,24,15.00m,Senegal,Olympique Marseille,Everton FC,0
+Gabriel Sara,Central Midfield,25,18.00m,Brazil,Norwich City,Galatasaray,0
+Adam Hlozek,Second Striker,22,12.00m,Czech Republic,Bayer 04 Leverkusen,TSG 1899 Hoffenheim,0
+Marshall Munetsi,Central Midfield,28,10.00m,Zimbabwe,Stade Reims,Wolverhampton Wanderers,0
+Carlos Alcaraz,Central Midfield,21,15.00m,Argentina,Southampton FC,CR Flamengo,0
+Paulinho,Left Winger,24,17.00m,Brazil,Clube Atlético Mineiro,Sociedade Esportiva Palmeiras,0
+Logan Costa,Centre-Back,23,12.00m,Cape Verde,FC Toulouse,Villarreal CF,0
+Mike Trésor,Left Winger,25,12.00m,Belgium,KRC Genk,Burnley FC,0
+Yáser Asprilla,Right Winger,20,9.00m,Colombia,Watford FC,Girona FC,0
+Bento,Goalkeeper,25,15.00m,Brazil,Club Athletico Paranaense,Al-Nassr FC,0
+Wesley,Left Winger,19,10.00m,Brazil,Sport Club Corinthians Paulista,Al-Nassr FC,0
+Enes Ünal,Centre-Forward,27,18.00m,Türkiye,Getafe CF,AFC Bournemouth,16.50m
+Zeno Debast,Centre-Back,20,18.00m,Belgium,RSC Anderlecht,Sporting CP,15.50m
+Emerson Royal,Right-Back,25,18.00m,Brazil,Tottenham Hotspur,AC Milan,15.00m
+Ismaïla Sarr,Attacking Midfield,26,18.00m,Senegal,Olympique Marseille,Crystal Palace,15.00m
+Thijs Dallinga,Centre-Forward,23,18.00m,Netherlands,FC Toulouse,Bologna FC 1909,15.00m
+Billy Gilmour,Defensive Midfield,23,18.00m,Scotland,Brighton & Hove Albion,SSC Napoli,14.00m
+Cucho Hernández,Centre-Forward,25,18.00m,Colombia,Columbus Crew,Real Betis Balompié,13.00m
+Jordan Teze,Right-Back,24,18.00m,Netherlands,PSV Eindhoven,AS Monaco,10.00m
+Benjamin Bourigeaud,Central Midfield,30,18.00m,France,Stade Rennais FC,Al-Duhail SC,10.00m
+Allan Saint-Maximin,Left Winger,27,18.00m,France,Al-Ahli SFC,Fenerbahce,Loan fee:8.00m
+Michele Di Gregorio,Goalkeeper,26,18.00m,Italy,AC Monza,Juventus FC,Loan fee:4.50m
+Andrea Colpani,Attacking Midfield,25,18.00m,Italy,AC Monza,ACF Fiorentina,Loan fee:4.00m
+Lloyd Kelly,Centre-Back,26,18.00m,England,Newcastle United,Juventus FC,Loan fee:3.80m
+Nicolò Zaniolo,Attacking Midfield,25,18.00m,Italy,Galatasaray,ACF Fiorentina,Loan fee:3.20m
+Simon Banza,Centre-Forward,28,18.00m,DR Congo,SC Braga,Trabzonspor,Loan fee:2.00m
+Edoardo Bove,Central Midfield,22,18.00m,Italy,AS Roma,ACF Fiorentina,Loan fee:1.50m
+Michael Kayode,Right-Back,20,18.00m,Italy,ACF Fiorentina,Brentford FC,Loan fee:500k
+Emiliano Buendía,Attacking Midfield,28,18.00m,Argentina,Aston Villa,Bayer 04 Leverkusen,loan transfer
+Robin Koch,Centre-Back,27,18.00m,Germany,Leeds United,Eintracht Frankfurt,free transfer
+Pierre-Emile Højbjerg,Defensive Midfield,28,18.00m,Denmark,Tottenham Hotspur,Olympique Marseille,loan transfer
+Enzo Le Fée,Central Midfield,24,18.00m,France,AS Roma,Sunderland AFC,loan transfer
+Lloyd Kelly,Centre-Back,25,18.00m,England,AFC Bournemouth,Newcastle United,free transfer
+Daichi Kamada,Attacking Midfield,27,18.00m,Japan,SS Lazio,Crystal Palace,free transfer
+Facundo Buonanotte,Attacking Midfield,19,18.00m,Argentina,Brighton & Hove Albion,Leicester City,loan transfer
+Liam Delap,Centre-Forward,21,8.00m,England,Manchester City U21,Ipswich Town,0
+Jack Clarke,Left Winger,23,15.00m,England,Sunderland AFC,Ipswich Town,0
+Cameron Archer,Centre-Forward,22,13.00m,England,Aston Villa,Southampton FC,0
+Kauã Elias,Centre-Forward,18,9.00m,Brazil,Fluminense Football Club,Shakhtar Donetsk,0
+Hamed Junior Traoré,Attacking Midfield,24,17.00m,Cote d'Ivoire,AFC Bournemouth,AJ Auxerre,loan transfer
+Leandro Barreiro,Central Midfield,24,17.00m,Luxembourg,1.FSV Mainz 05,SL Benfica,free transfer
+Cameron Archer,Centre-Forward,22,13.00m,England,Sheffield United,Aston Villa,0
+Antonín Kinský,Goalkeeper,21,12.00m,Czech Republic,SK Slavia Prague,Tottenham Hotspur,0
+Aarón Anselmino,Centre-Back,19,3.00m,Argentina,CA Boca Juniors,Chelsea FC,0
+Mateo Retegui,Centre-Forward,25,16.00m,Italy,Genoa CFC,Atalanta BC,0
+Christian Mawissa,Centre-Back,19,9.00m,France,FC Toulouse,AS Monaco,0
+Jaden Philogene,Left Winger,22,15.00m,England,Hull City,Aston Villa,0
+Andreas Skov Olsen,Right Winger,25,16.00m,Denmark,Club Brugge KV,VfL Wolfsburg,14.00m
+Álvaro Morata,Centre-Forward,31,16.00m,Spain,Atlético de Madrid,AC Milan,13.00m
+Miguel Almirón,Right Winger,30,16.00m,Paraguay,Newcastle United,Atlanta United FC,9.55m
+Giovani Lo Celso,Central Midfield,28,16.00m,Argentina,Tottenham Hotspur,Real Betis Balompié,5.00m
+Mohamed Amoura,Centre-Forward,24,16.00m,Algeria,Union Saint-Gilloise,VfL Wolfsburg,Loan fee:3.00m
+Adam Armstrong,Centre-Forward,27,16.00m,England,Southampton FC,West Bromwich Albion,loan transfer
+Max Aarons,Right-Back,25,16.00m,England,AFC Bournemouth,Valencia CF,loan transfer
+Kévin Denkey,Centre-Forward,24,14.00m,Togo,Cercle Brugge ,FC Cincinnati,0
+Ângelo,Right Winger,19,15.00m,Brazil,Chelsea FC,Al-Nassr FC,0
+Jeanuël Belocian,Centre-Back,19,10.00m,France,Stade Rennais FC,Bayer 04 Leverkusen,0
+Lamine Camara,Central Midfield,20,10.00m,Senegal,FC Metz,AS Monaco,0
+Mateus Fernandes,Central Midfield,20,8.00m,Portugal,Sporting CP,Southampton FC,0
+Marin Pongračić,Centre-Back,26,7.00m,Croatia,US Lecce,ACF Fiorentina,0
+Rodrigo Gomes,Right Midfield,20,12.00m,Portugal,SC Braga,Wolverhampton Wanderers,0
+Álvaro Djaló,Left Winger,24,15.00m,Spain,SC Braga,Athletic Bilbao,0
+Mathis Amougou,Central Midfield,19,5.00m,France,AS Saint-Étienne,Chelsea FC,0
+Chadi Riad,Centre-Back,21,15.00m,Morocco,Real Betis Balompié,Crystal Palace,0
+Maxence Caqueret,Central Midfield,24,15.00m,France,Olympique Lyon,Como 1907,0
+Cameron Puertas,Attacking Midfield,26,15.00m,Spain,Union Saint-Gilloise,Al-Qadsiah FC,0
+Brice Samba,Goalkeeper,30,15.00m,France,RC Lens,Stade Rennais FC,14.00m
+Georges Mikautadze,Centre-Forward,23,15.00m,Georgia,Ajax Amsterdam,FC Metz,13.00m
+Nikola Milenković,Centre-Back,26,15.00m,Serbia,ACF Fiorentina,Nottingham Forest,12.30m
+Kerem Aktürkoğlu,Left Winger,25,15.00m,Türkiye,Galatasaray,SL Benfica,12.00m
+Gastón Álvarez,Centre-Back,24,15.00m,Uruguay,Getafe CF,Al-Qadsiah FC,12.00m
+Morato,Centre-Back,23,15.00m,Brazil,SL Benfica,Nottingham Forest,11.00m
+Luka Sucic,Central Midfield,21,15.00m,Croatia,Red Bull Salzburg,Real Sociedad,10.00m
+Chadi Riad,Centre-Back,21,15.00m,Morocco,FC Barcelona,Real Betis Balompié,9.00m
+Niklas Beste,Left Winger,25,15.00m,Germany,1.FC Heidenheim 1846,SL Benfica,8.00m
+Roland Sallai,Right Winger,27,15.00m,Hungary,SC Freiburg,Galatasaray,6.00m
+Jordan Veretout,Central Midfield,31,15.00m,France,Olympique Marseille,Olympique Lyon,4.00m
+Carney Chukwuemeka,Central Midfield,21,15.00m,England,Chelsea FC,Borussia Dortmund,Loan fee:2.40m
+Andrea Pinamonti,Centre-Forward,25,15.00m,Italy,US Sassuolo,Genoa CFC,Loan fee:2.00m
+Amar Dedic,Right-Back,22,15.00m,Bosnia-Herzegovina,Red Bull Salzburg,Olympique Marseille,1.50m
+Yacine Adli,Defensive Midfield,24,15.00m,France,AC Milan,ACF Fiorentina,Loan fee:1.50m
+Noah Okafor,Left Winger,24,15.00m,Switzerland,AC Milan,SSC Napoli,Loan fee:1.50m
+Valentín Carboni,Attacking Midfield,19,15.00m,Argentina,Inter Milan,Olympique Marseille,Loan fee:1.00m
+Milan Škriniar,Centre-Back,29,15.00m,Slovakia,Paris Saint-Germain,Fenerbahce,loan transfer
+Albert Grønbæk,Attacking Midfield,23,15.00m,Denmark,Stade Rennais FC,Southampton FC,loan transfer
+Neymar,Attacking Midfield,32,15.00m,Brazil,Al-Hilal SFC,Santos FC,free transfer
+Fabio Miretti,Central Midfield,21,15.00m,Italy,Juventus FC,Genoa CFC,loan transfer
+İlkay Gündoğan,Central Midfield,33,15.00m,Germany,FC Barcelona,Manchester City,free transfer
+Albert Sambi Lokonga,Central Midfield,24,15.00m,Belgium,Arsenal FC,Sevilla FC,loan transfer
+Tyrell Malacia,Left-Back,25,15.00m,Netherlands,Manchester United,PSV Eindhoven,loan transfer
+Nuno Tavares,Left-Back,24,15.00m,Portugal,Arsenal FC,SS Lazio,loan transfer
+Ché Adams,Centre-Forward,28,15.00m,Scotland,Southampton FC,Torino FC,free transfer
+Reiss Nelson,Right Winger,24,15.00m,England,Arsenal FC,Fulham FC,loan transfer
+Callum Doyle,Centre-Back,20,15.00m,England,Manchester City U21,Norwich City,loan transfer
+Marcus Edwards,Right Winger,26,15.00m,England,Sporting CP,Burnley FC,loan transfer
+Gabriel Moscardo,Defensive Midfield,18,15.00m,Brazil,Paris Saint-Germain,Stade Reims,loan transfer
+Romain Faivre,Right Midfield,26,15.00m,France,AFC Bournemouth,Stade Brestois 29,loan transfer
+Saïd Benrahma,Left Winger,29,15.00m,Algeria,Olympique Lyon,NEOM SC,loan transfer
+Cristian Medina,Central Midfield,22,12.00m,Argentina,CA Boca Juniors,Club Estudiantes de La Plata,0
+Santiago Rodríguez,Attacking Midfield,25,4.50m,Uruguay,New York City FC,Botafogo de Futebol e Regatas,0
+Dara O'Shea,Centre-Back,25,7.00m,Ireland,Burnley FC,Ipswich Town,0
+Romain Esse,Right Winger,19,5.00m,England,Millwall FC,Crystal Palace,0
+Esequiel Barco,Attacking Midfield,25,9.00m,Argentina,CA River Plate,Spartak Moscow,0
+Samuel Iling-Junior,Left Winger,20,13.00m,England,Juventus FC,Aston Villa,0
+Renato Veiga,Centre-Back,20,3.00m,Portugal,FC Basel 1893,Chelsea FC,0
+Alisson,Right Winger,19,4.50m,Brazil,Clube Atlético Mineiro,Shakhtar Donetsk,0
+Caleb Okoli,Centre-Back,22,8.00m,Italy,Atalanta BC,Leicester City,0
+Thierno Barry,Centre-Forward,21,4.00m,France,FC Basel 1893,Villarreal CF,0
+Moise Kean,Centre-Forward,24,14.00m,Italy,Juventus FC,ACF Fiorentina,13.00m
+Kyogo Furuhashi,Centre-Forward,30,14.00m,Japan,Celtic FC,Stade Rennais FC,12.00m
+Facundo Torres,Left Winger,24,14.00m,Uruguay,Orlando City SC,Sociedade Esportiva Palmeiras,11.50m
+Evander,Attacking Midfield,26,14.00m,Brazil,Portland Timbers,FC Cincinnati,11.50m
+Moatasem Al-Musrati,Defensive Midfield,28,14.00m,Libya,SC Braga,Besiktas JK,11.00m
+Vitinha,Centre-Forward,24,14.00m,Portugal,Olympique Marseille,Genoa CFC,8.30m
+Niklas Beste,Left Winger,26,14.00m,Germany,SL Benfica,SC Freiburg,8.00m
+Nicolò Casale,Centre-Back,26,14.00m,Italy,SS Lazio,Bologna FC 1909,Loan fee:1.50m
+Ismaël Bennacer,Defensive Midfield,27,14.00m,Algeria,AC Milan,Olympique Marseille,Loan fee:1.00m
+Victor Nelsson,Centre-Back,26,14.00m,Denmark,Galatasaray,AS Roma,Loan fee:500k
+Carlos Alcaraz,Central Midfield,22,14.00m,Argentina,CR Flamengo,Everton FC,loan transfer
+Rafa Silva,Second Striker,31,14.00m,Portugal,SL Benfica,Besiktas JK,free transfer
+Gavin Bazunu,Goalkeeper,22,14.00m,Ireland,Southampton FC,Standard Liège,loan transfer
+Philip Billing,Central Midfield,28,14.00m,Denmark,AFC Bournemouth,SSC Napoli,loan transfer
+Bryan Gil,Left Winger,23,14.00m,Spain,Tottenham Hotspur,Girona FC,loan transfer
+Alberto Costa,Right-Back,21,1.00m,Portugal,Vitória Guimarães SC,Juventus FC,0
+Julián Quiñones,Centre-Forward,27,10.00m,Mexico,CF América,Al-Qadsiah FC,0
+Maxi Araújo,Left Midfield,24,7.50m,Uruguay,Deportivo Toluca,Sporting CP,0
+Josep Martínez,Goalkeeper,26,8.00m,Spain,Genoa CFC,Inter Milan,0
+Kamil Grabara,Goalkeeper,25,12.00m,Poland,FC Copenhagen,VfL Wolfsburg,0
+Helinho,Right Winger,24,7.00m,Brazil,Red Bull Bragantino,Deportivo Toluca,0
+Bryan Zaragoza,Left Winger,22,12.00m,Spain,Granada CF,Bayern Munich,0
+Mika Biereth,Centre-Forward,21,13.00m,Denmark,SK Sturm Graz,AS Monaco,0
+Anthony Rouault,Centre-Back,23,10.00m,France,VfB Stuttgart,Stade Rennais FC,0
+Cesare Casadei,Central Midfield,22,10.00m,Italy,Chelsea FC,Torino FC,0
+Eli Junior Kroupi,Centre-Forward,18,10.00m,France,FC Lorient,AFC Bournemouth,0
+Anastasios Douvikas,Centre-Forward,25,5.00m,Greece,Celta de Vigo,Como 1907,0
+Diego Gómez,Central Midfield,21,12.00m,Paraguay,Inter Miami CF,Brighton & Hove Albion,0
+Ramón Sosa,Left Winger,24,13.00m,Paraguay,CA Talleres,Nottingham Forest,12.00m
+Mandela Keita,Defensive Midfield,22,13.00m,Belgium,Royal Antwerp FC,Parma Calcio 1913,11.90m
+Álvaro Morata,Centre-Forward,32,13.00m,Spain,AC Milan,Galatasaray,Loan fee:6.00m
+Mandela Keita,Defensive Midfield,22,13.00m,Belgium,Oud-Heverlee Leuven,Royal Antwerp FC,5.00m
+Daniel Podence,Attacking Midfield,28,13.00m,Portugal,Wolverhampton Wanderers,Al-Shabab FC,5.00m
+Nehuén Pérez,Centre-Back,24,13.00m,Argentina,Udinese Calcio,FC Porto,Loan fee:4.08m
+Valentín Barco,Central Midfield,20,13.00m,Argentina,Brighton & Hove Albion,Sevilla FC,loan transfer
+Manor Solomon,Left Winger,25,13.00m,Israel,Tottenham Hotspur,Leeds United,loan transfer
+Álex Moreno,Left-Back,31,13.00m,Spain,Aston Villa,Nottingham Forest,loan transfer
+Trevoh Chalobah,Centre-Back,25,13.00m,England,Chelsea FC,Crystal Palace,loan transfer
+Samuel Iling-Junior,Left Winger,20,13.00m,England,Aston Villa,Bologna FC 1909,loan transfer
+Arnaut Danjuma,Left Winger,27,13.00m,Netherlands,Villarreal CF,Girona FC,loan transfer
+Juan Cabal,Left-Back,23,3.50m,Colombia,Hellas Verona,Juventus FC,0
+Kevin Castaño,Defensive Midfield,24,6.00m,Colombia,FC Krasnodar,CA River Plate,0
+Ben Godfrey,Centre-Back,26,10.00m,England,Everton FC,Atalanta BC,0
+Albert Grønbæk,Attacking Midfield,23,12.00m,Denmark,FK Bodø/Glimt,Stade Rennais FC,0
+Ismaël Koné,Central Midfield,22,11.00m,Canada,Watford FC,Olympique Marseille,0
+Manu Silva,Defensive Midfield,23,3.00m,Portugal,Vitória Guimarães SC,SL Benfica,0
+Jair Cunha,Centre-Back,19,5.00m,Brazil,Santos FC,Botafogo de Futebol e Regatas,0
+Nasser Djiga,Centre-Back,22,7.00m,Burkina Faso,Red Star Belgrade,Wolverhampton Wanderers,0
+Sékou Mara,Centre-Forward,22,6.00m,France,Southampton FC,RC Strasbourg Alsace,0
+Luciano Gondou,Centre-Forward,23,10.00m,Argentina,AA Argentinos Juniors,Zenit St. Petersburg,0
+Assane Diao,Right Winger,19,9.00m,Senegal,Real Betis Balompié,Como 1907,0
+Luiz Júnior,Goalkeeper,23,6.00m,Brazil,FC Famalicão,Villarreal CF,0
+Maxime Estève,Centre-Back,22,7.00m,France,Montpellier HSC,Burnley FC,0
+Gustavo Nunes,Left Winger,18,10.00m,Brazil,Grêmio Foot-Ball Porto Alegrense,Brentford FC,0
+Rafa Marín,Centre-Back,22,7.50m,Spain,Real Madrid,SSC Napoli,0
+Houssem Aouar,Attacking Midfield,26,10.00m,Algeria,AS Roma,Al-Ittihad Club,0
+Myrto Uzuni,Left Winger,29,5.00m,Albania,Granada CF,Austin FC,0
+Hirving Lozano,Left Winger,29,12.00m,Mexico,PSV Eindhoven,San Diego FC,0
+Can Uzun,Attacking Midfield,18,12.00m,Türkiye,1.FC Nuremberg,Eintracht Frankfurt,11.00m
+David Carmo,Centre-Back,25,12.00m,Angola,FC Porto,Nottingham Forest,11.00m
+Mauricio,Attacking Midfield,23,12.00m,Brazil,Sport Club Internacional,Sociedade Esportiva Palmeiras,10.50m
+Alexander Prass,Left-Back,23,12.00m,Austria,SK Sturm Graz,TSG 1899 Hoffenheim,9.50m
+Ameen Al-Dakhil,Centre-Back,22,12.00m,Belgium,Burnley FC,VfB Stuttgart,9.00m
+Abel Ruiz,Centre-Forward,24,12.00m,Spain,SC Braga,Girona FC,9.00m
+Koni De Winter,Centre-Back,22,12.00m,Belgium,Juventus FC,Genoa CFC,8.00m
+Lorenzo Lucca,Centre-Forward,23,12.00m,Italy,Pisa Sporting Club,Udinese Calcio,8.00m
+Emil Holm,Right-Back,24,12.00m,Sweden,Spezia Calcio,Bologna FC 1909,7.70m
+Yukinari Sugawara,Right-Back,24,12.00m,Japan,AZ Alkmaar,Southampton FC,7.00m
+Jota Silva,Right Winger,25,12.00m,Portugal,Vitória Guimarães SC,Nottingham Forest,7.00m
+Devyne Rensch,Right-Back,22,12.00m,Netherlands,Ajax Amsterdam,AS Roma,5.00m
+Eren Dinkçi,Right Winger,22,12.00m,Türkiye,SV Werder Bremen,SC Freiburg,5.00m
+Jonathan Clauss,Right-Back,31,12.00m,France,Olympique Marseille,OGC Nice,5.00m
+Zeki Amdouni,Centre-Forward,23,12.00m,Switzerland,Burnley FC,SL Benfica,Loan fee:2.00m
+Natan,Centre-Back,23,12.00m,Brazil,SSC Napoli,Real Betis Balompié,Loan fee:1.00m
+Ismaël Koné,Central Midfield,22,12.00m,Canada,Olympique Marseille,Stade Rennais FC,Loan fee:1.00m
+Robin Gosens,Left-Back,30,12.00m,Germany,1.FC Union Berlin,ACF Fiorentina,Loan fee:750k
+Neal Maupay,Centre-Forward,28,12.00m,France,Everton FC,Olympique Marseille,Loan fee:500k
+Azzedine Ounahi,Central Midfield,24,12.00m,Morocco,Olympique Marseille,Panathinaikos FC,Loan fee:500k
+Bryan Zaragoza,Left Winger,22,12.00m,Spain,Bayern Munich,CA Osasuna,Loan fee:250k
+Alexis Saelemaekers,Right Winger,25,12.00m,Belgium,AC Milan,AS Roma,loan transfer
+Eric Dier,Centre-Back,30,12.00m,England,Tottenham Hotspur,Bayern Munich,free transfer
+Talisca,Attacking Midfield,30,12.00m,Brazil,Al-Nassr FC,Fenerbahce,free transfer
+Mads Roerslev,Right-Back,25,12.00m,Denmark,Brentford FC,VfL Wolfsburg,loan transfer
+Ibrahim Osman,Left Winger,19,12.00m,Ghana,Brighton & Hove Albion,Feyenoord Rotterdam,loan transfer
+Lilian Brassier,Centre-Back,24,12.00m,France,Stade Brestois 29,Olympique Marseille,loan transfer
+Kelechi Iheanacho,Centre-Forward,27,12.00m,Nigeria,Leicester City,Sevilla FC,free transfer
+Eljif Elmas,Attacking Midfield,25,12.00m,North Macedonia,RB Leipzig,Torino FC,loan transfer
+David Carmo,Centre-Back,25,12.00m,Angola,Nottingham Forest,Olympiacos Piraeus,loan transfer
+Tiago Djaló,Centre-Back,24,12.00m,Portugal,Juventus FC,FC Porto,loan transfer
+Kepa Arrizabalaga,Goalkeeper,29,12.00m,Spain,Chelsea FC,AFC Bournemouth,loan transfer
+David Datro Fofana,Centre-Forward,21,12.00m,Cote d'Ivoire,Chelsea FC,Göztepe,loan transfer
+Sam Johnstone,Goalkeeper,31,10.00m,England,Crystal Palace,Wolverhampton Wanderers,0
+Tom Cannon,Centre-Forward,22,6.00m,Ireland,Leicester City,Sheffield United,0
+Joe Rodon,Centre-Back,26,8.00m,Wales,Tottenham Hotspur,Leeds United,0
+Lewis Dobbin,Left Winger,21,2.50m,England,Everton FC,Aston Villa,0
+Bobby Clark,Central Midfield,19,1.00m,England,Liverpool FC U21,Red Bull Salzburg,0
+Aleksey Miranchuk,Attacking Midfield,28,10.00m,Russia,Atalanta BC,Atlanta United FC,0
+Konstantinos Koulierakis,Centre-Back,20,8.00m,Greece,PAOK Thessaloniki,VfL Wolfsburg,0
+William Osula,Centre-Forward,21,3.00m,Denmark,Sheffield United,Newcastle United,0
+Diego Carlos,Centre-Back,31,11.00m,Brazil,Aston Villa,Fenerbahce,0
+Thilo Kehrer,Centre-Back,27,10.00m,Germany,West Ham United,AS Monaco,0
+Benjamín Rollheiser,Right Winger,24,10.00m,Argentina,SL Benfica,Santos FC,0
+Arne Engels,Central Midfield,20,9.00m,Belgium,FC Augsburg,Celtic FC,0
+Sebastian Nanasi,Left Midfield,22,8.00m,Sweden,Malmö FF,RC Strasbourg Alsace,0
+Ante Crnac,Centre-Forward,20,2.00m,Croatia,Raków Częstochowa,Norwich City,0
+Luciano Rodríguez,Centre-Forward,21,8.00m,Uruguay,Liverpool FC Montevideo,Esporte Clube Bahia,0
+Luis Alberto,Attacking Midfield,31,11.00m,Spain,SS Lazio,Al-Duhail SC,10.30m
+Maarten Vandevoordt,Goalkeeper,22,11.00m,Belgium,KRC Genk,RB Leipzig,10.00m
+Morgan Whittaker,Right Winger,24,11.00m,England,Plymouth Argyle,Middlesbrough FC,7.10m
+Maksim Glushenkov,Second Striker,24,11.00m,Russia,Lokomotiv Moscow,Zenit St. Petersburg,6.30m
+Wilfried Zaha,Left Winger,31,11.00m,Cote d'Ivoire,Galatasaray,Olympique Lyon,Loan fee:3.00m
+Fedor Chalov,Centre-Forward,26,11.00m,Russia,CSKA Moscow,PAOK Thessaloniki,3.00m
+Moatasem Al-Musrati,Defensive Midfield,28,11.00m,Libya,Besiktas JK,AS Monaco,Loan fee:1.00m
+Stefan Bajcetic,Defensive Midfield,19,11.00m,Spain,Liverpool FC,Red Bull Salzburg,loan transfer
+Fábio Silva,Centre-Forward,22,11.00m,Portugal,Wolverhampton Wanderers,UD Las Palmas,loan transfer
+Samuel Iling-Junior,Left Winger,21,11.00m,England,Aston Villa,Middlesbrough FC,loan transfer
+Andrew Omobamidele,Centre-Back,22,11.00m,Ireland,Nottingham Forest,RC Strasbourg Alsace,loan transfer
+Habib Diallo,Centre-Forward,29,11.00m,Senegal,Al-Shabab FC,Damac FC,loan transfer
+Eiran Cashin,Centre-Back,23,1.80m,Ireland,Derby County,Brighton & Hove Albion,0
+Tim Iroegbunam,Central Midfield,21,4.00m,England,Aston Villa,Everton FC,0
+Sammie Szmodics,Attacking Midfield,28,7.00m,Ireland,Blackburn Rovers,Ipswich Town,0
+Bamo Meïté,Centre-Back,22,6.00m,Cote d'Ivoire,FC Lorient,Olympique Marseille,0
+Mikayil Faye,Centre-Back,20,10.00m,Senegal,FC Barcelona,Stade Rennais FC,0
+Caleb Wiley,Left-Back,19,5.00m,United States,Atlanta United FC,Chelsea FC,0
+Issahaku Fatawu,Right Winger,20,10.00m,Ghana,Sporting CP,Leicester City,0
+Tijjani Noslin,Right Winger,24,10.00m,Netherlands,Hellas Verona,SS Lazio,0
+Warren Bondo,Central Midfield,21,7.00m,France,AC Monza,AC Milan,0
+Lucas Bergvall,Central Midfield,18,10.00m,Sweden,Djurgårdens IF,Tottenham Hotspur,0
+Pablo Solari,Right Winger,23,7.00m,Argentina,CA River Plate,Spartak Moscow,0
+Glen Kamara,Central Midfield,28,6.00m,Finland,Leeds United,Stade Rennais FC,0
+Carlos Andrés Gómez,Right Winger,21,5.00m,Colombia,Real Salt Lake City,Stade Rennais FC,0
+Jota,Left Winger,25,8.00m,Portugal,Stade Rennais FC,Celtic FC,0
+Joane Gadou,Centre-Back,17,500k,France,Paris Saint-Germain U19,Red Bull Salzburg,0
+Bazoumana Touré,Left Winger,18,9.00m,Cote d'Ivoire,Hammarby IF,TSG 1899 Hoffenheim,0
+Artur,Right Winger,26,8.00m,Brazil,Zenit St. Petersburg,Botafogo de Futebol e Regatas,0
+Rwan Cruz,Centre-Forward,23,3.50m,Brazil,Ludogorets Razgrad,Botafogo de Futebol e Regatas,0
+Matheus Martins,Left Winger,21,7.00m,Brazil,Udinese Calcio,Botafogo de Futebol e Regatas,0
+Pedro Lima,Right-Back,18,2.50m,Brazil,Sport Club do Recife,Wolverhampton Wanderers,0
+Rafa Mujica,Centre-Forward,25,8.00m,Spain,FC Arouca,Al-Sadd SC,0
+Mamadou Sarr,Centre-Back,18,1.00m,France,Olympique Lyon,RC Strasbourg Alsace,0
+Daniel Maldini,Attacking Midfield,23,6.00m,Italy,AC Monza,Atalanta BC,0
+Aleksandr Sobolev,Centre-Forward,27,7.50m,Russia,Spartak Moscow,Zenit St. Petersburg,0
+Julián Araujo,Right-Back,23,8.00m,Mexico,FC Barcelona,AFC Bournemouth,0
+Matthis Abline,Centre-Forward,21,6.00m,France,Stade Rennais FC,FC Nantes,0
+Nicolò Cambiaghi,Left Winger,23,7.00m,Italy,Atalanta BC,Bologna FC 1909,0
+Willy Kambwala,Centre-Back,19,5.00m,France,Manchester United,Villarreal CF,0
+Matías Fernández-Pardo,Centre-Forward,19,3.00m,Spain,KAA Gent,LOSC Lille,0
+Assan Ouédraogo,Central Midfield,18,10.00m,Germany,FC Schalke 04,RB Leipzig,0
+Benjamín Rollheiser,Right Winger,24,10.00m,Argentina,Club Estudiantes de La Plata,SL Benfica,9.50m
+Reda Belahyane,Defensive Midfield,20,10.00m,Morocco,Hellas Verona,SS Lazio,9.50m
+Gift Orban,Centre-Forward,22,10.00m,Nigeria,Olympique Lyon,TSG 1899 Hoffenheim,9.00m
+Érick Sánchez,Central Midfield,24,10.00m,Mexico,CF Pachuca,CF América,9.00m
+David García,Centre-Back,30,10.00m,Spain,CA Osasuna,Al-Rayyan SC,8.75m
+Sergio Gómez,Right Winger,23,10.00m,Spain,Manchester City,Real Sociedad,8.70m
+Çağlar Söyüncü,Centre-Back,28,10.00m,Türkiye,Atlético de Madrid,Fenerbahce,8.50m
+Mateusz Bogusz,Attacking Midfield,23,10.00m,Poland,Los Angeles FC,CD Cruz Azul,8.50m
+Predrag Rajković,Goalkeeper,28,10.00m,Serbia,RCD Mallorca,Al-Ittihad Club,8.00m
+Ladislav Krejci,Centre-Back,25,10.00m,Czech Republic,AC Sparta Prague,Girona FC,8.00m
+Tetê,Right Winger,24,10.00m,Brazil,Galatasaray,Panathinaikos FC,7.25m
+Lucas Martínez Quarta,Centre-Back,28,10.00m,Argentina,ACF Fiorentina,CA River Plate,7.00m
+Christos Tzolis,Left Winger,22,10.00m,Greece,Fortuna Düsseldorf,Club Brugge KV,6.50m
+Facundo Pellistri,Left Winger,22,10.00m,Uruguay,Manchester United,Panathinaikos FC,6.00m
+Nico Paz,Attacking Midfield,19,10.00m,Argentina,Real Madrid Castilla,Como 1907,6.00m
+Anders Dreyer,Right Winger,26,10.00m,Denmark,RSC Anderlecht,San Diego FC,5.50m
+Tommy Doyle,Central Midfield,22,10.00m,England,Manchester City,Wolverhampton Wanderers,5.00m
+Nabil Fekir,Attacking Midfield,31,10.00m,France,Real Betis Balompié,Al-Jazira Club,5.00m
+Guillermo Maripán,Centre-Back,30,10.00m,Chile,AS Monaco,Torino FC,4.60m
+Renato Veiga,Centre-Back,21,10.00m,Portugal,Chelsea FC,Juventus FC,Loan fee:4.00m
+Christos Tzolis,Left Winger,22,10.00m,Greece,Norwich City,Fortuna Düsseldorf,3.50m
+Jakub Moder,Central Midfield,25,10.00m,Poland,Brighton & Hove Albion,Feyenoord Rotterdam,1.50m
+Jens Cajuste,Defensive Midfield,25,10.00m,Sweden,SSC Napoli,Ipswich Town,Loan fee:1.50m
+Stefan Posch,Centre-Back,27,10.00m,Austria,Bologna FC 1909,Atalanta BC,Loan fee:1.00m
+Nicola Zalewski,Left Midfield,23,10.00m,Poland,AS Roma,Inter Milan,Loan fee:600k
+Silas,Right Winger,25,10.00m,DR Congo,VfB Stuttgart,Red Star Belgrade,Loan fee:500k
+Kyle Walker,Right-Back,34,10.00m,England,Manchester City,AC Milan,loan transfer
+Clément Lenglet,Centre-Back,29,10.00m,France,FC Barcelona,Atlético de Madrid,loan transfer
+Mario Hermoso,Centre-Back,29,10.00m,Spain,AS Roma,Bayer 04 Leverkusen,loan transfer
+Nordi Mukiele,Right-Back,26,10.00m,France,Paris Saint-Germain,Bayer 04 Leverkusen,loan transfer
+Rasmus Kristensen,Right-Back,27,10.00m,Denmark,Leeds United,Eintracht Frankfurt,loan transfer
+Mehdi Taremi,Centre-Forward,31,10.00m,Iran,FC Porto,Inter Milan,free transfer
+Salih Özcan,Defensive Midfield,26,10.00m,Türkiye,Borussia Dortmund,VfL Wolfsburg,loan transfer
+Lilian Brassier,Centre-Back,25,10.00m,France,Stade Brestois 29,Stade Rennais FC,loan transfer
+Issa Kaboré,Right-Back,23,10.00m,Burkina Faso,Manchester City,SL Benfica,loan transfer
+Boulaye Dia,Centre-Forward,27,10.00m,Senegal,US Salernitana 1919,SS Lazio,loan transfer
+Ben Doak,Right Winger,18,10.00m,Scotland,Liverpool FC,Middlesbrough FC,loan transfer
+Ryan Sessegnon,Left-Back,24,10.00m,England,Tottenham Hotspur,Fulham FC,free transfer
+Tommaso Pobega,Central Midfield,25,10.00m,Italy,AC Milan,Bologna FC 1909,loan transfer
+Shea Charles,Defensive Midfield,20,10.00m,Northern Ireland,Southampton FC,Sheffield Wednesday,loan transfer
+Eli Junior Kroupi,Centre-Forward,18,10.00m,France,AFC Bournemouth,FC Lorient,loan transfer
+Sébastien Haller,Centre-Forward,30,10.00m,Cote d'Ivoire,Borussia Dortmund,CD Leganés,loan transfer
+Pau López,Goalkeeper,29,10.00m,Spain,Olympique Marseille,Girona FC,loan transfer
+Sebastián Driussi,Centre-Forward,28,6.00m,Argentina,Austin FC,CA River Plate,0
+Brandon Vazquez,Centre-Forward,26,6.00m,United States,CF Monterrey,Austin FC,0
+Arijanet Muric,Goalkeeper,25,7.00m,Kosovo,Burnley FC,Ipswich Town,0
+Chiedozie Ogbene,Right Winger,27,8.00m,Ireland,Luton Town,Ipswich Town,0
+Georgios Giakoumakis,Centre-Forward,29,8.00m,Greece,Atlanta United FC,CD Cruz Azul,0
+Flynn Downes,Defensive Midfield,25,9.00m,England,West Ham United,Southampton FC,0
+Mika Biereth,Centre-Forward,21,7.00m,Denmark,Arsenal FC U21,SK Sturm Graz,0
+Elias Jelert,Right-Back,21,5.50m,Denmark,FC Copenhagen,Galatasaray,0
+Ryan Flamingo,Centre-Back,21,7.00m,Netherlands,FC Utrecht,PSV Eindhoven,0
+Amir Richardson,Central Midfield,22,6.00m,Morocco,Stade Reims,ACF Fiorentina,0
+William Gomes,Left Winger,18,6.00m,Brazil,São Paulo Futebol Clube,FC Porto,0
+Kaio César,Right Winger,20,3.00m,Brazil,Vitória Guimarães SC,Al-Hilal SFC,0
+Ezequiel Ponce,Centre-Forward,27,5.00m,Argentina,AEK Athens,Houston Dynamo FC,0
+Matteo Dams,Left-Back,20,5.00m,Belgium,PSV Eindhoven,Al-Ahli SFC,0
+Alexsander,Defensive Midfield,20,8.00m,Brazil,Fluminense Football Club,Al-Ahli SFC,0
+Pierre-Emerick Aubameyang,Centre-Forward,35,5.00m,Gabon,Olympique Marseille,Al-Qadsiah FC,0
+Jota,Left Winger,25,9.00m,Portugal,Al-Ittihad Club,Stade Rennais FC,8.00m
+Lucas Ocampos,Left Winger,30,9.00m,Argentina,Sevilla FC,CF Monterrey,7.25m
+Hannibal,Attacking Midfield,21,9.00m,Tunisia,Manchester United,Burnley FC,6.40m
+Akor Adams,Centre-Forward,24,9.00m,Nigeria,Montpellier HSC,Sevilla FC,5.50m
+Jamie Leweling,Right Winger,23,9.00m,Germany,1.FC Union Berlin,VfB Stuttgart,5.00m
+Anass Zaroury,Attacking Midfield,23,9.00m,Morocco,Burnley FC,RC Lens,5.00m
+Marc Roca,Defensive Midfield,27,9.00m,Spain,Leeds United,Real Betis Balompié,4.50m
+Hyun-seok Hong,Attacking Midfield,25,9.00m,"Korea, South",KAA Gent,1.FSV Mainz 05,4.00m
+Jeff Chabot,Centre-Back,26,9.00m,Germany,1.FC Köln,VfB Stuttgart,4.00m
+Dániel Gazdag,Attacking Midfield,29,9.00m,Hungary,Philadelphia Union,Columbus Crew,3.55m
+Robert Renan,Centre-Back,20,9.00m,Brazil,Zenit St. Petersburg,Al-Shabab FC,Loan fee:3.00m
+Mario Lemina,Defensive Midfield,31,9.00m,Gabon,Wolverhampton Wanderers,Galatasaray,2.50m
+Veljko Birmancevic,Left Winger,26,9.00m,Serbia,FC Toulouse,AC Sparta Prague,2.30m
+Jonathan Rowe,Left Winger,21,9.00m,England,Norwich City,Olympique Marseille,Loan fee:2.00m
+Charlie Patiño,Central Midfield,20,9.00m,England,Arsenal FC U21,Deportivo de La Coruña,1.20m
+Samuel Gigot,Centre-Back,30,9.00m,France,Olympique Marseille,SS Lazio,Loan fee:500k
+Hakim Ziyech,Right Winger,31,9.00m,Morocco,Chelsea FC,Galatasaray,free transfer
+Frank Onyeka,Central Midfield,26,9.00m,Nigeria,Brentford FC,FC Augsburg,loan transfer
+Maxwel Cornet,Left Winger,27,9.00m,Cote d'Ivoire,West Ham United,Southampton FC,loan transfer
+Stefan Bajcetic,Defensive Midfield,20,9.00m,Spain,Liverpool FC,UD Las Palmas,loan transfer
+Scott McKenna,Centre-Back,27,9.00m,Scotland,Nottingham Forest,UD Las Palmas,free transfer
+Bertrand Traoré,Right Winger,28,9.00m,Burkina Faso,Villarreal CF,Ajax Amsterdam,free transfer
+Alejo Veliz,Centre-Forward,20,9.00m,Argentina,Tottenham Hotspur,RCD Espanyol Barcelona,loan transfer
+Juan Miranda,Left-Back,24,9.00m,Spain,Real Betis Balompié,Bologna FC 1909,free transfer
+Máximo Perrone,Defensive Midfield,21,9.00m,Argentina,Manchester City,Como 1907,loan transfer
+Duván Zapata,Centre-Forward,33,8.00m,Colombia,Atalanta BC,Torino FC,0
+Abdulmalik Al-Oyayari,Right-Back,20,800k,Saudi Arabia,Al-Taawoun FC,NEOM SC,0
+Jesús Orozco Chiquete,Centre-Back,22,8.50m,Mexico,Deportivo Guadalajara,CD Cruz Azul,0
+Anass Salah-Eddine,Left-Back,23,5.00m,Netherlands,Twente Enschede FC,AS Roma,0
+Valentin Gendrey,Right-Back,24,7.00m,France,US Lecce,TSG 1899 Hoffenheim,0
+Alberto Dossena,Centre-Back,25,5.00m,Italy,Cagliari Calcio,Como 1907,0
+Osame Sahraoui,Left Winger,23,8.50m,Morocco,SC Heerenveen,LOSC Lille,8.00m
+In-beom Hwang,Central Midfield,27,8.50m,"Korea, South",Red Star Belgrade,Feyenoord Rotterdam,7.00m
+Matheus Henrique,Central Midfield,26,8.50m,Brazil,US Sassuolo,Cruzeiro Esporte Clube,6.30m
+Todd Cantwell,Attacking Midfield,26,8.50m,England,Rangers FC,Blackburn Rovers,590k
+Michy Batshuayi,Centre-Forward,30,8.50m,Belgium,Fenerbahce,Galatasaray,free transfer
+Nicolas Pépé,Right Winger,29,8.50m,Cote d'Ivoire,Trabzonspor,Villarreal CF,free transfer
+Mahmoud Trezeguet,Left Winger,29,8.50m,Egypt,Trabzonspor,Al-Rayyan SC,loan transfer
+Kosta Nedeljkovic,Right-Back,19,8.50m,Serbia,Aston Villa,RB Leipzig,loan transfer
+Ben Brereton Díaz,Centre-Forward,25,8.00m,Chile,Villarreal CF,Southampton FC,0
+Zion Suzuki,Goalkeeper,21,2.50m,Japan,Sint-Truidense VV,Parma Calcio 1913,0
+Luís Maximiano,Goalkeeper,25,5.00m,Portugal,SS Lazio,UD Almería,0
+Loum Tchaouna,Right Winger,20,8.00m,France,US Salernitana 1919,SS Lazio,0
+Saúl Coco,Centre-Back,25,8.00m,Equatorial Guinea,UD Las Palmas,Torino FC,0
+Danil Glebov,Defensive Midfield,25,8.00m,Russia,FC Rostov,Dynamo Moscow,0
+Carlos Cuesta,Centre-Back,25,5.00m,Colombia,KRC Genk,Galatasaray,0
+Mousa Tamari,Right Winger,27,6.00m,Jordan,Montpellier HSC,Stade Rennais FC,0
+Enzo Barrenechea,Defensive Midfield,23,7.50m,Argentina,Juventus FC,Aston Villa,0
+Robin Hranac,Centre-Back,24,5.00m,Czech Republic,FC Viktoria Plzen,TSG 1899 Hoffenheim,0
+Walace,Defensive Midfield,29,6.00m,Brazil,Udinese Calcio,Cruzeiro Esporte Clube,0
+Julio Soler,Left-Back,19,8.00m,Argentina,CA Lanús,AFC Bournemouth,0
+Abner,Left-Back,24,7.00m,Brazil,Real Betis Balompié,Olympique Lyon,0
+Yannik Engelhardt,Defensive Midfield,23,4.00m,Germany,Fortuna Düsseldorf,Como 1907,0
+Rodri Sánchez,Right Winger,24,3.00m,Spain,Real Betis Balompié,Al-Arabi SC,0
+Pascal Groß,Central Midfield,33,8.00m,Germany,Brighton & Hove Albion,Borussia Dortmund,7.00m
+Leo Østigård,Centre-Back,24,8.00m,Norway,SSC Napoli,Stade Rennais FC,7.00m
+Agustín Giay,Right-Back,20,8.00m,Argentina,CA San Lorenzo de Almagro,Sociedade Esportiva Palmeiras,7.00m
+Bruma,Left Winger,30,8.00m,Portugal,SC Braga,SL Benfica,6.50m
+Oleksandr Zubkov,Right Winger,28,8.00m,Ukraine,Shakhtar Donetsk,Trabzonspor,6.00m
+Ross Barkley,Central Midfield,30,8.00m,England,Luton Town,Aston Villa,5.90m
+Angeliño,Left-Back,27,8.00m,Spain,RB Leipzig,AS Roma,5.40m
+Tom Rothe,Left-Back,19,8.00m,Germany,Borussia Dortmund,1.FC Union Berlin,5.00m
+Danilo Pereira,Centre-Back,32,8.00m,Portugal,Paris Saint-Germain,Al-Ittihad Club,5.00m
+Sardar Azmoun,Centre-Forward,29,8.00m,Iran,Bayer 04 Leverkusen,Shabab Al-Ahli Club,5.00m
+Luciano Acosta,Attacking Midfield,30,8.00m,Argentina,FC Cincinnati,FC Dallas,4.80m
+Morgan Sanson,Central Midfield,29,8.00m,France,Aston Villa,OGC Nice,4.00m
+Matheus Saldanha,Centre-Forward,25,8.00m,Brazil,FK Partizan Belgrade,Ferencvárosi TC,3.00m
+Wilfried Zaha,Left Winger,32,8.00m,Cote d'Ivoire,Galatasaray,Charlotte FC,Loan fee:2.70m
+Carlos Forbs,Left Winger,20,8.00m,Portugal,Ajax Amsterdam,Wolverhampton Wanderers,Loan fee:2.50m
+Jordan Lotomba,Right-Back,25,8.00m,Switzerland,OGC Nice,Feyenoord Rotterdam,2.20m
+Matías Zaracho,Attacking Midfield,26,8.00m,Argentina,Clube Atlético Mineiro,Racing Club,1.65m
+Rodrigo Nestor,Central Midfield,24,8.00m,Brazil,São Paulo Futebol Clube,Esporte Clube Bahia,Loan fee:1.50m
+Júnior Alonso,Centre-Back,31,8.00m,Paraguay,FC Krasnodar,Clube Atlético Mineiro,1.10m
+Arnaud Nordin,Right Winger,26,8.00m,France,Montpellier HSC,1.FSV Mainz 05,1.00m
+Przemyslaw Frankowski,Right-Back,29,8.00m,Poland,RC Lens,Galatasaray,Loan fee:1.00m
+Ismail Jakobs,Left-Back,25,8.00m,Senegal,AS Monaco,Galatasaray,Loan fee:1.00m
+Jonathan Ikoné,Right Winger,26,8.00m,France,ACF Fiorentina,Como 1907,Loan fee:1.00m
+Tajon Buchanan,Right Winger,25,8.00m,Canada,Inter Milan,Villarreal CF,Loan fee:1.00m
+Fabian Rieder,Right Winger,22,8.00m,Switzerland,Stade Rennais FC,VfB Stuttgart,Loan fee:800k
+Hugo Souza,Goalkeeper,25,8.00m,Brazil,CR Flamengo,Sport Club Corinthians Paulista,800k
+Warmed Omari,Centre-Back,24,8.00m,Comoros,Stade Rennais FC,Olympique Lyon,Loan fee:500k
+Samuel Edozie,Left Winger,21,8.00m,England,Southampton FC,RSC Anderlecht,loan transfer
+Luiz Felipe,Centre-Back,27,8.00m,Italy,Al-Ittihad Club,Olympique Marseille,free transfer
+Maxwel Cornet,Left Winger,28,8.00m,Cote d'Ivoire,West Ham United,Genoa CFC,loan transfer
+Naouirou Ahamada,Central Midfield,22,8.00m,France,Crystal Palace,Stade Rennais FC,loan transfer
+Salis Abdul Samed,Defensive Midfield,24,8.00m,Ghana,RC Lens,Sunderland AFC,loan transfer
+Ben Brereton Díaz,Centre-Forward,25,8.00m,Chile,Southampton FC,Sheffield United,loan transfer
+Harry Souttar,Centre-Back,25,8.00m,Australia,Leicester City,Sheffield United,loan transfer
+Tanguy Ndombélé,Central Midfield,27,8.00m,France,Tottenham Hotspur,OGC Nice,free transfer
+Ben Godfrey,Centre-Back,26,8.00m,England,Atalanta BC,Ipswich Town,loan transfer
+Ben Johnson,Right-Back,24,8.00m,England,West Ham United,Ipswich Town,free transfer
+Caleb Wiley,Left-Back,20,8.00m,United States,Chelsea FC,Watford FC,loan transfer
+Felipe Anderson,Right Winger,31,8.00m,Brazil,SS Lazio,Sociedade Esportiva Palmeiras,free transfer
+Chuba Akpom,Centre-Forward,29,8.00m,England,Ajax Amsterdam,LOSC Lille,loan transfer
+Manu Sánchez,Left-Back,23,8.00m,Spain,Celta de Vigo,Deportivo Alavés,loan transfer
+Paul Wanner,Attacking Midfield,18,8.00m,Germany,Bayern Munich,1.FC Heidenheim 1846,loan transfer
+Vitão,Centre-Back,24,8.00m,Brazil,Shakhtar Donetsk,Sport Club Internacional,free transfer
+Paulinho,Centre-Forward,31,7.00m,Portugal,Sporting CP,Deportivo Toluca,0
+Víctor Dávila,Centre-Forward,26,5.00m,Chile,CSKA Moscow,CF América,0
+Diego Costa,Centre-Back,24,3.50m,Brazil,São Paulo Futebol Clube,FC Krasnodar,0
+Javi López,Left-Back,22,7.50m,Spain,Deportivo Alavés,Real Sociedad,6.50m
+Leonardo Fernández,Attacking Midfield,26,7.50m,Uruguay,Deportivo Toluca,CA Peñarol,6.50m
+Marc Guiu,Centre-Forward,18,7.50m,Spain,FC Barcelona,Chelsea FC,6.00m
+Joe Worrall,Centre-Back,27,7.50m,England,Nottingham Forest,Burnley FC,5.90m
+Julien De Sart,Defensive Midfield,29,7.50m,Belgium,KAA Gent,Al-Rayyan SC,5.50m
+Cristian Arango,Centre-Forward,29,7.50m,Colombia,Real Salt Lake City,San Jose Earthquakes,1.35m
+Cengiz Ünder,Right Winger,27,7.50m,Türkiye,Fenerbahce,Los Angeles FC,Loan fee:1.20m
+Moritz Jenz,Centre-Back,25,7.50m,Germany,VfL Wolfsburg,1.FSV Mainz 05,Loan fee:250k
+Saúl Ñíguez,Central Midfield,29,7.50m,Spain,Atlético de Madrid,Sevilla FC,loan transfer
+Borna Sosa,Left Midfield,26,7.50m,Croatia,Ajax Amsterdam,Torino FC,loan transfer
+Christian Kouamé,Centre-Forward,27,7.50m,Cote d'Ivoire,ACF Fiorentina,FC Empoli,loan transfer
+Philippe Coutinho,Attacking Midfield,32,7.50m,Brazil,Aston Villa,Clube de Regatas Vasco da Gama,loan transfer
+Davide Calabria,Right-Back,28,7.50m,Italy,AC Milan,Bologna FC 1909,loan transfer
+Enzo Barrenechea,Defensive Midfield,23,7.50m,Argentina,Aston Villa,Valencia CF,loan transfer
+Ismaël Gharbi,Left Winger,20,7.50m,Spain,Paris Saint-Germain,SC Braga,free transfer
+Abdallah Sima,Left Winger,23,7.50m,Senegal,Brighton & Hove Albion,Stade Brestois 29,loan transfer
+Maxime Lopez,Defensive Midfield,26,7.50m,France,US Sassuolo,Paris FC,free transfer
+Ibrahim Sulemana,Defensive Midfield,21,4.00m,Ghana,Cagliari Calcio,Atalanta BC,0
+Joaquim,Centre-Back,25,3.00m,Brazil,Santos FC,Tigres UANL,0
+Ahmed Al-Ghamdi,Left Winger,22,600k,Saudi Arabia,Al-Ettifaq FC,Al-Ittihad Club,0
+Uriel Antuna,Right Winger,27,6.50m,Mexico,CD Cruz Azul,Tigres UANL,0
+Nathan Fernandes,Right Winger,19,6.00m,Brazil,Grêmio Foot-Ball Porto Alegrense,Botafogo de Futebol e Regatas,0
+Kaio Jorge,Centre-Forward,22,4.00m,Brazil,Juventus FC,Cruzeiro Esporte Clube,0
+Emiliano Martínez,Defensive Midfield,25,4.50m,Uruguay,FC Midtjylland,Sociedade Esportiva Palmeiras,0
+Auston Trusty,Centre-Back,26,7.00m,United States,Sheffield United,Celtic FC,0
+Tim Kleindienst,Centre-Forward,28,6.00m,Germany,1.FC Heidenheim 1846,Borussia Mönchengladbach,0
+Jonas Urbig,Goalkeeper,21,3.00m,Germany,1.FC Köln,Bayern Munich,0
+Jacob Ondrejka,Left Winger,22,7.00m,Sweden,Royal Antwerp FC,Parma Calcio 1913,0
+Adamo Nagalo,Centre-Back,21,7.00m,Burkina Faso,FC Nordsjaelland,PSV Eindhoven,0
+Andrés García,Right-Back,21,1.20m,Spain,Levante UD,Aston Villa,0
+Moïse Bombito,Centre-Back,24,4.50m,Canada,Colorado Rapids,OGC Nice,0
+Fabrício Bruno,Centre-Back,28,7.00m,Brazil,CR Flamengo,Cruzeiro Esporte Clube,0
+Unai Núñez,Centre-Back,27,7.00m,Spain,Athletic Bilbao,Celta de Vigo,0
+Matej Jurasek,Right Winger,21,7.00m,Czech Republic,SK Slavia Prague,Norwich City,0
+Osman Bukari,Right Winger,25,7.00m,Ghana,Red Star Belgrade,Austin FC,0
+Rony,Centre-Forward,29,7.00m,Brazil,Sociedade Esportiva Palmeiras,Clube Atlético Mineiro,6.50m
+Álvaro Carreras,Left-Back,21,7.00m,Spain,Manchester United,SL Benfica,6.00m
+Guéla Doué,Right-Back,21,7.00m,Cote d'Ivoire,Stade Rennais FC,RC Strasbourg Alsace,6.00m
+Tanner Tessmann,Defensive Midfield,22,7.00m,United States,Venezia FC,Olympique Lyon,6.00m
+Zaydou Youssouf,Central Midfield,25,7.00m,Comoros,FC Famalicão,Al-Fateh SC,6.00m
+David Da Costa,Attacking Midfield,24,7.00m,Portugal,RC Lens,Portland Timbers,5.74m
+Florinel Coman,Left Winger,26,7.00m,Romania,FCSB,Al-Gharafa SC,5.25m
+Diant Ramaj,Goalkeeper,23,7.00m,Germany,Ajax Amsterdam,Borussia Dortmund,5.00m
+Matheus Pereira,Attacking Midfield,28,7.00m,Brazil,Al-Hilal SFC,Cruzeiro Esporte Clube,5.00m
+Patrick Osterhage,Central Midfield,24,7.00m,Germany,VfL Bochum,SC Freiburg,4.80m
+Brian Aguirre,Left Winger,21,7.00m,Argentina,CA Newell's Old Boys,CA Boca Juniors,4.60m
+Ridle Baku,Right-Back,26,7.00m,Germany,VfL Wolfsburg,RB Leipzig,4.50m
+Fabricio Bustos,Right-Back,28,7.00m,Argentina,Sport Club Internacional,CA River Plate,4.10m
+Christian,Central Midfield,24,7.00m,Brazil,Club Athletico Paranaense,Cruzeiro Esporte Clube,4.00m
+Ayoze Pérez,Centre-Forward,31,7.00m,Spain,Real Betis Balompié,Villarreal CF,4.00m
+Santiago Sosa,Centre-Back,25,7.00m,Argentina,Atlanta United FC,Racing Club,3.80m
+Matías Galarza,Defensive Midfield,22,7.00m,Argentina,KRC Genk,CA Talleres,3.60m
+Duje Caleta-Car,Centre-Back,27,7.00m,Croatia,Southampton FC,Olympique Lyon,3.59m
+Diego Llorente,Centre-Back,30,7.00m,Spain,Leeds United,Real Betis Balompié,3.25m
+Ryan Flamingo,Centre-Back,21,7.00m,Netherlands,US Sassuolo,FC Utrecht,3.07m
+Michy Batshuayi,Centre-Forward,31,7.00m,Belgium,Galatasaray,Eintracht Frankfurt,3.00m
+Anthony Rouault,Centre-Back,23,7.00m,France,FC Toulouse,VfB Stuttgart,3.00m
+Matías Arezo,Centre-Forward,21,7.00m,Uruguay,Granada CF,Grêmio Foot-Ball Porto Alegrense,3.00m
+Georgiy Bushchan,Goalkeeper,30,7.00m,Ukraine,Dynamo Kyiv,Al-Shabab FC,3.00m
+Rubén Vargas,Left Winger,26,7.00m,Switzerland,FC Augsburg,Sevilla FC,2.50m
+M'Bala Nzola,Centre-Forward,27,7.00m,Angola,ACF Fiorentina,RC Lens,Loan fee:2.10m
+Vaclav Cerny,Right Winger,26,7.00m,Czech Republic,VfL Wolfsburg,Rangers FC,Loan fee:1.50m
+Michael Folorunsho,Central Midfield,26,7.00m,Italy,SSC Napoli,ACF Fiorentina,Loan fee:1.00m
+Martín Satriano,Centre-Forward,23,7.00m,Uruguay,Inter Milan,RC Lens,Loan fee:1.00m
+Felix Uduokhai,Centre-Back,26,7.00m,Germany,FC Augsburg,Besiktas JK,Loan fee:500k
+Stefano Turati,Goalkeeper,22,7.00m,Italy,US Sassuolo,AC Monza,Loan fee:500k
+Leander Dendoncker,Defensive Midfield,29,7.00m,Belgium,Aston Villa,RSC Anderlecht,loan transfer
+Mergim Berisha,Centre-Forward,26,7.00m,Germany,TSG 1899 Hoffenheim,FC Augsburg,loan transfer
+Chrislain Matsima,Centre-Back,22,7.00m,France,AS Monaco,FC Augsburg,loan transfer
+Diant Ramaj,Goalkeeper,23,7.00m,Germany,Borussia Dortmund,FC Copenhagen,loan transfer
+Gabriel Veron,Right Winger,22,7.00m,Brazil,FC Porto,Santos FC,loan transfer
+Gaetano Castrovilli,Central Midfield,27,7.00m,Italy,ACF Fiorentina,SS Lazio,free transfer
+Isaak Touré,Centre-Back,21,7.00m,France,FC Lorient,Udinese Calcio,loan transfer
+Baptiste Santamaria,Defensive Midfield,29,7.00m,France,Stade Rennais FC,OGC Nice,loan transfer
+Kayky,Right Winger,21,7.00m,Brazil,Manchester City U21,Sparta Rotterdam,loan transfer
+Leo Østigård,Centre-Back,25,7.00m,Norway,Stade Rennais FC,TSG 1899 Hoffenheim,loan transfer
+José Cifuentes,Central Midfield,25,7.00m,Ecuador,Rangers FC,Aris Thessaloniki,loan transfer
+Michael,Left Winger,28,7.00m,Brazil,Al-Hilal SFC,CR Flamengo,free transfer
+Unai Núñez,Centre-Back,27,7.00m,Spain,Celta de Vigo,Athletic Bilbao,loan transfer
+Matt Turner,Goalkeeper,30,7.00m,United States,Nottingham Forest,Crystal Palace,loan transfer
+Iván Jaime,Attacking Midfield,24,7.00m,Spain,FC Porto,Valencia CF,loan transfer
+Jeremy Sarmiento,Left Winger,22,7.00m,Ecuador,Brighton & Hove Albion,Burnley FC,loan transfer
+Kacper Urbanski,Central Midfield,20,7.00m,Poland,Bologna FC 1909,AC Monza,loan transfer
+Viktor Djukanovic,Left Winger,20,7.00m,Montenegro,Hammarby IF,Standard Liège,loan transfer
+Jorge Cuenca,Centre-Back,24,6.00m,Spain,Villarreal CF,Fulham FC,0
+Fidel Ambríz,Defensive Midfield,21,4.50m,Mexico,Club León FC,CF Monterrey,0
+Tomás Palacios,Centre-Back,21,500k,Argentina,CS Independiente Rivadavia,Inter Milan,0
+Luca Jaquez,Centre-Back,21,4.50m,Switzerland,FC Luzern,VfB Stuttgart,0
+Anan Khalaili,Right Winger,19,5.00m,Israel,Maccabi Haifa,Union Saint-Gilloise,0
+Kristijan Jakic,Defensive Midfield,27,6.50m,Croatia,Eintracht Frankfurt,FC Augsburg,5.00m
+Williams Alarcón,Central Midfield,24,6.50m,Chile,CA Huracán,CA Boca Juniors,4.78m
+Dejan Joveljić,Centre-Forward,25,6.50m,Serbia,Los Angeles Galaxy,Sporting Kansas City,3.85m
+Damián Pizarro,Centre-Forward,19,6.50m,Chile,CSD Colo-Colo,Udinese Calcio,3.50m
+Tarik Tissoudali,Centre-Forward,31,6.50m,Morocco,KAA Gent,PAOK Thessaloniki,2.20m
+Remo Freuler,Central Midfield,32,6.50m,Switzerland,Nottingham Forest,Bologna FC 1909,1.90m
+Mitchel Bakker,Left-Back,24,6.50m,Netherlands,Atalanta BC,LOSC Lille,Loan fee:840k
+Filip Kostić,Left Midfield,31,6.50m,Serbia,Juventus FC,Fenerbahce,loan transfer
+Amir Hadziahmetovic,Defensive Midfield,27,6.50m,Bosnia-Herzegovina,Besiktas JK,Caykur Rizespor,loan transfer
+Hjalmar Ekdal,Centre-Back,26,6.50m,Sweden,Burnley FC,FC Groningen,loan transfer
+Vitinho,Left Winger,25,6.50m,Brazil,Dynamo Kyiv,Sport Club Internacional,loan transfer
+Gustaf Nilsson,Centre-Forward,27,6.00m,Sweden,Union Saint-Gilloise,Club Brugge KV,0
+Luis Romo,Central Midfield,29,5.50m,Mexico,CD Cruz Azul,Deportivo Guadalajara,0
+Luca Langoni,Right Winger,22,4.50m,Argentina,CA Boca Juniors,New England Revolution,0
+Bright Arrey-Mbi,Centre-Back,21,2.50m,Germany,Hannover 96,SC Braga,0
+Júnior Santos,Right Winger,30,6.00m,Brazil,Botafogo de Futebol e Regatas,Clube Atlético Mineiro,0
+Luis Romo,Central Midfield,29,6.00m,Mexico,CF Monterrey,CD Cruz Azul,0
+Mathias Løvik,Left-Back,21,5.00m,Norway,Molde FK,Parma Calcio 1913,0
+Juma Bah,Centre-Back,18,1.00m,Sierra Leone,Real Valladolid CF,Manchester City,0
+Wilson Isidor,Centre-Forward,24,4.00m,France,Zenit St. Petersburg,Sunderland AFC,0
+Danylo Sikan,Centre-Forward,23,6.00m,Ukraine,Shakhtar Donetsk,Trabzonspor,0
+Zuriko Davitashvili,Left Winger,23,3.00m,Georgia,FC Girondins Bordeaux,AS Saint-Étienne,0
+Cristo,Second Striker,26,6.00m,Spain,FC Arouca,Al-Sadd SC,0
+Félix Lemaréchal,Attacking Midfield,21,5.00m,France,AS Monaco,RC Strasbourg Alsace,0
+César Montes,Centre-Back,27,3.00m,Mexico,UD Almería,Lokomotiv Moscow,0
+Mama Baldé,Centre-Forward,28,4.00m,Guinea-Bissau,ESTAC Troyes,Olympique Lyon,0
+Emil Audero,Goalkeeper,27,5.00m,Indonesia,UC Sampdoria,Como 1907,0
+Ardon Jashari,Defensive Midfield,21,6.00m,Switzerland,FC Luzern,Club Brugge KV,0
+Zaid Romero,Centre-Back,24,6.00m,Argentina,Club Estudiantes de La Plata,Club Brugge KV,0
+Kevin Kelsy,Centre-Forward,20,2.50m,Venezuela,Shakhtar Donetsk,Portland Timbers,0
+Alexandro Bernabei,Left-Back,24,6.00m,Argentina,Celtic FC,Sport Club Internacional,5.50m
+Francisco Moura,Left-Back,25,6.00m,Portugal,FC Famalicão,FC Porto,5.00m
+Vladan Kovačević,Goalkeeper,26,6.00m,Bosnia-Herzegovina,Raków Częstochowa,Sporting CP,4.81m
+Hércules,Central Midfield,24,6.00m,Brazil,Fortaleza Esporte Clube,Fluminense Football Club,4.55m
+Youri Regeer,Central Midfield,21,6.00m,Netherlands,Twente Enschede FC,Ajax Amsterdam,4.50m
+Aïssa Laïdouni,Central Midfield,27,6.00m,Tunisia,1.FC Union Berlin,Al-Wakrah SC,4.50m
+Cristian Olivera,Right Winger,22,6.00m,Uruguay,Los Angeles FC,Grêmio Foot-Ball Porto Alegrense,4.30m
+Adam Bareiro,Centre-Forward,27,6.00m,Paraguay,CA San Lorenzo de Almagro,CA River Plate,4.15m
+Lucien Agoumé,Defensive Midfield,22,6.00m,France,Inter Milan,Sevilla FC,4.00m
+Yorbe Vertessen,Centre-Forward,24,6.00m,Belgium,1.FC Union Berlin,Red Bull Salzburg,4.00m
+Muhammed Cham,Attacking Midfield,23,6.00m,Austria,Clermont Foot 63,Trabzonspor,4.00m
+Kristoffer Velde,Left Winger,24,6.00m,Norway,Lech Poznan,Olympiacos Piraeus,4.00m
+Adam Buksa,Centre-Forward,27,6.00m,Poland,RC Lens,FC Midtjylland,4.00m
+Matt Grimes,Defensive Midfield,29,6.00m,England,Swansea City,Coventry City,4.00m
+Thiago Maia,Defensive Midfield,27,6.00m,Brazil,CR Flamengo,Sport Club Internacional,4.00m
+Gonzalo Plata,Right Winger,23,6.00m,Ecuador,Al-Sadd SC,CR Flamengo,3.80m
+Rade Krunic,Defensive Midfield,30,6.00m,Bosnia-Herzegovina,AC Milan,Fenerbahce,3.50m
+Gabriel Strefezza,Right Winger,27,6.00m,Brazil,US Lecce,Como 1907,3.50m
+Mark McKenzie,Centre-Back,25,6.00m,United States,KRC Genk,FC Toulouse,3.00m
+Benjamín Garré,Right Winger,24,6.00m,Argentina,Krylya Sovetov Samara,Clube de Regatas Vasco da Gama,3.00m
+Filip Marchwinski,Attacking Midfield,22,6.00m,Poland,Lech Poznan,US Lecce,3.00m
+Keven Schlotterbeck,Centre-Back,27,6.00m,Germany,SC Freiburg,FC Augsburg,2.50m
+Wout Weghorst,Centre-Forward,32,6.00m,Netherlands,Burnley FC,Ajax Amsterdam,2.38m
+Nicolás Fernández,Centre-Forward,28,6.00m,Argentina,Defensa y Justicia,Club Atlético Belgrano,2.29m
+César Huerta,Left Winger,24,6.00m,Mexico,UNAM Pumas,RSC Anderlecht,2.00m
+Roko Simic,Centre-Forward,20,6.00m,Croatia,Red Bull Salzburg,Cardiff City,2.00m
+Wanderson,Left Winger,30,6.00m,Brazil,Sport Club Internacional,Cruzeiro Esporte Clube,2.00m
+Rodrigo Huescas,Right-Back,20,6.00m,Mexico,CD Cruz Azul,FC Copenhagen,1.85m
+Jacob Bruun Larsen,Left Winger,26,6.00m,Denmark,TSG 1899 Hoffenheim,VfB Stuttgart,1.70m
+Festy Ebosele,Right-Back,22,6.00m,Ireland,Udinese Calcio,Basaksehir FK,1.50m
+Riccardo Sottil,Left Winger,25,6.00m,Italy,ACF Fiorentina,AC Milan,Loan fee:1.00m
+Robert Navarro,Attacking Midfield,22,6.00m,Spain,Real Sociedad,RCD Mallorca,850k
+Fran Navarro,Centre-Forward,26,6.00m,Spain,FC Porto,SC Braga,Loan fee:300k
+Mahmoud Dahoud,Central Midfield,28,6.00m,Syria,Brighton & Hove Albion,Eintracht Frankfurt,free transfer
+Thomas Foket,Right-Back,29,6.00m,Belgium,Stade Reims,RSC Anderlecht,free transfer
+Ibrahima Sissoko,Defensive Midfield,26,6.00m,Mali,RC Strasbourg Alsace,VfL Bochum,free transfer
+Issa Kaboré,Right-Back,23,6.00m,Burkina Faso,Manchester City,SV Werder Bremen,loan transfer
+Derrick Köhn,Left-Back,25,6.00m,Germany,Galatasaray,SV Werder Bremen,loan transfer
+Abdülkadir Ömür,Attacking Midfield,25,6.00m,Türkiye,Hull City,Caykur Rizespor,loan transfer
+Rade Krunic,Defensive Midfield,30,6.00m,Bosnia-Herzegovina,Fenerbahce,Red Star Belgrade,free transfer
+Steve Mounié,Centre-Forward,29,6.00m,Benin,Stade Brestois 29,FC Augsburg,free transfer
+Talles Magno,Left Winger,22,6.00m,Brazil,New York City FC,Sport Club Corinthians Paulista,loan transfer
+Luan Cândido,Left-Back,24,6.00m,Brazil,Red Bull Bragantino,Grêmio Foot-Ball Porto Alegrense,loan transfer
+Gijs Smal,Left-Back,26,6.00m,Netherlands,Twente Enschede FC,Feyenoord Rotterdam,free transfer
+Julián Carranza,Centre-Forward,24,6.00m,Argentina,Philadelphia Union,Feyenoord Rotterdam,free transfer
+Hugo Bueno,Left-Back,21,6.00m,Spain,Wolverhampton Wanderers,Feyenoord Rotterdam,loan transfer
+Nemanja Maksimovic,Central Midfield,29,6.00m,Serbia,Getafe CF,Panathinaikos FC,free transfer
+Flavius Daniliuc,Centre-Back,23,6.00m,Austria,US Salernitana 1919,Hellas Verona,loan transfer
+Chris Mepham,Centre-Back,26,6.00m,Wales,AFC Bournemouth,Sunderland AFC,loan transfer
+Anton Miranchuk,Attacking Midfield,28,6.00m,Russia,Lokomotiv Moscow,FC Sion,free transfer
+Gabriel Menino,Central Midfield,24,6.00m,Brazil,Sociedade Esportiva Palmeiras,Clube Atlético Mineiro,free transfer
+Chidera Ejuke,Left Winger,26,6.00m,Nigeria,CSKA Moscow,Sevilla FC,free transfer
+Jeffrey Schlupp,Left Midfield,32,6.00m,Ghana,Crystal Palace,Celtic FC,loan transfer
+Alex Telles,Left-Back,31,6.00m,Brazil,Al-Nassr FC,Botafogo de Futebol e Regatas,free transfer
+Roko Simic,Centre-Forward,20,6.00m,Croatia,Cardiff City,KV Kortrijk,loan transfer
+Gabriel Barbosa,Centre-Forward,28,6.00m,Brazil,CR Flamengo,Cruzeiro Esporte Clube,free transfer
+Marquinhos,Right Winger,21,6.00m,Brazil,Arsenal FC,Cruzeiro Esporte Clube,loan transfer
+Valentín Barco,Central Midfield,20,6.00m,Argentina,Brighton & Hove Albion,RC Strasbourg Alsace,loan transfer
+Walid Cheddira,Centre-Forward,26,6.00m,Morocco,SSC Napoli,RCD Espanyol Barcelona,loan transfer
+Junior Mwanga,Defensive Midfield,21,6.00m,France,RC Strasbourg Alsace,Le Havre AC,loan transfer
+Lorenzo Colombo,Centre-Forward,22,6.00m,Italy,AC Milan,FC Empoli,loan transfer
+Saïdou Sow,Centre-Back,22,6.00m,Guinea,RC Strasbourg Alsace,FC Nantes,loan transfer
+Johann Lepenant,Defensive Midfield,21,6.00m,France,Olympique Lyon,FC Nantes,loan transfer
+Jesper Karlsson,Left Winger,26,6.00m,Sweden,Bologna FC 1909,US Lecce,loan transfer
+Festy Ebosele,Right-Back,22,6.00m,Ireland,Udinese Calcio,Watford FC,loan transfer
+Pape Gueye,Defensive Midfield,25,6.00m,Senegal,Olympique Marseille,Villarreal CF,free transfer
+Sergi Cardona,Left-Back,25,6.00m,Spain,UD Las Palmas,Villarreal CF,free transfer
+Mady Camara,Central Midfield,27,6.00m,Guinea,Olympiacos Piraeus,PAOK Thessaloniki,free transfer
+Jaidon Anthony,Left Winger,24,6.00m,England,AFC Bournemouth,Burnley FC,loan transfer
+Elia Caprile,Goalkeeper,23,6.00m,Italy,SSC Napoli,Cagliari Calcio,loan transfer
+Florinel Coman,Left Winger,26,6.00m,Romania,Al-Gharafa SC,Cagliari Calcio,loan transfer
+Gianluca Gaetano,Attacking Midfield,24,6.00m,Italy,SSC Napoli,Cagliari Calcio,loan transfer
+Óliver Torres,Central Midfield,29,6.00m,Spain,Sevilla FC,CF Monterrey,free transfer
+Tomás Palacios,Centre-Back,21,6.00m,Argentina,Inter Milan,AC Monza,loan transfer
+Soumaïla Coulibaly,Centre-Back,20,6.00m,France,Borussia Dortmund,Stade Brestois 29,loan transfer
+Sofiane Boufal,Left Winger,30,6.00m,Morocco,Al-Rayyan SC,Union Saint-Gilloise,free transfer
+Berat Özdemir,Defensive Midfield,26,6.00m,Türkiye,Al-Ettifaq FC,Basaksehir FK,loan transfer
+Glen Kamara,Central Midfield,29,6.00m,Finland,Stade Rennais FC,Al-Shabab FC,loan transfer
+Kayky,Right Winger,21,6.00m,Brazil,Manchester City U21,Esporte Clube Bahia,loan transfer
+Koen Casteels,Goalkeeper,32,6.00m,Belgium,VfL Wolfsburg,Al-Qadsiah FC,free transfer
+Marcus Ingvartsen,Centre-Forward,29,6.00m,Denmark,FC Nordsjaelland,San Diego FC,?
+Ahmed Kutucu,Left Winger,24,3.50m,Türkiye,Eyüpspor,Galatasaray,0
+Jayden Bogle,Right-Back,23,3.80m,England,Sheffield United,Leeds United,0
+Jack Rudoni,Central Midfield,23,4.80m,England,Huddersfield Town,Coventry City,0
+Michael Golding,Central Midfield,18,300k,England,Chelsea FC U21,Leicester City,0
+Jordan Ayew,Right Winger,32,4.00m,Ghana,Crystal Palace,Leicester City,0
+Rick,Left Winger,25,2.80m,Brazil,Ludogorets Razgrad,CA Talleres,0
+Nelson Deossa,Central Midfield,24,4.50m,Colombia,CF Pachuca,CF Monterrey,0
+Tomás Cuello,Left Winger,24,3.00m,Argentina,Club Athletico Paranaense,Clube Atlético Mineiro,0
+Nathaniel Adjei,Centre-Back,21,2.50m,Ghana,Hammarby IF,FC Lorient,0
+Marko Stamenic,Defensive Midfield,22,5.00m,New Zealand,Red Star Belgrade,Nottingham Forest,0
+Isidro Pitta,Centre-Forward,25,5.50m,Paraguay,Cuiabá Esporte Clube (MT),Red Bull Bragantino,4.35m
+Benja Domínguez,Left Winger,20,5.50m,Argentina,Club de Gimnasia y Esgrima La Plata,Bologna FC 1909,4.00m
+Rodrigo Villagra,Defensive Midfield,24,5.50m,Argentina,CA River Plate,CSKA Moscow,3.70m
+Lorenzo Pirola,Centre-Back,22,5.50m,Italy,US Salernitana 1919,Olympiacos Piraeus,3.00m
+Diogo Gonçalves,Attacking Midfield,27,5.50m,Portugal,FC Copenhagen,Real Salt Lake City,3.00m
+Daniel Svensson,Left-Back,22,5.50m,Sweden,FC Nordsjaelland,Borussia Dortmund,Loan fee:1.80m
+Marcus Pedersen,Right Midfield,24,5.50m,Norway,Feyenoord Rotterdam,Torino FC,Loan fee:1.00m
+John Kennedy,Centre-Forward,22,5.50m,Brazil,Fluminense Football Club,CF Pachuca,Loan fee:470k
+Marlon,Left-Back,27,5.50m,Brazil,Cruzeiro Esporte Clube,Grêmio Foot-Ball Porto Alegrense,loan transfer
+Danilo Cataldi,Defensive Midfield,30,5.50m,Italy,SS Lazio,ACF Fiorentina,loan transfer
+Ibrahima Diallo,Defensive Midfield,25,5.50m,France,Al-Duhail SC,Al-Khor SC,?
+Carlos Júnior,Right Winger,29,5.50m,Brazil,Al-Shabab FC,NEOM SC,loan transfer
+Ali Abdullah Hazazi,Central Midfield,30,300k,Saudi Arabia,Al-Ettifaq FC,Al-Qadsiah FC,0
+Jeffinho,Left Winger,25,5.00m,Brazil,Olympique Lyon,Botafogo de Futebol e Regatas,0
+Tommy Conway,Centre-Forward,22,4.00m,Scotland,Bristol City,Middlesbrough FC,0
+Kazeem Olaigbe,Left Winger,22,1.80m,Belgium,Cercle Brugge ,Stade Rennais FC,0
+Óscar Perea,Left Winger,18,2.00m,Colombia,Atlético Nacional,RC Strasbourg Alsace,0
+Nadir Zortea,Right Midfield,25,3.00m,Italy,Atalanta BC,Cagliari Calcio,0
+Finn Jeltsch,Centre-Back,18,5.00m,Germany,1.FC Nuremberg,VfB Stuttgart,0
+Vitinho,Right-Back,25,5.00m,Brazil,Burnley FC,Botafogo de Futebol e Regatas,0
+Largie Ramazani,Left Winger,23,5.00m,Belgium,UD Almería,Leeds United,0
+Malick Yalcouyé,Right Midfield,18,5.00m,Mali,IFK Göteborg,Brighton & Hove Albion,0
+Biel,Left Winger,23,5.00m,Brazil,Esporte Clube Bahia,Sporting CP,0
+Álex Jiménez,Right-Back,19,4.00m,Spain,Real Madrid U19,AC Milan,0
+Arthur Gomes,Left Winger,26,3.00m,Brazil,Cruzeiro Esporte Clube,Dynamo Moscow,0
+Mohamed Diomandé,Central Midfield,22,4.00m,Cote d'Ivoire,FC Nordsjaelland,Rangers FC,0
+Joachim Kayi Sanda,Centre-Back,18,800k,France,Valenciennes FC,Southampton FC,0
+Gabriel Pereira,Centre-Back,24,4.00m,Brazil,Gil Vicente FC,FC Copenhagen,0
+Albion Rrahmani,Centre-Forward,23,3.50m,Kosovo,FC Rapid 1923,AC Sparta Prague,0
+Marquinhos,Left Winger,24,4.00m,Brazil,Ferencvárosi TC,Spartak Moscow,0
+Jordan James,Central Midfield,20,4.50m,Wales,Birmingham City,Stade Rennais FC,0
+Enzo Boyomo,Centre-Back,22,3.00m,Cameroon,Real Valladolid CF,CA Osasuna,0
+Cher Ndour,Central Midfield,20,4.00m,Italy,Paris Saint-Germain,ACF Fiorentina,0
+Matías Moreno,Centre-Back,20,2.00m,Argentina,Club Atlético Belgrano,ACF Fiorentina,0
+Bastien Meupiyou,Centre-Back,18,800k,France,FC Nantes,Wolverhampton Wanderers,0
+Juninho,Centre-Forward,28,2.00m,Brazil,Qarabağ FK,CR Flamengo,0
+Sergey Volkov,Right-Back,21,4.50m,Russia,FC Krasnodar,Zenit St. Petersburg,0
+Alieu Fadera,Left Winger,22,2.50m,The Gambia,KRC Genk,Como 1907,0
+Ngal'ayel Mukau,Defensive Midfield,19,3.00m,DR Congo,KV Mechelen,LOSC Lille,0
+Mory Gbane,Defensive Midfield,24,2.50m,Cote d'Ivoire,Gil Vicente FC,Stade Reims,0
+Daniel Maldini,Attacking Midfield,22,4.50m,Italy,AC Milan,AC Monza,0
+Iker Almena,Right Winger,20,-,Spain,Girona FC,Al-Qadsiah FC,0
+Joel Pohjanpalo,Centre-Forward,30,5.00m,Finland,Venezia FC,Palermo FC,4.75m
+Gonzalo Montiel,Right-Back,28,5.00m,Argentina,Sevilla FC,CA River Plate,4.50m
+Suat Serdar,Central Midfield,27,5.00m,Germany,Hertha BSC,Hellas Verona,4.50m
+Andrea Belotti,Centre-Forward,30,5.00m,Italy,AS Roma,Como 1907,4.50m
+Amankwah Forson,Central Midfield,21,5.00m,Ghana,Red Bull Salzburg,Norwich City,4.50m
+Rafael Navarro,Centre-Forward,24,5.00m,Brazil,Sociedade Esportiva Palmeiras,Colorado Rapids,4.50m
+Gerónimo Rulli,Goalkeeper,32,5.00m,Argentina,Ajax Amsterdam,Olympique Marseille,4.00m
+Jérémy Le Douaron,Centre-Forward,26,5.00m,France,Stade Brestois 29,Palermo FC,4.00m
+Kamory Doumbia,Attacking Midfield,21,5.00m,Mali,Stade Reims,Stade Brestois 29,4.00m
+Enzo Copetti,Centre-Forward,28,5.00m,Argentina,Charlotte FC,CA Rosario Central,3.95m
+Monchu,Central Midfield,24,5.00m,Spain,Real Valladolid CF,Aris Thessaloniki,3.60m
+Aboubakary Koita,Left Winger,25,5.00m,Mauritania,Sint-Truidense VV,AEK Athens,3.60m
+Tomás Belmonte,Defensive Midfield,26,5.00m,Argentina,Deportivo Toluca,CA Boca Juniors,3.55m
+Romain Perraud,Left-Back,26,5.00m,France,Southampton FC,Real Betis Balompié,3.50m
+Hayao Kawabe,Central Midfield,28,5.00m,Japan,Standard Liège,Sanfrecce Hiroshima,3.50m
+Alexander Aravena,Left Winger,21,5.00m,Chile,CD Universidad Católica,Grêmio Foot-Ball Porto Alegrense,3.20m
+Jan-Carlo Simić,Centre-Back,19,5.00m,Serbia,AC Milan,RSC Anderlecht,3.00m
+Leopold Querfeld,Centre-Back,20,5.00m,Austria,Rapid Vienna,1.FC Union Berlin,3.00m
+László Bénes,Central Midfield,26,5.00m,Slovakia,Hamburger SV,1.FC Union Berlin,3.00m
+Mathias Delorge,Central Midfield,19,5.00m,Belgium,Sint-Truidense VV,KAA Gent,3.00m
+Hugo Siquet,Right-Back,22,5.00m,Belgium,SC Freiburg,Club Brugge KV,3.00m
+Alan Cervantes,Defensive Midfield,26,5.00m,Mexico,Santos Laguna,CF América,3.00m
+Richard Sánchez,Central Midfield,28,5.00m,Paraguay,CF América,Racing Club,2.75m
+Jan Kuchta,Centre-Forward,27,5.00m,Czech Republic,AC Sparta Prague,FC Midtjylland,2.70m
+Conan Ledesma,Goalkeeper,31,5.00m,Argentina,Cádiz CF,CA River Plate,2.60m
+Oleksandr Pikhalyonok,Central Midfield,27,5.00m,Ukraine,SC Dnipro-1 ( - 2024),Dynamo Kyiv,2.50m
+Serdar Saatçı,Centre-Back,21,5.00m,Türkiye,SC Braga,Trabzonspor,2.50m
+Fabinho,Defensive Midfield,22,5.00m,Brazil,Sociedade Esportiva Palmeiras,Red Bull Bragantino,2.50m
+Luca Orellano,Right Winger,24,5.00m,Argentina,Clube de Regatas Vasco da Gama,FC Cincinnati,2.50m
+Alhassan Yusuf,Central Midfield,24,5.00m,Nigeria,Royal Antwerp FC,New England Revolution,2.30m
+Matte Smets,Centre-Back,20,5.00m,Belgium,Sint-Truidense VV,KRC Genk,2.25m
+Jusuf Gazibegovic,Right-Back,24,5.00m,Bosnia-Herzegovina,SK Sturm Graz,1.FC Köln,2.00m
+Leonidas Stergiou,Right-Back,22,5.00m,Switzerland,FC St. Gallen 1879,VfB Stuttgart,2.00m
+Willian José,Centre-Forward,32,5.00m,Brazil,Real Betis Balompié,Spartak Moscow,2.00m
+Sam Lammers,Centre-Forward,27,5.00m,Netherlands,Rangers FC,Twente Enschede FC,2.00m
+Toni Martínez,Centre-Forward,27,5.00m,Spain,FC Porto,Deportivo Alavés,2.00m
+Ivan Sergeev,Centre-Forward,29,5.00m,Russia,Zenit St. Petersburg,Krylya Sovetov Samara,2.00m
+José Paradela,Central Midfield,26,5.00m,Argentina,CA River Plate,Club Necaxa,1.92m
+Karol Swiderski,Centre-Forward,28,5.00m,Poland,Charlotte FC,Panathinaikos FC,1.90m
+Juan Musso,Goalkeeper,30,5.00m,Argentina,Atalanta BC,Atlético de Madrid,Loan fee:1.50m
+Joselu,Centre-Forward,34,5.00m,Spain,RCD Espanyol Barcelona,Real Madrid,1.50m
+Joselu,Centre-Forward,34,5.00m,Spain,Real Madrid,Al-Gharafa SC,1.50m
+Jesús Ferreira,Centre-Forward,24,5.00m,United States,FC Dallas,Seattle Sounders FC,1.45m
+Romeo Amane,Central Midfield,21,5.00m,Cote d'Ivoire,BK Häcken,Rapid Vienna,1.30m
+Luke Cundle,Central Midfield,22,5.00m,England,Wolverhampton Wanderers,Millwall FC,1.20m
+Denis Vavro,Centre-Back,28,5.00m,Slovakia,FC Copenhagen,VfL Wolfsburg,Loan fee:750k
+Arthur Melo,Defensive Midfield,28,5.00m,Brazil,Juventus FC,Girona FC,Loan fee:700k
+Lennard Maloney,Defensive Midfield,25,5.00m,United States,1.FC Heidenheim 1846,1.FSV Mainz 05,500k
+Rui Silva,Goalkeeper,30,5.00m,Portugal,Real Betis Balompié,Sporting CP,Loan fee:500k
+Donny van de Beek,Central Midfield,27,5.00m,Netherlands,Manchester United,Girona FC,500k
+Felipe Carballo,Central Midfield,27,5.00m,Uruguay,Grêmio Foot-Ball Porto Alegrense,New York Red Bulls,Loan fee:455k
+Meschack Elia,Centre-Forward,27,5.00m,DR Congo,BSC Young Boys,FC Nantes,Loan fee:250k
+Kacper Kozlowski,Attacking Midfield,20,5.00m,Poland,Brighton & Hove Albion,Gaziantep FK,200k
+Kevin Stöger,Attacking Midfield,30,5.00m,Austria,VfL Bochum,Borussia Mönchengladbach,free transfer
+Yannik Keitel,Defensive Midfield,24,5.00m,Germany,SC Freiburg,VfB Stuttgart,free transfer
+Dani de Wit,Attacking Midfield,26,5.00m,Netherlands,AZ Alkmaar,VfL Bochum,free transfer
+Myron Boadu,Centre-Forward,23,5.00m,Netherlands,AS Monaco,VfL Bochum,loan transfer
+André Silva,Centre-Forward,29,5.00m,Portugal,RB Leipzig,SV Werder Bremen,loan transfer
+Alex Král,Central Midfield,26,5.00m,Czech Republic,Spartak Moscow,1.FC Union Berlin,free transfer
+Malick Yalcouyé,Right Midfield,18,5.00m,Mali,Brighton & Hove Albion,SK Sturm Graz,loan transfer
+Leo Sauer,Left Winger,18,5.00m,Slovakia,Feyenoord Rotterdam,NAC Breda,loan transfer
+Alessandro Zanoli,Right-Back,23,5.00m,Italy,SSC Napoli,Genoa CFC,loan transfer
+Vladan Kovačević,Goalkeeper,26,5.00m,Bosnia-Herzegovina,Sporting CP,Legia Warszawa,loan transfer
+Casper Tengstedt,Centre-Forward,24,5.00m,Denmark,SL Benfica,Hellas Verona,loan transfer
+Domagoj Bradarić,Left-Back,24,5.00m,Croatia,US Salernitana 1919,Hellas Verona,loan transfer
+Milos Lukovic,Centre-Forward,19,5.00m,Serbia,RC Strasbourg Alsace,SC Heerenveen,loan transfer
+Harry Clarke,Right-Back,23,5.00m,England,Ipswich Town,Sheffield United,loan transfer
+Alfie Gilchrist,Right-Back,20,5.00m,England,Chelsea FC,Sheffield United,loan transfer
+Zinho Vanheusden,Centre-Back,24,5.00m,Belgium,Inter Milan,KV Mechelen,loan transfer
+Augusto Batalla,Goalkeeper,28,5.00m,Argentina,CA River Plate,Rayo Vallecano,loan transfer
+James Rodríguez,Attacking Midfield,33,5.00m,Colombia,São Paulo Futebol Clube,Rayo Vallecano,free transfer
+Rick Karsdorp,Right-Back,29,5.00m,Netherlands,AS Roma,PSV Eindhoven,free transfer
+John Lundstram,Defensive Midfield,30,5.00m,England,Rangers FC,Trabzonspor,free transfer
+Aaron Boupendza,Centre-Forward,28,5.00m,Gabon,FC Cincinnati,FC Rapid 1923,free transfer
+Emil Audero,Goalkeeper,28,5.00m,Indonesia,Como 1907,Palermo FC,loan transfer
+Sivert Mannsverk,Defensive Midfield,22,5.00m,Norway,Ajax Amsterdam,Cardiff City,loan transfer
+Matheus,Goalkeeper,32,5.00m,Brazil,SC Braga,Ajax Amsterdam,loan transfer
+Andoni Gorosabel,Right-Back,27,5.00m,Spain,Deportivo Alavés,Athletic Bilbao,free transfer
+Kelechi Iheanacho,Centre-Forward,28,5.00m,Nigeria,Sevilla FC,Middlesbrough FC,loan transfer
+Caleb Wiley,Left-Back,19,5.00m,United States,Chelsea FC,RC Strasbourg Alsace,loan transfer
+Marko Stamenic,Defensive Midfield,22,5.00m,New Zealand,Nottingham Forest,Olympiacos Piraeus,loan transfer
+Alex Král,Central Midfield,26,5.00m,Czech Republic,1.FC Union Berlin,RCD Espanyol Barcelona,loan transfer
+Sebastiano Esposito,Second Striker,22,5.00m,Italy,Inter Milan,FC Empoli,loan transfer
+Mattia Viti,Centre-Back,22,5.00m,Italy,OGC Nice,FC Empoli,loan transfer
+Borja Iglesias,Centre-Forward,31,5.00m,Spain,Real Betis Balompié,Celta de Vigo,loan transfer
+Bamo Meïté,Centre-Back,23,5.00m,Cote d'Ivoire,Olympique Marseille,Montpellier HSC,loan transfer
+Mason Holgate,Centre-Back,27,5.00m,Jamaica,Everton FC,West Bromwich Albion,loan transfer
+Bobby De Cordova-Reid,Right Winger,31,5.00m,Jamaica,Fulham FC,Leicester City,free transfer
+James Beadle,Goalkeeper,19,5.00m,England,Brighton & Hove Albion U21,Sheffield Wednesday,loan transfer
+Umar Sadiq,Centre-Forward,27,5.00m,Nigeria,Real Sociedad,Valencia CF,loan transfer
+Matheus Nascimento,Centre-Forward,20,5.00m,Brazil,Botafogo de Futebol e Regatas,Los Angeles Galaxy,loan transfer
+Marco Reus,Attacking Midfield,35,5.00m,Germany,Borussia Dortmund,Los Angeles Galaxy,free transfer
+Rafik Guitane,Right Winger,25,5.00m,Algeria,GD Estoril Praia,SC Braga,loan transfer
+Luka Romero,Right Winger,19,5.00m,Argentina,AC Milan,Deportivo Alavés,loan transfer
+Renato Tapia,Defensive Midfield,29,5.00m,Peru,Celta de Vigo,CD Leganés,free transfer
+Aurélio Buta,Right-Back,27,5.00m,Portugal,Eintracht Frankfurt,Stade Reims,loan transfer
+Victor Hugo,Attacking Midfield,20,5.00m,Brazil,CR Flamengo,Göztepe,loan transfer
+Iker Muniain,Attacking Midfield,31,5.00m,Spain,Athletic Bilbao,CA San Lorenzo de Almagro,free transfer
+Bruno Méndez,Centre-Back,24,5.00m,Uruguay,Granada CF,Deportivo Toluca,free transfer
+Lewis O'Brien,Central Midfield,26,5.00m,England,Nottingham Forest,Swansea City,loan transfer
+Federico Viñas,Centre-Forward,26,5.00m,Uruguay,Club León FC,Real Oviedo,loan transfer
+Gaetano Castrovilli,Central Midfield,27,5.00m,Italy,SS Lazio,AC Monza,loan transfer
+Connor Goldson,Centre-Back,31,5.00m,England,Rangers FC,Aris Limassol,?
+Nahitan Nández,Central Midfield,28,5.00m,Uruguay,Cagliari Calcio,Al-Qadsiah FC,free transfer
+Hakim Ziyech,Right Winger,31,5.00m,Morocco,Galatasaray,Al-Duhail SC,free transfer
+Tarik Tissoudali,Centre-Forward,31,5.00m,Morocco,PAOK Thessaloniki,Khor Fakkan SSC,loan transfer
+Matías Vargas,Left Winger,27,5.00m,Argentina,Shanghai Port,Al-Fateh SC,free transfer
+Lewis O'Brien,Central Midfield,25,5.00m,England,Nottingham Forest,Los Angeles FC,loan transfer
+Yaimar Medina,Left-Back,20,3.50m,Ecuador,Independiente del Valle,KRC Genk,0
+Sondre Langås,Centre-Back,24,2.30m,Norway,Viking FK,Derby County,0
+Giovanni Leoni,Centre-Back,17,4.50m,Italy,UC Sampdoria,Parma Calcio 1913,0
+Micael,Centre-Back,24,1.00m,Brazil,Houston Dynamo FC,Sociedade Esportiva Palmeiras,0
+Lucas Sanabria,Defensive Midfield,21,3.00m,Uruguay,Club Nacional,Los Angeles Galaxy,0
+Marco Pašalić,Right Winger,24,4.00m,Croatia,HNK Rijeka,Orlando City SC,0
+Matteo Cancellieri,Right Winger,22,4.80m,Italy,SS Lazio,Parma Calcio 1913,Loan fee:1.20m
+Bashir Humphreys,Left-Back,21,4.80m,England,Chelsea FC,Burnley FC,loan transfer
+Skelly Alvero,Defensive Midfield,22,4.00m,France,Olympique Lyon,SV Werder Bremen,0
+Sebastian Walukiewicz,Centre-Back,24,2.50m,Poland,FC Empoli,Torino FC,0
+Jesús Gallardo,Left-Back,29,4.00m,Mexico,CF Monterrey,Deportivo Toluca,0
+Charlie Hughes,Centre-Back,20,600k,England,Wigan Athletic,Hull City,0
+Enis Bardhi,Attacking Midfield,29,4.70m,North Macedonia,Trabzonspor,Bodrum FK,free transfer
+Carlos Palacios,Attacking Midfield,24,3.00m,Chile,CSD Colo-Colo,CA Boca Juniors,0
+Mark McGuinness,Centre-Back,23,4.50m,Ireland,Cardiff City,Luton Town,0
+Agustín Canobbio,Left Winger,26,4.50m,Uruguay,Club Athletico Paranaense,Fluminense Football Club,0
+Jurgen Ekkelenkamp,Central Midfield,24,4.50m,Netherlands,Royal Antwerp FC,Udinese Calcio,0
+Ryan Giles,Left-Back,24,4.50m,England,Luton Town,Hull City,0
+Bénie Traoré,Left Winger,21,4.00m,Cote d'Ivoire,Sheffield United,FC Basel 1893,0
+Marin Ljubicic,Centre-Forward,22,4.00m,Croatia,LASK,1.FC Union Berlin,0
+Germán Pezzella,Centre-Back,33,3.00m,Argentina,Real Betis Balompié,CA River Plate,0
+Lyanco,Centre-Back,27,3.00m,Brazil,Southampton FC,Clube Atlético Mineiro,0
+Fausto Vera,Defensive Midfield,24,4.50m,Argentina,Sport Club Corinthians Paulista,Clube Atlético Mineiro,0
+Charlie Cresswell,Centre-Back,21,4.00m,England,Leeds United,FC Toulouse,0
+Deniz Gül,Centre-Forward,20,2.00m,Türkiye,Hammarby IF,FC Porto,0
+Jhoanner Chávez,Left-Back,22,2.00m,Ecuador,Esporte Clube Bahia,RC Lens,0
+Jordan,Centre-Forward,28,3.00m,United States,1.FC Union Berlin,Stade Reims,0
+Mama Baldé,Centre-Forward,28,4.00m,Guinea-Bissau,Olympique Lyon,Stade Brestois 29,0
+Unai Hernández,Central Midfield,20,1.00m,Spain,FC Barcelona Atlètic,Al-Ittihad Club,0
+Igor Gomes,Centre-Back,23,1.50m,Brazil,Sport Club Internacional,Shabab Al-Ahli Club,0
+Jens Odgaard,Attacking Midfield,25,4.50m,Denmark,AZ Alkmaar,Bologna FC 1909,4.28m
+Jesper Daland,Centre-Back,24,4.50m,Norway,Cercle Brugge ,Cardiff City,4.10m
+Troy Parrott,Centre-Forward,22,4.50m,Ireland,Tottenham Hotspur U21,AZ Alkmaar,4.00m
+Mario Mitaj,Left-Back,21,4.50m,Albania,Lokomotiv Moscow,Al-Ittihad Club,4.00m
+Nedim Bajrami,Attacking Midfield,25,4.50m,Albania,US Sassuolo,Rangers FC,3.60m
+Jens Petter Hauge,Left Winger,25,4.50m,Norway,Eintracht Frankfurt,FK Bodø/Glimt,3.50m
+Adalberto Carrasquilla,Central Midfield,26,4.50m,Panama,Houston Dynamo FC,UNAM Pumas,3.40m
+Nediljko Labrovic,Goalkeeper,24,4.50m,Croatia,HNK Rijeka,FC Augsburg,2.50m
+Rúben Vinagre,Left-Back,25,4.50m,Portugal,Sporting CP,Legia Warszawa,2.50m
+Aarón Quirós,Centre-Back,22,4.50m,Argentina,CA Banfield,CA Vélez Sarsfield,2.43m
+Joaquín Pereyra,Central Midfield,25,4.50m,Argentina,Club Atlético Tucumán,Minnesota United FC,2.19m
+Jack McGlynn,Central Midfield,21,4.50m,United States,Philadelphia Union,Houston Dynamo FC,2.04m
+Brooke Norton-Cuffy,Right-Back,20,4.50m,England,Arsenal FC U21,Genoa CFC,2.00m
+Zan Celar,Centre-Forward,25,4.50m,Slovenia,FC Lugano,Queens Park Rangers,2.00m
+Tomás Conechny,Left Winger,26,4.50m,Argentina,CD Godoy Cruz Antonio Tomba,Deportivo Alavés,2.00m
+Giovanni Leoni,Centre-Back,17,4.50m,Italy,Calcio Padova,UC Sampdoria,1.50m
+Jean-Philippe Krasso,Centre-Forward,26,4.50m,Cote d'Ivoire,Red Star Belgrade,Paris FC,1.50m
+Francis Amuzu,Left Winger,25,4.50m,Belgium,RSC Anderlecht,Grêmio Foot-Ball Porto Alegrense,1.20m
+Adam Bareiro,Centre-Forward,28,4.50m,Paraguay,CA River Plate,Al-Rayyan SC,Loan fee:959k
+DeJuan Jones,Left-Back,27,4.50m,United States,New England Revolution,Columbus Crew,550k
+Kevin Agudelo,Attacking Midfield,25,4.50m,Colombia,Al-Nasr SC (UAE),Al-Wahda FC,loan transfer
+Paxten Aaronson,Central Midfield,20,4.50m,United States,Eintracht Frankfurt,FC Utrecht,loan transfer
+Stijn Spierings,Defensive Midfield,28,4.50m,Netherlands,RC Lens,Bröndby IF,free transfer
+Nicolás Valentini,Centre-Back,23,4.50m,Argentina,ACF Fiorentina,Hellas Verona,loan transfer
+Ki-Jana Hoever,Right-Back,22,4.50m,Netherlands,Wolverhampton Wanderers,AJ Auxerre,loan transfer
+Hamza Choudhury,Defensive Midfield,27,4.50m,Bangladesh,Leicester City,Sheffield United,loan transfer
+Antonio Raimondo,Centre-Forward,20,4.50m,Italy,Bologna FC 1909,US Salernitana 1919,loan transfer
+Nicolás Valentini,Centre-Back,23,4.50m,Argentina,CA Boca Juniors,ACF Fiorentina,free transfer
+Sam Greenwood,Centre-Forward,22,4.50m,England,Leeds United,Preston North End,loan transfer
+Oli McBurnie,Centre-Forward,28,4.50m,Scotland,Sheffield United,UD Las Palmas,free transfer
+Wendell,Left-Back,31,4.50m,Brazil,FC Porto,São Paulo Futebol Clube,free transfer
+Antonio Raimondo,Centre-Forward,20,4.50m,Italy,Bologna FC 1909,Venezia FC,loan transfer
+Ryan Giles,Left-Back,24,4.50m,England,Hull City,Middlesbrough FC,loan transfer
+Praxedes,Central Midfield,22,4.50m,Brazil,Red Bull Bragantino,Club Athletico Paranaense,loan transfer
+André Horta,Central Midfield,28,4.50m,Portugal,SC Braga,Olympiacos Piraeus,loan transfer
+Marash Kumbulla,Centre-Back,24,4.50m,Albania,AS Roma,RCD Espanyol Barcelona,loan transfer
+Agustín Álvarez,Centre-Forward,23,4.50m,Uruguay,US Sassuolo,Elche CF,loan transfer
+Andreas Ntoi,Centre-Back,21,4.50m,Greece,Olympiacos Piraeus,Rio Ave FC,loan transfer
+Jovan Mijatović,Centre-Forward,19,4.50m,Serbia,New York City FC,Oud-Heverlee Leuven,loan transfer
+Rodrigo,Centre-Forward,33,4.50m,Spain,Al-Rayyan SC,Al-Gharafa SC,loan transfer
+Kamil Piatkowski,Centre-Back,24,4.50m,Poland,Red Bull Salzburg,Kasimpasa,loan transfer
+Antonín Barák,Attacking Midfield,29,4.50m,Czech Republic,ACF Fiorentina,Kasimpasa,loan transfer
+Baltasar Rodríguez,Attacking Midfield,21,4.50m,Argentina,Racing Club,Inter Miami CF,loan transfer
+Salem Al-Najdi,Left-Back,21,500k,Saudi Arabia,Al-Fateh SC,Al-Nassr FC,0
+Oğuz Aydın,Left Winger,23,4.30m,Türkiye,Alanyaspor,Fenerbahce,0
+Samuel Dahl,Left-Back,21,3.00m,Sweden,Djurgårdens IF,AS Roma,0
+Wagner Leonardo,Centre-Back,25,2.00m,Brazil,Esporte Clube Vitória,Grêmio Foot-Ball Porto Alegrense,0
+Emirhan Topçu,Centre-Back,23,4.30m,Türkiye,Caykur Rizespor,Besiktas JK,3.40m
+Youcef Atal,Right-Back,28,4.30m,Algeria,Adana Demirspor,Al-Sadd SC,free transfer
+Ricardo Gomes,Centre-Forward,32,4.30m,Cape Verde,Al-Shamal SC,Al-Wakrah SC,?
+Mohamed Abdelmonem,Centre-Back,25,3.00m,Egypt,Al Ahly FC,OGC Nice,0
+Alerrandro,Centre-Forward,25,4.00m,Brazil,Red Bull Bragantino,CSKA Moscow,0
+Jones El-Abdellaoui,Right Winger,18,2.30m,Morocco,Vålerenga Fotball Elite,RC Celta Fortuna,0
+Sorba Thomas,Right Winger,25,4.20m,Wales,Huddersfield Town,FC Nantes,loan transfer
+Zian Flemming,Attacking Midfield,26,4.20m,Netherlands,Millwall FC,Burnley FC,loan transfer
+Christoph Klarer,Centre-Back,24,3.00m,Austria,SV Darmstadt 98,Birmingham City,0
+Micah Hamilton,Left Winger,20,2.00m,England,Manchester City U21,Middlesbrough FC,0
+Marko Arnautovic,Centre-Forward,35,4.00m,Austria,Bologna FC 1909,Inter Milan,0
+Alan Velasco,Left Winger,22,4.00m,Argentina,FC Dallas,CA Boca Juniors,0
+Jhon Jhon,Attacking Midfield,21,4.00m,Brazil,Sociedade Esportiva Palmeiras,Red Bull Bragantino,0
+Ognjen Mimovic,Right-Back,20,4.00m,Serbia,Red Star Belgrade,Fenerbahce,0
+Bojan Miovski,Centre-Forward,25,4.00m,North Macedonia,Aberdeen FC,Girona FC,0
+Isaiah Jones,Right Winger,25,4.00m,Guyana,Middlesbrough FC,Luton Town,0
+Keny Arroyo,Right Winger,18,4.00m,Ecuador,Independiente del Valle,Besiktas JK,0
+Mohamed Belloumi,Right Winger,22,4.00m,Algeria,SC Farense,Hull City,0
+Milson,Left Winger,24,4.00m,Angola,Maccabi Tel Aviv,Red Star Belgrade,0
+Rômulo,Defensive Midfield,24,4.00m,Brazil,Sport Club Internacional,Tigres UANL,0
+Rubén Lezcano,Attacking Midfield,21,4.00m,Paraguay,Club Libertad Asunción,Fluminense Football Club,0
+Erick,Defensive Midfield,27,4.00m,Brazil,Club Athletico Paranaense,Esporte Clube Bahia,0
+Santiago Ramos Mingo,Centre-Back,23,4.00m,Argentina,Defensa y Justicia,Esporte Clube Bahia,0
+Facundo Farías,Attacking Midfield,22,4.00m,Argentina,Inter Miami CF,Club Estudiantes de La Plata,0
+Rodrigo Echeverría,Defensive Midfield,29,4.00m,Chile,CA Huracán,Club León FC,0
+Rachid Kouda,Central Midfield,22,800k,Italy,Spezia Calcio,Parma Calcio 1913,0
+Min-hyeok Yang,Right Winger,18,3.50m,"Korea, South",Gangwon FC,Tottenham Hotspur,0
+Paris Brunner,Centre-Forward,18,-,Germany,Borussia Dortmund U19,AS Monaco,0
+Samuel Essende,Centre-Forward,26,3.50m,DR Congo,FC Vizela,FC Augsburg,0
+Ondrej Lingr,Attacking Midfield,25,3.50m,Czech Republic,SK Slavia Prague,Feyenoord Rotterdam,0
+Derek Cornelius,Centre-Back,26,2.80m,Canada,Malmö FF,Olympique Marseille,0
+Willum Thór Willumsson,Attacking Midfield,25,3.00m,Iceland,Go Ahead Eagles,Birmingham City,0
+Stipe Biuk,Left Winger,21,4.00m,Croatia,Los Angeles FC,Real Valladolid CF,0
+Peque Fernández,Second Striker,21,3.00m,Spain,Racing Santander,Sevilla FC,0
+Oliver Provstgaard,Centre-Back,21,2.50m,Denmark,Vejle Boldklub,SS Lazio,0
+Ao Tanaka,Defensive Midfield,25,4.00m,Japan,Fortuna Düsseldorf,Leeds United,0
+Djé D'Avilla,Defensive Midfield,21,500k,Cote d'Ivoire,UD Leiria,Chicago Fire FC,0
+Erencan Yardımcı,Centre-Forward,22,2.00m,Türkiye,Eyüpspor,TSG 1899 Hoffenheim,0
+Yousef Salech,Centre-Forward,23,1.80m,Denmark,IK Sirius,Cardiff City,0
+Daniel Fila,Centre-Forward,22,1.20m,Czech Republic,SK Slavia Prague,Venezia FC,0
+Gaetano Oristanio,Attacking Midfield,21,4.00m,Italy,Inter Milan,Venezia FC,0
+Carlos Miguel,Goalkeeper,25,4.00m,Brazil,Sport Club Corinthians Paulista,Nottingham Forest,0
+Denil Castillo,Central Midfield,20,1.00m,Ecuador,Shakhtar Donetsk,FC Midtjylland,0
+Wilson Isidor,Centre-Forward,23,4.00m,France,Lokomotiv Moscow,Zenit St. Petersburg,0
+Vanja Drkusic,Centre-Back,24,3.50m,Slovenia,FC Sochi,Zenit St. Petersburg,0
+Emin Bayram,Centre-Back,21,4.00m,Türkiye,Galatasaray,KVC Westerlo,0
+Tammer Bany,Centre-Forward,21,500k,Denmark,Randers FC,West Bromwich Albion,0
+Lucas Evangelista,Central Midfield,29,3.00m,Brazil,Red Bull Bragantino,Sociedade Esportiva Palmeiras,0
+Diego Conde,Goalkeeper,25,2.00m,Spain,CD Leganés,Villarreal CF,0
+Andréas Hountondji,Centre-Forward,22,1.80m,Benin,SM Caen,Burnley FC,0
+Franjo Ivanovic,Centre-Forward,20,1.50m,Croatia,HNK Rijeka,Union Saint-Gilloise,0
+Alexander Lind,Centre-Forward,22,3.00m,Denmark,Silkeborg IF,Pisa Sporting Club,0
+Fidel Barajas,Right Winger,18,2.00m,Mexico,Real Salt Lake City,Deportivo Guadalajara,0
+Rubén Duarte,Left-Back,28,3.00m,Spain,Deportivo Alavés,UNAM Pumas,0
+Giovanni González,Right-Back,29,3.00m,Uruguay,RCD Mallorca,FC Krasnodar,0
+Igor Jesus,Defensive Midfield,21,2.00m,Brazil,CF Estrela Amadora,Los Angeles FC,0
+Ahmed Qasem,Right Winger,21,3.00m,Sweden,IF Elfsborg,Nashville SC,0
+Diber Cambindo,Centre-Forward,28,4.00m,Colombia,CD Cruz Azul,Club Necaxa,3.90m
+Omar Campos,Left-Back,22,4.00m,Mexico,Los Angeles FC,CD Cruz Azul,3.80m
+Eren Elmalı,Left-Back,24,4.00m,Türkiye,Trabzonspor,Galatasaray,3.50m
+Couhaib Driouech,Left Winger,22,4.00m,Morocco,Excelsior Rotterdam,PSV Eindhoven,3.50m
+Jonathan Bamba,Left Winger,28,4.00m,Cote d'Ivoire,Celta de Vigo,Chicago Fire FC,3.50m
+Niklas Dorsch,Defensive Midfield,26,4.00m,Germany,FC Augsburg,1.FC Heidenheim 1846,3.50m
+Alejandro Francés,Right-Back,21,4.00m,Spain,Real Zaragoza,Girona FC,3.50m
+Sverrir Ingi Ingason,Centre-Back,30,4.00m,Iceland,FC Midtjylland,Panathinaikos FC,3.08m
+Lucas Hey,Centre-Back,21,4.00m,Denmark,FC Nordsjaelland,RSC Anderlecht,3.00m
+Ramón Miérez,Centre-Forward,27,4.00m,Argentina,NK Osijek,Al-Jazira Club,3.00m
+Juan Barinaga,Right-Back,23,4.00m,Argentina,Club Atlético Belgrano,CA Boca Juniors,2.85m
+Nicolás Acevedo,Defensive Midfield,25,4.00m,Uruguay,New York City FC,Esporte Clube Bahia,2.85m
+Saud Abdulhamid,Right-Back,25,4.00m,Saudi Arabia,Al-Hilal SFC,AS Roma,2.50m
+Zé Rafael,Central Midfield,31,4.00m,Brazil,Sociedade Esportiva Palmeiras,Santos FC,2.50m
+John Tolkin,Left-Back,22,4.00m,United States,New York Red Bulls,Holstein Kiel,2.50m
+Costinha,Right-Back,24,4.00m,Portugal,Rio Ave FC,Olympiacos Piraeus,2.50m
+Mattia Zanotti,Right-Back,21,4.00m,Italy,Inter Milan,FC Lugano,2.50m
+Kelvin Yeboah,Centre-Forward,24,4.00m,Italy,Genoa CFC,Minnesota United FC,2.50m
+Dante Vanzeir,Centre-Forward,26,4.00m,Belgium,New York Red Bulls,KAA Gent,2.35m
+Jean Butez,Goalkeeper,29,4.00m,France,Royal Antwerp FC,Como 1907,2.10m
+Ciro Immobile,Centre-Forward,34,4.00m,Italy,SS Lazio,Besiktas JK,2.00m
+Jadsom,Defensive Midfield,23,4.00m,Brazil,Red Bull Bragantino,Al-Wahda FC,2.00m
+Ricardo Mangas,Left-Back,26,4.00m,Portugal,Vitória Guimarães SC,Spartak Moscow,2.00m
+Pedro Malheiro,Right-Back,23,4.00m,Portugal,Boavista FC,Trabzonspor,2.00m
+Igor Lichnovsky,Centre-Back,30,4.00m,Chile,Tigres UANL,CF América,2.00m
+Maximiliano Meza,Right Winger,31,4.00m,Argentina,CF Monterrey,CA River Plate,1.80m
+Denis Drăguș,Centre-Forward,24,4.00m,Romania,Standard Liège,Trabzonspor,1.70m
+Shamar Nicholson,Centre-Forward,27,4.00m,Jamaica,Spartak Moscow,Club Tijuana,1.60m
+Armindo Sieb,Second Striker,21,4.00m,Germany,SpVgg Greuther Fürth,Bayern Munich,1.50m
+Samed Bazdar,Centre-Forward,20,4.00m,Bosnia-Herzegovina,FK Partizan Belgrade,Real Zaragoza,1.50m
+Eros Mancuso,Right-Back,25,4.00m,Argentina,Club Estudiantes de La Plata,Fortaleza Esporte Clube,1.47m
+Otávio,Defensive Midfield,30,4.00m,Brazil,Clube Atlético Mineiro,Fluminense Football Club,1.37m
+Sasa Zdjelar,Defensive Midfield,29,4.00m,Serbia,CSKA Moscow,Zenit St. Petersburg,1.30m
+Christopher Operi,Left-Back,27,4.00m,Cote d'Ivoire,Le Havre AC,Basaksehir FK,1.30m
+Luis Rioja,Left Winger,30,4.00m,Spain,Deportivo Alavés,Valencia CF,1.20m
+Armindo Sieb,Second Striker,21,4.00m,Germany,Bayern Munich,1.FSV Mainz 05,Loan fee:1.00m
+Marcos Acuña,Left-Back,32,4.00m,Argentina,Sevilla FC,CA River Plate,1.00m
+Stoichkov,Second Striker,30,4.00m,Spain,SD Eibar,Deportivo Alavés,1.00m
+Álex Sola,Right Winger,25,4.00m,Spain,Real Sociedad,Getafe CF,1.00m
+Óscar Estupiñán,Centre-Forward,27,4.00m,Colombia,Hull City,FC Juárez,1.00m
+Jackson Muleka,Centre-Forward,24,4.00m,DR Congo,Besiktas JK,Al-Kholood Club,Loan fee:1.00m
+Léo,Centre-Forward,27,4.00m,Brazil,Shandong Taishan,Shanghai Port,875k
+Jarne Steuckers,Right Winger,22,4.00m,Belgium,Sint-Truidense VV,KRC Genk,800k
+Wilson Isidor,Centre-Forward,23,4.00m,France,Zenit St. Petersburg,Sunderland AFC,Loan fee:750k
+Dimitri Lavalée,Left-Back,27,4.00m,Belgium,KV Mechelen,SK Sturm Graz,700k
+Samuel Dahl,Left-Back,21,4.00m,Sweden,AS Roma,SL Benfica,Loan fee:600k
+Wilfried Kanga,Centre-Forward,26,4.00m,Cote d'Ivoire,Hertha BSC,Cardiff City,Loan fee:500k
+Roberto Piccoli,Centre-Forward,23,4.00m,Italy,Atalanta BC,Cagliari Calcio,Loan fee:500k
+Dion Beljo,Centre-Forward,22,4.00m,Croatia,FC Augsburg,Rapid Vienna,Loan fee:300k
+Santiago Longo,Defensive Midfield,26,4.00m,Argentina,Club Atlético Belgrano,São Paulo Futebol Clube,Loan fee:271k
+Tom Krauß,Central Midfield,23,4.00m,Germany,1.FSV Mainz 05,Luton Town,Loan fee:250k
+Marcos Antônio,Central Midfield,24,4.00m,Brazil,SS Lazio,São Paulo Futebol Clube,Loan fee:150k
+Matteo Lovato,Centre-Back,24,4.00m,Italy,US Salernitana 1919,US Sassuolo,Loan fee:150k
+Adryelson,Centre-Back,26,4.00m,Brazil,Olympique Lyon,RSC Anderlecht,loan transfer
+Ludwig Augustinsson,Left-Back,30,4.00m,Sweden,Sevilla FC,RSC Anderlecht,free transfer
+Nick Woltemade,Second Striker,22,4.00m,Germany,SV Werder Bremen,VfB Stuttgart,free transfer
+Tom Krauß,Central Midfield,23,4.00m,Germany,1.FSV Mainz 05,VfL Bochum,loan transfer
+Marco Grüll,Left Winger,25,4.00m,Austria,Rapid Vienna,SV Werder Bremen,free transfer
+Cher Ndour,Central Midfield,20,4.00m,Italy,Paris Saint-Germain,Besiktas JK,loan transfer
+João Mário,Left Winger,31,4.00m,Portugal,SL Benfica,Besiktas JK,loan transfer
+Emmanuel Dennis,Centre-Forward,27,4.00m,Nigeria,Nottingham Forest,Blackburn Rovers,loan transfer
+Cédric Zesiger,Centre-Back,26,4.00m,Switzerland,VfL Wolfsburg,FC Augsburg,loan transfer
+Jan Kuchta,Centre-Forward,28,4.00m,Czech Republic,FC Midtjylland,AC Sparta Prague,loan transfer
+Matías Rojas,Attacking Midfield,29,4.00m,Paraguay,Inter Miami CF,CA River Plate,free transfer
+Zé Ivaldo,Centre-Back,27,4.00m,Brazil,Cruzeiro Esporte Clube,Santos FC,loan transfer
+Takuma Asano,Right Winger,29,4.00m,Japan,VfL Bochum,RCD Mallorca,free transfer
+Pierluigi Gollini,Goalkeeper,29,4.00m,Italy,Atalanta BC,Genoa CFC,loan transfer
+Amin Sarr,Centre-Forward,23,4.00m,Sweden,Olympique Lyon,Hellas Verona,loan transfer
+Sinaly Diomandé,Centre-Back,23,4.00m,Cote d'Ivoire,Olympique Lyon,AJ Auxerre,free transfer
+Gabriel Slonina,Goalkeeper,20,4.00m,United States,Chelsea FC,Barnsley FC,loan transfer
+Eray Cömert,Centre-Back,26,4.00m,Switzerland,Valencia CF,Real Valladolid CF,loan transfer
+Cenk Özkacar,Centre-Back,23,4.00m,Türkiye,Valencia CF,Real Valladolid CF,loan transfer
+Arijon Ibrahimovic,Attacking Midfield,19,4.00m,Germany,Bayern Munich,SS Lazio,loan transfer
+Stipe Biuk,Left Winger,21,4.00m,Croatia,Real Valladolid CF,HNK Hajduk Split,loan transfer
+Kristian Hlynsson,Attacking Midfield,21,4.00m,Iceland,Ajax Amsterdam,Sparta Rotterdam,loan transfer
+Philip Zinckernagel,Left Winger,29,4.00m,Denmark,Club Brugge KV,FK Bodø/Glimt,loan transfer
+Josh Wilson-Esbrand,Left-Back,22,4.00m,England,Manchester City,Stoke City,loan transfer
+Tom Cannon,Centre-Forward,21,4.00m,Ireland,Leicester City,Stoke City,loan transfer
+Oscar,Attacking Midfield,33,4.00m,Brazil,Shanghai Port,São Paulo Futebol Clube,free transfer
+Calum Chambers,Centre-Back,29,4.00m,England,Aston Villa,Cardiff City,free transfer
+Alfred Duncan,Central Midfield,31,4.00m,Ghana,ACF Fiorentina,Venezia FC,free transfer
+Daniele Rugani,Centre-Back,30,4.00m,Italy,Juventus FC,Ajax Amsterdam,loan transfer
+Danilo,Centre-Back,33,4.00m,Brazil,Juventus FC,CR Flamengo,free transfer
+Mihajlo Ilic,Centre-Back,21,4.00m,Serbia,Bologna FC 1909,FK Partizan Belgrade,loan transfer
+Malang Sarr,Centre-Back,25,4.00m,France,Chelsea FC,RC Lens,free transfer
+Kevin Mbabu,Right-Back,29,4.00m,Switzerland,Fulham FC,FC Midtjylland,free transfer
+Frédéric Guilbert,Right-Back,29,4.00m,France,RC Strasbourg Alsace,US Lecce,free transfer
+Reuell Walters,Right-Back,19,4.00m,England,Arsenal FC U21,Luton Town,free transfer
+Koki Saito,Left Winger,23,4.00m,Japan,Lommel SK,Queens Park Rangers,loan transfer
+Luca Mazzitelli,Central Midfield,28,4.00m,Italy,Frosinone Calcio,Como 1907,loan transfer
+Stole Dimitrievski,Goalkeeper,30,4.00m,North Macedonia,Rayo Vallecano,Valencia CF,free transfer
+Juan Bernat,Left-Back,31,4.00m,Spain,Paris Saint-Germain,Villarreal CF,loan transfer
+Calvin Ramsay,Right-Back,20,4.00m,Scotland,Liverpool FC,Wigan Athletic,loan transfer
+Shola Shoretire,Left Winger,20,4.00m,England,Manchester United U21,PAOK Thessaloniki,free transfer
+Mohamed Bayo,Centre-Forward,26,4.00m,Guinea,LOSC Lille,Royal Antwerp FC,loan transfer
+Dennis Praet,Central Midfield,30,4.00m,Belgium,Leicester City,Royal Antwerp FC,free transfer
+Valentin Rosier,Right-Back,27,4.00m,France,Besiktas JK,CD Leganés,free transfer
+Bamba Dieng,Centre-Forward,24,4.00m,Senegal,FC Lorient,Angers SCO,loan transfer
+Sydney van Hooijdonk,Centre-Forward,24,4.00m,Netherlands,Bologna FC 1909,Cesena FC,free transfer
+David Affengruber,Centre-Back,23,4.00m,Austria,SK Sturm Graz,Elche CF,free transfer
+Hugo,Left-Back,23,4.00m,Brazil,Botafogo de Futebol e Regatas,Esporte Clube Vitória,loan transfer
+Hannes Delcroix,Centre-Back,25,4.00m,Belgium,Burnley FC,Swansea City,loan transfer
+Riechedly Bazoer,Centre-Back,27,4.00m,Curacao,AZ Alkmaar,Konyaspor,?
+Sékou Koïta,Centre-Forward,24,4.00m,Mali,Red Bull Salzburg,CSKA Moscow,free transfer
+Lincoln,Attacking Midfield,26,4.00m,Brazil,Fenerbahce,Hull City,loan transfer
+Nico Melamed,Attacking Midfield,23,4.00m,Spain,RCD Espanyol Barcelona,UD Almería,free transfer
+Calegari,Right-Back,22,4.00m,Brazil,Fluminense Football Club,FC Famalicão,loan transfer
+Juanmi,Left Winger,31,4.00m,Spain,Real Betis Balompié,Getafe CF,loan transfer
+Ibrahim Salah,Left Winger,23,4.00m,Morocco,Stade Rennais FC,Stade Brestois 29,loan transfer
+Ricardo Gomes,Centre-Forward,33,4.00m,Cape Verde,Al-Wakrah SC,Al-Khor SC,loan transfer
+Leonardo Spinazzola,Left-Back,31,4.00m,Italy,AS Roma,SSC Napoli,free transfer
+Miguel Crespo,Central Midfield,27,4.00m,Portugal,Fenerbahce,Basaksehir FK,free transfer
+Alfredo Morelos,Centre-Forward,28,4.00m,Colombia,Santos FC,Atlético Nacional,loan transfer
+Paul Arriola,Right Winger,29,4.00m,United States,FC Dallas,Seattle Sounders FC,?
+Iago,Left-Back,27,4.00m,Brazil,FC Augsburg,Esporte Clube Bahia,free transfer
+Gastón Ávila,Centre-Back,23,4.00m,Argentina,Ajax Amsterdam,Fortaleza Esporte Clube,loan transfer
+Biro,Right Winger,20,4.00m,Brazil,Sport Club Corinthians Paulista,Sharjah FC,loan transfer
+João Pedro,Centre-Forward,31,4.00m,Brazil,Al-Taawoun FC,Al-Wasl FC,free transfer
+Joel Ndala,Left Winger,18,4.00m,England,Manchester City U21,Nottingham Forest U21,loan transfer
+Marcel Hartel,Central Midfield,28,4.00m,Germany,FC St. Pauli,St. Louis CITY SC,free transfer
+Cacá,Centre-Back,25,3.00m,Brazil,Tokushima Vortis,Sport Club Corinthians Paulista,0
+Ahmed Al-Ghamdi,Left Winger,23,600k,Saudi Arabia,Al-Ittihad Club,NEOM SC,0
+Ronnie Edwards,Centre-Back,21,3.80m,England,Peterborough United,Southampton FC,3.50m
+Nathan Wood,Centre-Back,22,3.80m,England,Swansea City,Southampton FC,3.50m
+Luke McNally,Centre-Back,24,3.80m,Ireland,Burnley FC,Bristol City,1.75m
+Yusuf Sarı,Right Winger,26,3.80m,Türkiye,Adana Demirspor,Basaksehir FK,1.00m
+Ronnie Edwards,Centre-Back,21,3.80m,England,Southampton FC,Queens Park Rangers,loan transfer
+Tozé,Attacking Midfield,31,3.80m,Portugal,Al-Hazem SC,Al-Riyadh SC,free transfer
+Scott Twine,Attacking Midfield,25,3.00m,England,Burnley FC,Bristol City,0
+Frankie Amaya,Central Midfield,23,2.50m,United States,New York Red Bulls,Deportivo Toluca,0
+Aidan Morris,Central Midfield,22,3.00m,United States,Columbus Crew,Middlesbrough FC,0
+Andrés Montaño,Central Midfield,22,2.30m,Mexico,Mazatlán FC,CD Cruz Azul,0
+Milton Giménez,Centre-Forward,27,1.80m,Argentina,CA Banfield,CA Boca Juniors,0
+Kaick,Defensive Midfield,19,-,Brazil,Grêmio FBPA U20,FC Dallas,0
+Rômulo,Centre-Forward,22,3.70m,Brazil,Club Athletico Paranaense,Göztepe,2.50m
+Taxiarchis Fountas,Second Striker,28,3.70m,Greece,Trabzonspor,OFI Crete FC,free transfer
+Georgios Kyriakopoulos,Left Midfield,28,3.50m,Greece,US Sassuolo,AC Monza,0
+Muhanad Al-Saad,Right Winger,21,75k,Saudi Arabia,Al-Ettifaq FC,NEOM SC,0
+José Córdoba,Centre-Back,23,3.50m,Panama,Levski Sofia,Norwich City,0
+Mateo Sanabria,Left Winger,20,600k,Argentina,CA Lanús,Al-Ain FC,0
+Thelo Aasgaard,Attacking Midfield,22,1.00m,Norway,Wigan Athletic,Luton Town,0
+Lasse Nordås,Centre-Forward,22,1.50m,Norway,Tromsø IL,Luton Town,0
+Manu García,Attacking Midfield,27,3.00m,Spain,Aris Thessaloniki,Sporting Kansas City,0
+Laurs Skjellerup,Centre-Forward,22,700k,Denmark,IFK Göteborg,US Sassuolo,0
+Juninho Bacuna,Central Midfield,27,3.60m,Curacao,Birmingham City,Al-Wehda FC,?
+Harrison Burrows,Left-Back,22,3.20m,England,Peterborough United,Sheffield United,0
+Jay Stansfield,Centre-Forward,21,3.50m,England,Fulham FC,Birmingham City,0
+Adam Idah,Centre-Forward,23,3.50m,Ireland,Norwich City,Celtic FC,0
+Gennaro Borrelli,Centre-Forward,24,1.40m,Italy,Frosinone Calcio,Brescia Calcio,0
+Divine Teah,Central Midfield,18,3.00m,Liberia,Hammarby IF,SK Slavia Prague,0
+Philip Otele,Left Winger,25,2.50m,Nigeria,CFR Cluj,Al-Wahda FC,0
+Anis Hadj Moussa,Right Winger,22,2.00m,Algeria,Patro Eisden Maasmechelen,Feyenoord Rotterdam,0
+Mikael Egill Ellertsson,Central Midfield,22,2.80m,Iceland,Venezia FC,Genoa CFC,0
+Fally Mayulu,Centre-Forward,21,2.00m,France,Rapid Vienna,Bristol City,0
+Dani Silva,Defensive Midfield,24,1.50m,Portugal,Hellas Verona,FC Midtjylland,0
+Nuno Moreira,Left Winger,25,1.50m,Portugal,Casa Pia AC,Clube de Regatas Vasco da Gama,0
+Mikey Johnston,Left Winger,25,3.00m,Ireland,Celtic FC,West Bromwich Albion,0
+Camiel Neghli,Right Winger,23,1.30m,Algeria,Sparta Rotterdam,Millwall FC,0
+João Marques,Left Winger,22,3.50m,Portugal,GD Estoril Praia,SC Braga,0
+Amine El Ouazzani,Centre-Forward,22,2.00m,Morocco,EA Guingamp,SC Braga,0
+Sebastiano Luperto,Centre-Back,27,3.50m,Italy,FC Empoli,Cagliari Calcio,0
+Liam Millar,Left Winger,24,2.20m,Canada,FC Basel 1893,Hull City,0
+Idan Toklomati,Centre-Forward,20,1.60m,Israel,Maccabi Petah Tikva,Crown Legacy FC,0
+Luka Romero,Right Winger,20,3.50m,Argentina,AC Milan,CD Cruz Azul,3.30m
+Paulo Bernardo,Central Midfield,22,3.50m,Portugal,SL Benfica,Celtic FC,3.00m
+Esmir Bajraktarević,Right Winger,19,3.50m,Bosnia-Herzegovina,New England Revolution,PSV Eindhoven,3.00m
+Jorge Sánchez,Right-Back,26,3.50m,Mexico,Ajax Amsterdam,CD Cruz Azul,3.00m
+Christian Rivera,Defensive Midfield,29,3.50m,Colombia,Club Tijuana,Sport Club do Recife,2.90m
+Damián García,Defensive Midfield,21,3.50m,Uruguay,CA Peñarol,Shabab Al-Ahli Club,2.90m
+Unai Bilbao,Centre-Back,30,3.50m,Spain,Atlético de San Luis,Club Tijuana,2.80m
+Benjamin Tahirović,Defensive Midfield,21,3.50m,Bosnia-Herzegovina,Ajax Amsterdam,Bröndby IF,2.75m
+Hans Hateboer,Right-Back,30,3.50m,Netherlands,Atalanta BC,Stade Rennais FC,2.70m
+Gennaro Tutino,Centre-Forward,27,3.50m,Italy,Parma Calcio 1913,Cosenza Calcio,2.50m
+Leonardo Campana,Centre-Forward,24,3.50m,Ecuador,Inter Miami CF,New England Revolution,2.40m
+Ondrej Lingr,Attacking Midfield,25,3.50m,Czech Republic,Feyenoord Rotterdam,SK Slavia Prague,2.20m
+Ísak Jóhannesson,Central Midfield,21,3.50m,Iceland,FC Copenhagen,Fortuna Düsseldorf,2.00m
+Mateo Pellegrino,Centre-Forward,23,3.50m,Argentina,CA Vélez Sarsfield,Parma Calcio 1913,2.00m
+Aleksandar Cirkovic,Left Winger,23,3.50m,Serbia,FK TSC Backa Topola,Ferencvárosi TC,2.00m
+Cihan Çanak,Right Winger,19,3.50m,Türkiye,Standard Liège,Trabzonspor,2.00m
+Sead Haksabanovic,Left Winger,25,3.50m,Montenegro,Celtic FC,Malmö FF,2.00m
+Iván Leguizamón,Right Winger,22,3.50m,Paraguay,CA San Lorenzo de Almagro,Olimpia Asunción,2.00m
+Roman Yaremchuk,Centre-Forward,28,3.50m,Ukraine,Club Brugge KV,Olympiacos Piraeus,2.00m
+Marco Brescianini,Central Midfield,24,3.50m,Italy,Frosinone Calcio,Atalanta BC,Loan fee:2.00m
+Veldin Hodza,Defensive Midfield,21,3.50m,Croatia,HNK Rijeka,Rubin Kazan,2.00m
+Nicolás Romero,Centre-Back,21,3.50m,Argentina,Club Atlético Tucumán,Minnesota United FC,1.95m
+Rodrigo Atencio,Right Winger,22,3.50m,Argentina,CA Independiente,Sport Club do Recife,1.90m
+Pablo Marí,Centre-Back,31,3.50m,Spain,AC Monza,ACF Fiorentina,1.80m
+Lassana Coulibaly,Central Midfield,28,3.50m,Mali,US Salernitana 1919,US Lecce,1.80m
+Michael Baidoo,Attacking Midfield,25,3.50m,Ghana,IF Elfsborg,Plymouth Argyle,1.75m
+Wilfried Kanga,Centre-Forward,26,3.50m,Cote d'Ivoire,Hertha BSC,GNK Dinamo Zagreb,1.70m
+Philippe Rommens,Central Midfield,26,3.50m,Belgium,Go Ahead Eagles,Ferencvárosi TC,1.50m
+Dominik Marczuk,Right Winger,20,3.50m,Poland,Jagiellonia Bialystok,Real Salt Lake City,1.50m
+Taulant Seferi,Centre-Forward,27,3.50m,Albania,Vorskla Poltava,Bodrum FK,1.50m
+Edvin Kurtulus,Centre-Back,24,3.50m,Sweden,Hammarby IF,Ludogorets Razgrad,1.45m
+Mario Mitaj,Left-Back,21,3.50m,Albania,Lokomotiv Moscow,Al-Ittihad Club,Loan fee:1.20m
+Gennaro Tutino,Centre-Forward,27,3.50m,Italy,Cosenza Calcio,UC Sampdoria,Loan fee:1.00m
+Fábio Cardoso,Centre-Back,30,3.50m,Portugal,FC Porto,Al-Ain FC,Loan fee:1.00m
+Mathieu Choinière,Central Midfield,25,3.50m,Canada,CF Montréal,Grasshopper Club Zurich,900k
+Myron van Brederode,Left Winger,21,3.50m,Netherlands,AZ Alkmaar,Fortuna Düsseldorf,Loan fee:700k
+Woo-yeong Jeong,Attacking Midfield,24,3.50m,"Korea, South",VfB Stuttgart,1.FC Union Berlin,Loan fee:700k
+Aliou Dieng,Defensive Midfield,26,3.50m,Mali,Al Ahly FC,Al-Kholood Club,Loan fee:505k
+Gabriel Vidovic,Second Striker,20,3.50m,Croatia,Bayern Munich,1.FSV Mainz 05,Loan fee:500k
+Matías Abaldo,Right Winger,20,3.50m,Uruguay,Defensor Sporting Club,Club de Gimnasia y Esgrima La Plata,460k
+DeJuan Jones,Left-Back,27,3.50m,United States,Columbus Crew,San Jose Earthquakes,370k
+Achraf Bencharki,Left Winger,30,3.50m,Morocco,Al-Rayyan SC,Al Ahly FC,free transfer
+Mathew Ryan,Goalkeeper,32,3.50m,Australia,AZ Alkmaar,AS Roma,free transfer
+Jerry Yates,Centre-Forward,27,3.50m,England,Swansea City,Derby County,loan transfer
+Nat Phillips,Centre-Back,27,3.50m,England,Liverpool FC,Derby County,loan transfer
+Noah Weißhaupt,Left Winger,23,3.50m,Germany,SC Freiburg,FC St. Pauli,loan transfer
+Ivo Grbic,Goalkeeper,28,3.50m,Croatia,Sheffield United,Caykur Rizespor,loan transfer
+Ricardo Rodríguez,Left-Back,31,3.50m,Switzerland,Torino FC,Real Betis Balompié,free transfer
+Alexis Claude-Maurice,Attacking Midfield,26,3.50m,France,OGC Nice,FC Augsburg,free transfer
+Welington,Left-Back,23,3.50m,Brazil,São Paulo Futebol Clube,Southampton FC,free transfer
+Gustavo Cuéllar,Defensive Midfield,32,3.50m,Colombia,Al-Shabab FC,Grêmio Foot-Ball Porto Alegrense,free transfer
+Leonardo Godoy,Right-Back,29,3.50m,Argentina,Club Athletico Paranaense,Santos FC,loan transfer
+Antoine Bernede,Central Midfield,25,3.50m,France,FC Lausanne-Sport,Hellas Verona,loan transfer
+Sebastián Boselli,Centre-Back,20,3.50m,Uruguay,CA River Plate,Club Estudiantes de La Plata,loan transfer
+Florian Grillitsch,Defensive Midfield,29,3.50m,Austria,TSG 1899 Hoffenheim,Real Valladolid CF,loan transfer
+Ivan Rakitic,Central Midfield,36,3.50m,Croatia,Al-Shabab FC,HNK Hajduk Split,free transfer
+Borna Barisic,Left-Back,31,3.50m,Croatia,Rangers FC,Trabzonspor,free transfer
+Alan Virginius,Left Winger,21,3.50m,France,LOSC Lille,BSC Young Boys,loan transfer
+Dário Essugo,Defensive Midfield,19,3.50m,Portugal,Sporting CP,UD Las Palmas,loan transfer
+Allan,Defensive Midfield,33,3.50m,Brazil,Al-Wahda FC,Botafogo de Futebol e Regatas,free transfer
+Alessio Zerbin,Left Winger,25,3.50m,Italy,SSC Napoli,Venezia FC,loan transfer
+Luis Palma,Left Winger,25,3.50m,Honduras,Celtic FC,Olympiacos Piraeus,loan transfer
+Roberto Fernández,Centre-Forward,22,3.50m,Spain,SC Braga,RCD Espanyol Barcelona,loan transfer
+Jeremy Agbonifo,Right Winger,19,3.50m,Sweden,BK Häcken,RC Lens,loan transfer
+Sebastián Coates,Centre-Back,33,3.50m,Uruguay,Sporting CP,Club Nacional,free transfer
+Paddy McNair,Centre-Back,29,3.50m,Northern Ireland,San Diego FC,West Bromwich Albion,loan transfer
+Nicolas Cozza,Left-Back,25,3.50m,France,VfL Wolfsburg,FC Nantes,loan transfer
+Andy Pelmard,Right-Back,24,3.50m,France,Clermont Foot 63,US Lecce,loan transfer
+Min-hyeok Yang,Right Winger,18,3.50m,"Korea, South",Tottenham Hotspur,Queens Park Rangers,loan transfer
+Omar Colley,Centre-Back,31,3.50m,The Gambia,Besiktas JK,PAOK Thessaloniki,free transfer
+Carlos Martín,Left Winger,22,3.50m,Spain,Atlético de Madrid,Deportivo Alavés,loan transfer
+Joan Jordán,Central Midfield,30,3.50m,Spain,Sevilla FC,Deportivo Alavés,loan transfer
+Marco Pellegrino,Centre-Back,22,3.50m,Argentina,AC Milan,CA Independiente,loan transfer
+Nahuel Bustos,Centre-Forward,26,3.50m,Argentina,CA Talleres,CA San Lorenzo de Almagro,loan transfer
+Pau López,Goalkeeper,30,3.50m,Spain,Olympique Marseille,Deportivo Toluca,loan transfer
+Jari Vandeputte,Left Winger,28,3.50m,Belgium,US Catanzaro,US Cremonese,loan transfer
+Lucas Zelarayán,Attacking Midfield,32,3.50m,Armenia,Al-Fateh SC,Club Atlético Belgrano,free transfer
+Mohamed Elneny,Defensive Midfield,32,3.50m,Egypt,Arsenal FC,Al-Jazira Club,free transfer
+Matías Abaldo,Right Winger,20,3.50m,Uruguay,Club de Gimnasia y Esgrima La Plata,Defensor Sporting Club,loan transfer
+Kevin Zeroli,Central Midfield,20,3.50m,Italy,AC Milan,AC Monza,loan transfer
+Joe Gelhardt,Centre-Forward,22,3.50m,England,Leeds United,Hull City,loan transfer
+Lazare Amani,Central Midfield,26,3.50m,Cote d'Ivoire,Union Saint-Gilloise,Standard Liège,loan transfer
+Marko Bulat,Attacking Midfield,22,3.50m,Croatia,GNK Dinamo Zagreb,Standard Liège,loan transfer
+Andi Zeqiri,Centre-Forward,25,3.50m,Switzerland,KRC Genk,Standard Liège,loan transfer
+Ramón Terrats,Central Midfield,24,3.50m,Spain,Villarreal CF,Getafe CF,loan transfer
+Bertuğ Yıldırım,Centre-Forward,22,3.50m,Türkiye,Stade Rennais FC,Getafe CF,loan transfer
+Álvaro Rodríguez,Centre-Forward,20,3.50m,Uruguay,Real Madrid,Getafe CF,loan transfer
+Georgiy Dzhikiya,Centre-Back,30,3.50m,Russia,Spartak Moscow,FC Khimki,free transfer
+Edimilson Fernandes,Defensive Midfield,28,3.50m,Switzerland,1.FSV Mainz 05,Stade Brestois 29,loan transfer
+Arturo González,Left Winger,29,3.50m,Mexico,CF Monterrey,CF Pachuca,loan transfer
+Viktor Djukanovic,Left Winger,21,3.50m,Montenegro,Hammarby IF,DAC Dunajska Streda,loan transfer
+Emanuel Gularte,Centre-Back,26,3.50m,Uruguay,Querétaro FC,Puebla FC,?
+Mauro Perkovic,Centre-Back,21,3.50m,Croatia,GNK Dinamo Zagreb,Cracovia,loan transfer
+Andrea Compagno,Centre-Forward,28,3.50m,Italy,Tianjin Jinmen Tiger,Jeonbuk Hyundai Motors,free transfer
+Léo Dubois,Right-Back,29,3.50m,France,Galatasaray,Eyüpspor,free transfer
+Boris Popović,Centre-Back,24,3.50m,Serbia,Cercle Brugge ,FC Arouca,loan transfer
+Matheus Uribe,Defensive Midfield,33,3.50m,Colombia,Al-Sadd SC,Atlético Nacional,free transfer
+Léo Chú,Left Winger,24,3.50m,Brazil,Seattle Sounders FC,FC Dallas,?
+Tom Holmes,Centre-Back,24,3.50m,England,Luton Town,FCV Dender EH,loan transfer
+Josip Brekalo,Left Winger,26,3.50m,Croatia,ACF Fiorentina,Kasimpasa,loan transfer
+Reinier,Attacking Midfield,22,3.50m,Brazil,Real Madrid,Granada CF,loan transfer
+Anderson Duarte,Right Winger,20,3.50m,Uruguay,Deportivo Toluca,Mazatlán FC,loan transfer
+Paddy McNair,Centre-Back,29,3.50m,Northern Ireland,Middlesbrough FC,San Diego FC,free transfer
+Juan José Cáceres,Right-Back,24,1.00m,Paraguay,CA Lanús,Dynamo Moscow,0
+Gennadiy Synchuk,Right Winger,18,400k,Ukraine,Metalist Kharkiv,CF Montréal,0
+Vincent Aboubakar,Centre-Forward,32,3.40m,Cameroon,Besiktas JK,Hatayspor,free transfer
+Melker Widell,Central Midfield,22,1.00m,Sweden,Aalborg BK,Swansea City,0
+Edmund Baidoo,Right Winger,18,1.20m,Ghana,Sogndal IL,Red Bull Salzburg,0
+Joe Taylor,Centre-Forward,22,350k,Wales,Luton Town,Huddersfield Town,0
+Luan,Centre-Back,31,1.80m,Brazil,Sociedade Esportiva Palmeiras,Deportivo Toluca,0
+Facundo Bernal,Defensive Midfield,20,1.40m,Uruguay,Defensor Sporting Club,Fluminense Football Club,0
+Aaron Boupendza,Centre-Forward,28,3.30m,Gabon,FC Rapid 1923,Zhejiang FC,800k
+Jackson Porozo,Centre-Back,24,3.30m,Ecuador,ESTAC Troyes,CD Leganés,loan transfer
+Bruno Damiani,Centre-Forward,22,800k,Uruguay,Club Nacional,Philadelphia Union,0
+Robin Pröpper,Centre-Back,30,3.00m,Netherlands,Twente Enschede FC,Rangers FC,0
+Arthur Sales,Centre-Forward,22,1.00m,Brazil,Lommel SK,Mamelodi Sundowns FC,0
+Sergio Palacios,Centre-Back,19,900k,Colombia,Once Caldas,RB Bragantino U20,0
+Tomas Chory,Centre-Forward,29,3.20m,Czech Republic,FC Viktoria Plzen,SK Slavia Prague,3.00m
+Igor Miladinovic,Attacking Midfield,21,3.20m,Serbia,FK Cukaricki,AS Saint-Étienne,3.00m
+Felipe Peña Biafore,Defensive Midfield,23,3.20m,Argentina,CA River Plate,CA Lanús,1.07m
+Georgios Masouras,Left Winger,31,3.20m,Greece,Olympiacos Piraeus,VfL Bochum,loan transfer
+Martin Braithwaite,Centre-Forward,33,3.20m,Denmark,RCD Espanyol Barcelona,Grêmio Foot-Ball Porto Alegrense,free transfer
+Micah Hamilton,Left Winger,21,3.20m,England,Middlesbrough FC,Stockport County,loan transfer
+Ricardo Chávez,Right-Back,30,3.20m,Mexico,Atlético de San Luis,CF Monterrey,?
+Ola Brynhildsen,Centre-Forward,25,3.20m,Norway,FC Midtjylland,Toronto FC,loan transfer
+François Kamano,Left Winger,28,3.20m,Guinea,Abha Club,Damac FC,?
+Juan Pablo Freytes,Centre-Back,24,900k,Argentina,Club Alianza Lima,Fluminense Football Club,0
+Morten Thorsby,Central Midfield,28,3.00m,Norway,1.FC Union Berlin,Genoa CFC,0
+Iké Ugbo,Centre-Forward,25,2.80m,Canada,ESTAC Troyes,Sheffield Wednesday,0
+Lucas Stassin,Centre-Forward,19,3.00m,Belgium,KVC Westerlo,AS Saint-Étienne,0
+Diego Moreira,Left Midfield,20,3.00m,Belgium,Chelsea FC,RC Strasbourg Alsace,0
+Martin Erlić,Centre-Back,26,3.00m,Croatia,US Sassuolo,Bologna FC 1909,0
+Krisztián Lisztes,Attacking Midfield,19,3.00m,Hungary,Ferencvárosi TC,Eintracht Frankfurt,0
+Matheus Dória,Centre-Back,29,3.00m,Brazil,Santos Laguna,Atlas Guadalajara,0
+Kaio César,Right Winger,20,3.00m,Brazil,Coritiba Foot Ball Club,Vitória Guimarães SC,0
+Anderson Duarte,Right Winger,20,3.00m,Uruguay,Defensor Sporting Club,Deportivo Toluca,0
+Frantzdy Pierrot,Centre-Forward,29,3.00m,Haiti,Maccabi Haifa,AEK Athens,0
+Ayrton Costa,Centre-Back,25,3.00m,Argentina,Royal Antwerp FC,CA Boca Juniors,0
+Marin Soticek,Right Winger,19,2.00m,Croatia,NK Lokomotiva Zagreb,FC Basel 1893,0
+Jackson Tchatchoua,Right-Back,22,3.00m,Cameroon,R Charleroi SC,Hellas Verona,0
+Gauthier Hein,Right Winger,28,3.00m,France,AJ Auxerre,FC Metz,0
+Víctor Meseguer,Central Midfield,25,2.20m,Spain,Granada CF,Real Valladolid CF,0
+Niko Galesic,Centre-Back,23,3.00m,Croatia,HNK Rijeka,GNK Dinamo Zagreb,0
+Joël Schingtienne,Centre-Back,22,2.00m,Belgium,Oud-Heverlee Leuven,Venezia FC,0
+Oliver Edvardsen,Left Winger,25,3.00m,Norway,Go Ahead Eagles,Ajax Amsterdam,0
+Augustine Boakye,Attacking Midfield,23,3.00m,Ghana,Wolfsberger AC,AS Saint-Étienne,0
+Isaac Price,Central Midfield,21,3.00m,Northern Ireland,Standard Liège,West Bromwich Albion,0
+Woyo Coulibaly,Right-Back,25,2.00m,France,Parma Calcio 1913,Leicester City,0
+Mihailo Ivanovic,Centre-Forward,19,1.50m,Serbia,FK Vojvodina Novi Sad,Millwall FC,0
+Estanis Pedrola,Left Winger,20,2.00m,Spain,FC Barcelona,UC Sampdoria,0
+Cyriaque Irié,Right Winger,19,300k,Burkina Faso,Dijon FCO,ESTAC Troyes,0
+Ruairi McConville,Centre-Back,19,-,Northern Ireland,Brighton & Hove Albion U21,Norwich City,0
+Oliver Sonne,Right-Back,24,3.00m,Peru,Silkeborg IF,Burnley FC,0
+Nicolás Castro,Attacking Midfield,23,3.00m,Argentina,KRC Genk,Elche CF,0
+Vince Osuji,Centre-Back,18,1.20m,Nigeria,Kalmar FF,Club Brugge KV,0
+Mehdi Léris,Right Winger,26,2.50m,Algeria,Stoke City,Pisa Sporting Club,0
+Jhonder Cádiz,Centre-Forward,28,3.00m,Venezuela,FC Famalicão,Club León FC,0
+Jason van Duiven,Centre-Forward,19,1.00m,Netherlands,PSV Eindhoven,Lommel SK,0
+Osaze Urhoghide,Centre-Back,24,600k,England,Amiens SC,FC Dallas,0
+Silvano Vos,Defensive Midfield,19,2.50m,Netherlands,Ajax Amsterdam,Milan Futuro,0
+Brandon Thomas-Asante,Centre-Forward,25,3.00m,Ghana,West Bromwich Albion,Coventry City,2.95m
+Lawrence Ennali,Left Winger,22,3.00m,Germany,Górnik Zabrze,Houston Dynamo FC,2.75m
+Patrick Pentz,Goalkeeper,27,3.00m,Austria,Bayer 04 Leverkusen,Bröndby IF,2.55m
+Bruno Onyemaechi,Left-Back,25,3.00m,Nigeria,Boavista FC,Olympiacos Piraeus,2.50m
+Lucas Barbosa,Right Winger,23,3.00m,Brazil,Santos FC,Red Bull Bragantino,2.50m
+Sebastián Villa,Left Winger,28,3.00m,Colombia,Beroe Stara Zagora,CS Independiente Rivadavia,2.39m
+Gonçalo Franco,Central Midfield,23,3.00m,Portugal,Moreirense FC,Swansea City,2.10m
+Levent Mercan,Left-Back,23,3.00m,Türkiye,Fatih Karagümrük,Fenerbahce,2.00m
+Timothy Ouma,Central Midfield,20,3.00m,Kenya,IF Elfsborg,SK Slavia Prague,2.00m
+Keke Topp,Centre-Forward,20,3.00m,Germany,FC Schalke 04,SV Werder Bremen,2.00m
+Pontus Almqvist,Right Winger,25,3.00m,Sweden,FC Rostov,Parma Calcio 1913,2.00m
+Bruno Duarte,Centre-Forward,28,3.00m,Brazil,SC Farense,Red Star Belgrade,2.00m
+Jeffrey de Lange,Goalkeeper,26,3.00m,Netherlands,Go Ahead Eagles,Olympique Marseille,2.00m
+Jeppe Okkels,Left Winger,25,3.00m,Denmark,FC Utrecht,Preston North End,2.00m
+Cheick Condé,Defensive Midfield,24,3.00m,Guinea,FC Zürich,Venezia FC,2.00m
+Mërgim Vojvoda,Right-Back,30,3.00m,Kosovo,Torino FC,Como 1907,2.00m
+Iván Azón,Centre-Forward,22,3.00m,Spain,Real Zaragoza,Como 1907,2.00m
+Igor Jesus,Defensive Midfield,21,3.00m,Brazil,CR Flamengo,CF Estrela Amadora,2.00m
+Eliot Matazo,Central Midfield,22,3.00m,Belgium,AS Monaco,Hull City,2.00m
+Peter Federico,Right Winger,21,3.00m,Dominican Republic,Real Madrid Castilla,Getafe CF,2.00m
+Ludovic Ajorque,Centre-Forward,30,3.00m,France,1.FSV Mainz 05,Stade Brestois 29,Loan fee:2.00m
+Fernando,Centre-Forward,25,3.00m,Brazil,Red Bull Salzburg,Red Bull Bragantino,2.00m
+Aiden O'Neill,Defensive Midfield,26,3.00m,Australia,Standard Liège,New York City FC,2.00m
+José Martínez,Defensive Midfield,30,3.00m,Venezuela,Philadelphia Union,Sport Club Corinthians Paulista,1.80m
+Okay Yokuşlu,Defensive Midfield,30,3.00m,Türkiye,West Bromwich Albion,Trabzonspor,1.65m
+Emanuel Aiwu,Centre-Back,23,3.00m,Austria,US Cremonese,SK Sturm Graz,1.60m
+Bartlomiej Wdowik,Left-Back,23,3.00m,Poland,Jagiellonia Bialystok,SC Braga,1.60m
+Peter Vindahl,Goalkeeper,26,3.00m,Denmark,AZ Alkmaar,AC Sparta Prague,1.50m
+Alexis Blin,Defensive Midfield,27,3.00m,France,US Lecce,Palermo FC,1.50m
+Neto Borges,Left-Back,27,3.00m,Brazil,Clermont Foot 63,Middlesbrough FC,1.50m
+Svetozar Markovic,Centre-Back,24,3.00m,Serbia,FK Partizan Belgrade,FC Viktoria Plzen,1.50m
+Alexandru Cicâldău,Attacking Midfield,27,3.00m,Romania,Galatasaray,CS Universitatea Craiova,1.50m
+Maximiliano Salas,Centre-Forward,27,3.00m,Argentina,CD Palestino,Racing Club,1.44m
+Jean Meneses,Left Winger,31,3.00m,Chile,Deportivo Toluca,Clube de Regatas Vasco da Gama,1.30m
+Yuriy Gorshkov,Left-Back,25,3.00m,Russia,Krylya Sovetov Samara,Zenit St. Petersburg,1.26m
+Aziz Yakubu,Centre-Forward,25,3.00m,Ghana,Rio Ave FC,Shimizu S-Pulse,1.25m
+Robson Bambu,Centre-Back,26,3.00m,Brazil,OGC Nice,SC Braga,1.20m
+Víctor Méndez,Defensive Midfield,25,3.00m,Chile,CSKA Moscow,CSD Colo-Colo,1.20m
+Fernando Cardozo,Right Winger,23,3.00m,Paraguay,Olimpia Asunción,CA Newell's Old Boys,1.11m
+Nahuel Losada,Goalkeeper,31,3.00m,Argentina,Club Atlético Belgrano,CA Lanús,1.10m
+Philipp Sander,Central Midfield,26,3.00m,Germany,Holstein Kiel,Borussia Mönchengladbach,1.00m
+Lucas Vera,Central Midfield,27,3.00m,Argentina,FC Orenburg,FC Khimki,1.00m
+Tidiam Gomis,Left Winger,18,3.00m,France,SM Caen,RB Leipzig,1.00m
+Ifet Djakovac,Central Midfield,27,3.00m,Bosnia-Herzegovina,FK TSC Backa Topola,Akron Togliatti,1.00m
+Gonzalo Luján,Right-Back,23,3.00m,Argentina,CA San Lorenzo de Almagro,Inter Miami CF,775k
+Esquerdinha,Left-Back,18,3.00m,Brazil,Fluminense Football Club,Queens Park Rangers,600k
+Oliver Villadsen,Right-Back,22,3.00m,Denmark,FC Nordsjaelland,1.FC Nuremberg,500k
+Morgan Guilavogui,Right Winger,26,3.00m,Guinea,RC Lens,FC St. Pauli,Loan fee:500k
+Rodrigo Echeverría,Defensive Midfield,29,3.00m,Chile,CD Everton,CA Huracán,500k
+Chidozie Awaziem,Centre-Back,27,3.00m,Nigeria,Boavista FC,FC Cincinnati,500k
+Oussama Targhalline,Defensive Midfield,22,3.00m,Morocco,Le Havre AC,Feyenoord Rotterdam,450k
+Ibrahim Aliyu,Centre-Forward,23,3.00m,Nigeria,Houston Dynamo FC,Columbus Crew,395k
+Sampson Dweh,Centre-Back,22,3.00m,Liberia,MFK Vyskov,FC Viktoria Plzen,385k
+Anderson Julio,Right Winger,28,3.00m,Ecuador,Real Salt Lake City,FC Dallas,384k
+Sergio Peña,Central Midfield,29,3.00m,Peru,Malmö FF,PAOK Thessaloniki,350k
+Imanol Machuca,Right Winger,24,3.00m,Argentina,Fortaleza Esporte Clube,CA Vélez Sarsfield,Loan fee:245k
+Robert Wagner,Central Midfield,20,3.00m,Germany,SC Freiburg,FC St. Pauli,Loan fee:200k
+Sebastián Vegas,Centre-Back,28,3.00m,Chile,CF Monterrey,CSD Colo-Colo,Loan fee:200k
+Pepê,Central Midfield,27,3.00m,Brazil,Grêmio Foot-Ball Porto Alegrense,Esporte Clube Vitória,190k
+Maximilian Bauer,Centre-Back,24,3.00m,Germany,FC Augsburg,1.FC Kaiserslautern,Loan fee:150k
+Tim Breithaupt,Defensive Midfield,22,3.00m,Germany,FC Augsburg,1.FC Kaiserslautern,Loan fee:150k
+Tim Drexler,Centre-Back,19,3.00m,Germany,TSG 1899 Hoffenheim,1.FC Nuremberg,Loan fee:100k
+Metinho,Central Midfield,21,3.00m,Brazil,ESTAC Troyes,FC Basel 1893,loan transfer
+Joe Mendes,Right-Back,21,3.00m,Sweden,SC Braga,FC Basel 1893,loan transfer
+James Sands,Defensive Midfield,24,3.00m,United States,New York City FC,FC St. Pauli,loan transfer
+Adam Karabec,Attacking Midfield,21,3.00m,Czech Republic,AC Sparta Prague,Hamburger SV,loan transfer
+Lucas Perrin,Centre-Back,25,3.00m,France,RC Strasbourg Alsace,Hamburger SV,free transfer
+Rabbi Matondo,Right Winger,24,3.00m,Wales,Rangers FC,Hannover 96,loan transfer
+Bartlomiej Wdowik,Left-Back,23,3.00m,Poland,SC Braga,Hannover 96,loan transfer
+Fally Mayulu,Centre-Forward,22,3.00m,France,Bristol City,SK Sturm Graz,loan transfer
+Lovro Zvonarek,Attacking Midfield,19,3.00m,Croatia,Bayern Munich,SK Sturm Graz,loan transfer
+Keidi Bare,Central Midfield,26,3.00m,Albania,RCD Espanyol Barcelona,Real Zaragoza,free transfer
+Marius Wolf,Right-Back,29,3.00m,Germany,Borussia Dortmund,FC Augsburg,free transfer
+Alexis Flips,Attacking Midfield,24,3.00m,France,RSC Anderlecht,R Charleroi SC,loan transfer
+Charlie Taylor,Left-Back,30,3.00m,England,Burnley FC,Southampton FC,free transfer
+Ryan Fraser,Left Winger,30,3.00m,Scotland,Newcastle United,Southampton FC,free transfer
+Marcos López,Left-Back,24,3.00m,Peru,Feyenoord Rotterdam,FC Copenhagen,loan transfer
+Sébastien Haller,Centre-Forward,30,3.00m,Cote d'Ivoire,Borussia Dortmund,FC Utrecht,loan transfer
+Chiquinho,Left Winger,24,3.00m,Portugal,Wolverhampton Wanderers,RCD Mallorca,loan transfer
+Jean Onana,Defensive Midfield,25,3.00m,Cameroon,Besiktas JK,Genoa CFC,loan transfer
+Alan Browne,Central Midfield,29,3.00m,Ireland,Preston North End,Sunderland AFC,free transfer
+Han-Noah Massengo,Central Midfield,23,3.00m,France,Burnley FC,AJ Auxerre,loan transfer
+Gabriel Osho,Centre-Back,25,3.00m,Nigeria,Luton Town,AJ Auxerre,free transfer
+Florin Tănase,Attacking Midfield,29,3.00m,Romania,Al-Okhdood Club,FCSB,free transfer
+Mateusz Legowski,Defensive Midfield,21,3.00m,Poland,US Salernitana 1919,Yverdon Sport FC,loan transfer
+Dexter Lembikisa,Right-Back,20,3.00m,Jamaica,Wolverhampton Wanderers U21,Yverdon Sport FC,loan transfer
+Tiago Dantas,Central Midfield,23,3.00m,Portugal,SL Benfica,NK Osijek,free transfer
+Caio Paulista,Left-Back,26,3.00m,Brazil,Sociedade Esportiva Palmeiras,Clube Atlético Mineiro,loan transfer
+Dudu,Left Winger,33,3.00m,Brazil,Cruzeiro Esporte Clube,Clube Atlético Mineiro,free transfer
+Ben Davies,Centre-Back,29,3.00m,England,Rangers FC,Birmingham City,loan transfer
+Arnaud Bodart,Goalkeeper,26,3.00m,Belgium,Standard Liège,FC Metz,free transfer
+Adam Aznou,Left-Back,18,3.00m,Morocco,Bayern Munich,Real Valladolid CF,loan transfer
+Gerard Gumbau,Defensive Midfield,29,3.00m,Spain,Granada CF,Rayo Vallecano,loan transfer
+Hrvoje Smolcic,Centre-Back,23,3.00m,Croatia,Eintracht Frankfurt,LASK,loan transfer
+Raúl Torrente,Centre-Back,22,3.00m,Spain,Granada CF,GNK Dinamo Zagreb,free transfer
+Jack Elliott,Centre-Back,29,3.00m,England,Philadelphia Union,Chicago Fire FC,free transfer
+Ryan Porteous,Centre-Back,25,3.00m,Scotland,Watford FC,Preston North End,loan transfer
+Koki Ogawa,Centre-Forward,26,3.00m,Japan,Yokohama FC,NEC Nijmegen,?
+Loïc Lapoussin,Left Midfield,28,3.00m,Madagascar,Union Saint-Gilloise,Sint-Truidense VV,?
+Billal Brahimi,Left Winger,24,3.00m,Algeria,OGC Nice,Sint-Truidense VV,loan transfer
+Nestory Irankunda,Right Winger,18,3.00m,Australia,FC Bayern Munich II,Grasshopper Club Zurich,loan transfer
+Andrew Moran,Attacking Midfield,20,3.00m,Ireland,Brighton & Hove Albion U21,Stoke City,loan transfer
+Bruninho,Attacking Midfield,21,3.00m,Brazil,Red Bull Bragantino,Cercle Brugge ,loan transfer
+Koba Koindredi,Central Midfield,22,3.00m,France,Sporting CP,FC Lausanne-Sport,loan transfer
+Moussa Djenepo,Left Winger,26,3.00m,Mali,Standard Liège,Antalyaspor,loan transfer
+Jean-Kévin Duverne,Centre-Back,27,3.00m,Haiti,FC Nantes,KV Kortrijk,loan transfer
+Filip Stanković,Goalkeeper,22,3.00m,Serbia,Inter Milan,Venezia FC,loan transfer
+Hans Nicolussi Caviglia,Central Midfield,24,3.00m,Italy,Juventus FC,Venezia FC,loan transfer
+Dudu,Left Winger,32,3.00m,Brazil,Sociedade Esportiva Palmeiras,Cruzeiro Esporte Clube,free transfer
+Willian,Left Winger,36,3.00m,Brazil,Fulham FC,Olympiacos Piraeus,free transfer
+Ola Brynhildsen,Centre-Forward,25,3.00m,Norway,FC Midtjylland,Molde FK,loan transfer
+Pietro Pellegri,Centre-Forward,23,3.00m,Italy,Torino FC,FC Empoli,loan transfer
+David Terans,Attacking Midfield,30,3.00m,Uruguay,Fluminense Football Club,CA Peñarol,loan transfer
+Ilaix Moriba,Central Midfield,21,3.00m,Guinea,RB Leipzig,Celta de Vigo,loan transfer
+Leonardo Buta,Left-Back,22,3.00m,Portugal,Udinese Calcio,Moreirense FC,?
+Will Lankshear,Centre-Forward,19,3.00m,England,Tottenham Hotspur U21,West Bromwich Albion,loan transfer
+Yasser Larouci,Left-Back,23,3.00m,Algeria,ESTAC Troyes,Watford FC,loan transfer
+Claudio Baeza,Defensive Midfield,31,3.00m,Chile,Deportivo Toluca,CA Vélez Sarsfield,free transfer
+Álex Valle,Left-Back,20,3.00m,Spain,FC Barcelona,Como 1907,loan transfer
+Ignace Van der Brempt,Right-Back,22,3.00m,Belgium,Red Bull Salzburg,Como 1907,loan transfer
+Joseph Nonge,Central Midfield,19,3.00m,Belgium,Juventus Next Gen,ESTAC Troyes,loan transfer
+Olivier Deman,Left-Back,24,3.00m,Belgium,SV Werder Bremen,Royal Antwerp FC,loan transfer
+Jaïro Riedewald,Defensive Midfield,27,3.00m,Netherlands,Crystal Palace,Royal Antwerp FC,free transfer
+Johan Rojas,Attacking Midfield,22,3.00m,Colombia,CF Monterrey,Club Necaxa,loan transfer
+Gonzalo Maroni,Attacking Midfield,25,3.00m,Argentina,CA Boca Juniors,CA Newell's Old Boys,loan transfer
+Xeka,Central Midfield,29,3.00m,Portugal,Al-Sadd SC,GD Estoril Praia,free transfer
+Andrés Vombergar,Centre-Forward,29,3.00m,Slovenia,Kalba FC,CA San Lorenzo de Almagro,free transfer
+Marco Pellegrino,Centre-Back,22,3.00m,Argentina,AC Milan,CA Huracán,loan transfer
+Matías Segovia,Right Winger,21,3.00m,Paraguay,Botafogo de Futebol e Regatas,Al-Ain FC,loan transfer
+Gino Infantino,Central Midfield,21,3.00m,Argentina,ACF Fiorentina,Al-Ain FC,loan transfer
+Leon Flach,Defensive Midfield,23,3.00m,United States,Philadelphia Union,Jagiellonia Bialystok,free transfer
+Samuel Moutoussamy,Central Midfield,28,3.00m,DR Congo,FC Nantes,Sivasspor,free transfer
+Rifat Zhemaletdinov,Attacking Midfield,27,3.00m,Russia,Lokomotiv Moscow,CSKA Moscow,free transfer
+João Marques,Left Winger,22,3.00m,Portugal,SC Braga,Gil Vicente FC,loan transfer
+Tiago Morais,Left Winger,20,3.00m,Portugal,LOSC Lille,Rio Ave FC,loan transfer
+Martim Neto,Central Midfield,21,3.00m,Portugal,SL Benfica,Rio Ave FC,loan transfer
+Fidel Barajas,Right Winger,18,3.00m,Mexico,Deportivo Guadalajara,D.C. United,loan transfer
+Thomas Strakosha,Goalkeeper,29,3.00m,Albania,Brentford FC,AEK Athens,free transfer
+Jordy Caicedo,Centre-Forward,26,3.00m,Ecuador,Atlas Guadalajara,Sporting Gijón,loan transfer
+Calvin Ramsay,Right-Back,21,3.00m,Scotland,Liverpool FC,Kilmarnock FC,loan transfer
+Stefano Sensi,Central Midfield,29,3.00m,Italy,Inter Milan,AC Monza,free transfer
+Cody Drameh,Right-Back,22,3.00m,England,Leeds United,Hull City,free transfer
+Gustavo Puerta,Central Midfield,21,3.00m,Colombia,Bayer 04 Leverkusen,Hull City,loan transfer
+Carl Rushworth,Goalkeeper,23,3.00m,England,Brighton & Hove Albion,Hull City,loan transfer
+Sotiris Alexandropoulos,Central Midfield,22,3.00m,Greece,Sporting CP,Standard Liège,loan transfer
+Henrik Meister,Centre-Forward,21,3.00m,Denmark,Stade Rennais FC,Pisa Sporting Club,loan transfer
+Olimpiu Moruțan,Right Winger,25,3.00m,Romania,MKE Ankaragücü,Pisa Sporting Club,loan transfer
+Andrei Burcă,Centre-Back,31,3.00m,Romania,Al-Okhdood Club,FC Baniyas,free transfer
+Lucas Rodríguez,Attacking Midfield,27,3.00m,Argentina,Club Tijuana,Querétaro FC,?
+Yohan Boli,Centre-Forward,30,3.00m,Cote d'Ivoire,Al-Gharafa SC,Al-Khor SC,loan transfer
+Konstantinos Fortounis,Attacking Midfield,31,3.00m,Greece,Olympiacos Piraeus,Al-Khaleej FC,free transfer
+Kaique Rocha,Centre-Back,23,3.00m,Brazil,Club Athletico Paranaense,Sport Club Internacional,free transfer
+Ignacio Ramírez,Centre-Forward,27,3.00m,Uruguay,CA Newell's Old Boys,CD Everton,loan transfer
+Mame Thiam,Centre-Forward,31,3.00m,Senegal,Pendikspor,Eyüpspor,?
+Marek Rodák,Goalkeeper,27,3.00m,Slovakia,Fulham FC,Al-Ettifaq FC,free transfer
+Matías Cóccaro,Centre-Forward,27,3.00m,Uruguay,CF Montréal,Atlas Guadalajara,loan transfer
+Jordy Caicedo,Centre-Forward,26,3.00m,Ecuador,Tigres UANL,Atlas Guadalajara,?
+Giacomo Bonaventura,Attacking Midfield,34,3.00m,Italy,ACF Fiorentina,Al-Shabab FC,free transfer
+Baghdad Bounedjah,Centre-Forward,32,3.00m,Algeria,Al-Sadd SC,Al-Shamal SC,free transfer
+Gaius Makouta,Central Midfield,27,3.00m,Congo,Boavista FC,Alanyaspor,free transfer
+Nacho Fernández,Centre-Back,34,3.00m,Spain,Real Madrid,Al-Qadsiah FC,free transfer
+Mohamed Konaté,Centre-Forward,26,3.00m,Burkina Faso,Akhmat Grozny,Al-Riyadh SC,free transfer
+Ismaël Kandouss,Centre-Back,26,3.00m,Morocco,KAA Gent,Al-Orobah FC,loan transfer
+Olivier Giroud,Centre-Forward,37,3.00m,France,AC Milan,Los Angeles FC,free transfer
+Gastón Álvarez Suarez,Central Midfield,31,3.00m,United Arab Emirates,FC Baniyas,Shabab Al-Ahli Club,free transfer
+Mikkel Desler,Right-Back,29,3.00m,Denmark,FC Toulouse,Austin FC,free transfer
+Aziz Ganiev,Central Midfield,26,3.00m,Uzbekistan,Shabab Al-Ahli Club,Al-Bataeh CSC,free transfer
+Pep Biel,Attacking Midfield,27,3.00m,Spain,Olympiacos Piraeus,Charlotte FC,loan transfer
+Rodrigo Ribeiro,Centre-Forward,19,3.00m,Portugal,Sporting CP,Avs Futebol,loan transfer
+Sinclair Armstrong,Centre-Forward,21,1.00m,Ireland,Queens Park Rangers,Bristol City,0
+Andri Gudjohnsen,Centre-Forward,22,2.70m,Iceland,Lyngby Boldklub,KAA Gent,0
+Matheus Machado,Centre-Forward,21,500k,Brazil,Zulte Waregem,Al-Fateh SC,0
+Nicolás Dubersarsky,Central Midfield,20,1.00m,Argentina,Instituto ACC,Austin FC,0
+Abel Bretones,Left-Back,23,1.80m,Spain,Real Oviedo,CA Osasuna,0
+John Edwin Montaño,Right Winger,18,700k,Colombia,Independiente Medellín,Lommel SK,0
+Juanmi Latasa,Centre-Forward,23,2.80m,Spain,Real Madrid,Real Valladolid CF,2.50m
+Bruno Tabata,Right Winger,27,2.80m,Brazil,Sociedade Esportiva Palmeiras,Sport Club Internacional,2.20m
+Ozan Tufan,Central Midfield,29,2.80m,Türkiye,Hull City,Trabzonspor,2.00m
+Yeison Guzmán,Attacking Midfield,26,2.80m,Colombia,Deportes Tolima,Torpedo Moscow,1.80m
+Matías Pérez,Centre-Back,25,2.80m,Argentina,FC Orenburg,Club Cerro Porteño,1.80m
+Marino Hinestroza,Right Winger,22,2.80m,Colombia,Columbus Crew,Atlético Nacional,1.40m
+Santiago Montiel,Right Winger,23,2.80m,Argentina,AA Argentinos Juniors,CA Independiente,1.35m
+Viktor Johansson,Goalkeeper,25,2.80m,Sweden,Rotherham United,Stoke City,1.00m
+Kike Pérez,Central Midfield,27,2.80m,Spain,Real Valladolid CF,Venezia FC,1.00m
+Philip Zinckernagel,Left Winger,30,2.80m,Denmark,Club Brugge KV,Chicago Fire FC,850k
+David Strelec,Centre-Forward,23,2.80m,Slovakia,Spezia Calcio,Slovan Bratislava,700k
+Nemanja Radonjić,Left Winger,28,2.80m,Serbia,Torino FC,Red Star Belgrade,200k
+Davie Selke,Centre-Forward,29,2.80m,Germany,1.FC Köln,Hamburger SV,free transfer
+Dimitrios Giannoulis,Left-Back,28,2.80m,Greece,Norwich City,FC Augsburg,free transfer
+Ryan Mmaee,Centre-Forward,26,2.80m,Morocco,Stoke City,Rapid Vienna,loan transfer
+Jean-Pierre Nsame,Centre-Forward,31,2.80m,Cameroon,Como 1907,Legia Warszawa,loan transfer
+Vakoun Bayo,Centre-Forward,27,2.80m,Cote d'Ivoire,Watford FC,Udinese Calcio,?
+Arnór Sigurdsson,Left Winger,25,2.80m,Iceland,Blackburn Rovers,Malmö FF,free transfer
+Mikael Egill Ellertsson,Central Midfield,22,2.80m,Iceland,Genoa CFC,Venezia FC,loan transfer
+Pierre Ekwah,Defensive Midfield,22,2.80m,France,Sunderland AFC,AS Saint-Étienne,loan transfer
+Saba Sazonov,Centre-Back,22,2.80m,Georgia,Torino FC,FC Empoli,loan transfer
+Juan Pablo Cozzani,Goalkeeper,26,2.80m,Argentina,Club Deportivo Maipú,Club Atlético Platense,?
+Vakoun Bayo,Centre-Forward,27,2.80m,Cote d'Ivoire,Udinese Calcio,Watford FC,loan transfer
+Tyler Roberts,Centre-Forward,25,2.80m,Wales,Birmingham City,Northampton Town,loan transfer
+Joaquín Lavega,Left Winger,19,2.80m,Uruguay,CA River Plate Montevideo,Fluminense Football Club,free transfer
+Óscar Zambrano,Defensive Midfield,20,2.80m,Ecuador,LDU Quito,Hull City,loan transfer
+Andréas Hountondji,Centre-Forward,22,2.80m,Benin,Burnley FC,Standard Liège,loan transfer
+Nicolás Díaz,Centre-Back,25,2.80m,Chile,Club Tijuana,Unión Española,loan transfer
+Bernard Mensah,Attacking Midfield,29,2.80m,Ghana,Al-Tai FC,Al-Riyadh SC,?
+Haitham Asiri,Right Winger,23,400k,Saudi Arabia,Al-Ahli SFC,Al-Qadsiah FC,0
+Omar Khedr,Left Winger,18,150k,Egypt,Zed FC U21,Aston Villa U21,0
+Can Keleş,Right Winger,22,2.00m,Austria,Fatih Karagümrük,Besiktas JK,0
+Sebastian Otoa,Centre-Back,20,600k,Denmark,Aalborg BK,Genoa CFC,0
+Delano Burgzorg,Left Winger,25,1.60m,Suriname,1.FSV Mainz 05,Middlesbrough FC,0
+Michel Araújo,Left Winger,28,1.50m,Uruguay,São Paulo Futebol Clube,Esporte Clube Bahia,0
+Rikelme,Left-Back,21,1.60m,Brazil,Cuiabá Esporte Clube (MT),Shabab Al-Ahli Club,0
+Antoine Joujou,Left Winger,21,1.50m,Guadeloupe,Le Havre AC,Parma Calcio 1913,0
+Pau Víctor,Centre-Forward,22,1.50m,Spain,Girona FC,FC Barcelona,0
+Bruno Fuchs,Centre-Back,25,2.00m,Brazil,CSKA Moscow,Clube Atlético Mineiro,0
+Lautaro Díaz,Centre-Forward,26,1.20m,Argentina,Independiente del Valle,Cruzeiro Esporte Clube,0
+Fabrizio Peralta,Defensive Midfield,21,2.00m,Paraguay,Club Cerro Porteño,Cruzeiro Esporte Clube,0
+Kiril Fesyun,Goalkeeper,21,900k,Ukraine,Kolos Kovalivka,Shakhtar Donetsk,0
+Mads Enggård,Defensive Midfield,20,1.00m,Denmark,Randers FC,Molde FK,0
+Norman Bassette,Centre-Forward,19,1.50m,Belgium,SM Caen,Coventry City,0
+Hyeon-gyu Oh,Centre-Forward,23,1.80m,"Korea, South",Celtic FC,KRC Genk,0
+Ondrej Lingr,Attacking Midfield,26,2.70m,Czech Republic,SK Slavia Prague,Houston Dynamo FC,2.30m
+Nicolás Fonseca,Defensive Midfield,26,2.70m,Uruguay,CA River Plate,Club León FC,2.14m
+Agustín Sant'Anna,Right-Back,27,2.70m,Uruguay,CA River Plate,Red Bull Bragantino,1.70m
+Ignacio Pussetto,Right Winger,28,2.70m,Argentina,CA Huracán,UNAM Pumas,1.38m
+Mikkel Kaufmann,Centre-Forward,23,2.70m,Denmark,1.FC Union Berlin,1.FC Heidenheim 1846,1.25m
+Nemanja Stojic,Centre-Back,26,2.70m,Serbia,Red Star Belgrade,Maccabi Tel Aviv,1.20m
+Abdou Harroui,Central Midfield,26,2.70m,Morocco,Frosinone Calcio,Hellas Verona,1.20m
+Aleksandar Cirkovic,Left Winger,22,2.70m,Serbia,Krylya Sovetov Samara,FK TSC Backa Topola,1.20m
+Nemanja Stojic,Centre-Back,26,2.70m,Serbia,FK TSC Backa Topola,Red Star Belgrade,1.00m
+Leandro Lozano,Right-Back,26,2.70m,Uruguay,Club Nacional,AA Argentinos Juniors,970k
+Andri Gudjohnsen,Centre-Forward,22,2.70m,Iceland,IFK Norrköping,Lyngby Boldklub,400k
+Berkay Özcan,Central Midfield,26,2.70m,Türkiye,Basaksehir FK,Caykur Rizespor,loan transfer
+Santiago Núñez,Centre-Back,24,2.70m,Argentina,Santos Laguna,Club Estudiantes de La Plata,?
+Prestige Mboungou,Left Winger,23,2.70m,Congo,FC Baniyas,FK TSC Backa Topola,free transfer
+Saad Bguir,Attacking Midfield,30,2.70m,Tunisia,Abha Club,Al-Wehda FC,free transfer
+Nahuel Barrios,Left Winger,26,2.70m,Argentina,CA San Lorenzo de Almagro,CA Barracas Central,loan transfer
+Ilay Feingold,Right-Back,20,1.20m,Israel,Maccabi Haifa,New England Revolution,0
+Ousseynou Ba,Centre-Back,28,2.60m,Senegal,Olympiacos Piraeus,Basaksehir FK,1.00m
+Jonjo Shelvey,Central Midfield,32,2.60m,England,Caykur Rizespor,Eyüpspor,free transfer
+Abderrazak Hamdallah,Centre-Forward,33,2.60m,Morocco,Al-Ittihad Club,Al-Shabab FC,free transfer
+Nicolas Madsen,Central Midfield,24,2.50m,Denmark,KVC Westerlo,Queens Park Rangers,0
+Guzmán Rodríguez,Centre-Back,24,2.50m,Uruguay,CA Peñarol,Red Bull Bragantino,0
+Hélio Varela,Left Winger,22,2.50m,Cape Verde,Portimonense SC,KAA Gent,0
+Haris Tabakovic,Centre-Forward,30,2.50m,Bosnia-Herzegovina,Hertha BSC,TSG 1899 Hoffenheim,0
+Patrick Yazbek,Central Midfield,22,2.50m,Australia,Viking FK,Nashville SC,0
+Joaquín Mosqueira,Defensive Midfield,20,2.50m,Argentina,CA Unión (Santa Fe),CA Talleres,0
+Joël Schmied,Centre-Back,26,2.00m,Switzerland,FC Sion,1.FC Köln,0
+Moussa Sylla,Centre-Forward,24,2.50m,Mali,Pau FC,FC Schalke 04,0
+Kaishu Sano,Defensive Midfield,23,1.50m,Japan,Kashima Antlers,1.FSV Mainz 05,0
+Cedric Hatenboer,Defensive Midfield,19,500k,Netherlands,Excelsior Rotterdam,RSC Anderlecht,0
+Vasil Kusej,Left Winger,24,2.50m,Czech Republic,FK Mlada Boleslav,SK Slavia Prague,0
+Igor Dmitriev,Left Winger,20,700k,Russia,Ural Yekaterinburg,Spartak Moscow,0
+Stéphano Carrillo,Centre-Forward,18,1.00m,Mexico,Santos Laguna U23,Feyenoord Rotterdam,0
+Jeyland Mitchell,Centre-Back,19,175k,Costa Rica,LD Alajuelense,Feyenoord Rotterdam,0
+Ayanda Sishuba,Attacking Midfield,19,500k,Belgium,RC Lens,Hellas Verona,0
+Eduardo Guerrero,Centre-Forward,24,1.80m,Panama,Zorya Lugansk,Dynamo Kyiv,0
+Raúl Moro,Left Winger,21,2.50m,Spain,SS Lazio,Real Valladolid CF,0
+Răzvan Sava,Goalkeeper,22,2.00m,Romania,CFR Cluj,Udinese Calcio,0
+John Yeboah,Attacking Midfield,24,2.50m,Ecuador,Raków Częstochowa,Venezia FC,0
+Nidal Celik,Centre-Back,18,1.00m,Bosnia-Herzegovina,FK Sarajevo,RC Lens,0
+Hervé Koffi,Goalkeeper,27,2.00m,Burkina Faso,R Charleroi SC,RC Lens,0
+Dmitriy Vorobyov,Centre-Forward,26,1.50m,Russia,FC Orenburg,Lokomotiv Moscow,0
+David,Left Winger,29,2.00m,Brazil,Sport Club Internacional,Clube de Regatas Vasco da Gama,0
+Marc Oliver Kempf,Centre-Back,29,1.50m,Germany,Hertha BSC,Como 1907,0
+Matías Nahuel,Left Winger,27,1.00m,Spain,Slask Wroclaw,Maccabi Haifa,0
+Junior Diaz,Centre-Back,21,400k,Cote d'Ivoire,FC Nantes,ESTAC Troyes,0
+Oscar Schwartau,Attacking Midfield,18,1.20m,Denmark,Bröndby IF,Norwich City,0
+Nikolas Sattlberger,Defensive Midfield,20,1.50m,Austria,Rapid Vienna,KRC Genk,0
+Malcolm Jeng,Centre-Back,19,1.50m,Sweden,IK Sirius,Stade Reims,0
+Antonio Colak,Centre-Forward,30,2.20m,Croatia,Parma Calcio 1913,Spezia Calcio,0
+Adrian Semper,Goalkeeper,26,2.50m,Croatia,Como 1907,Pisa Sporting Club,0
+Faniel Tewelde,Left Winger,17,2.50m,Norway,Odds BK,Lommel SK,0
+Patrickson Delgado,Defensive Midfield,21,800k,Ecuador,Independiente del Valle,FC Dallas,0
+Sydney Osazuwa,Centre-Forward,17,-,Spain,CD Leganés U19,Real Sociedad B,0
+Stoichkov,Second Striker,31,2.50m,Spain,Deportivo Alavés,Granada CF,0
+Salman Al-Faraj,Central Midfield,34,400k,Saudi Arabia,Al-Hilal SFC,NEOM SC,0
+Telasco Segovia,Central Midfield,21,1.00m,Venezuela,Casa Pia AC,Inter Miami CF,0
+Khaled Narey,Right Winger,30,2.50m,Togo,Al-Khaleej FC,Al-Ula FC,0
+Salomón Rodríguez,Centre-Forward,24,2.50m,Uruguay,CD Godoy Cruz Antonio Tomba,CSD Colo-Colo,2.43m
+Juan Fernando Quintero,Attacking Midfield,32,2.50m,Colombia,Racing Club,CD América de Cali,2.40m
+Deniz Hümmet,Centre-Forward,28,2.50m,Türkiye,Djurgårdens IF,Gamba Osaka,2.30m
+Osvaldo Rodríguez,Left-Back,27,2.50m,Mexico,Club León FC,Tigres UANL,2.30m
+Kady Borges,Right Winger,28,2.50m,Brazil,FC Krasnodar,Ferencvárosi TC,2.00m
+Taylor Booth,Right Winger,23,2.50m,United States,FC Utrecht,Twente Enschede FC,2.00m
+Miguel de la Fuente,Centre-Forward,24,2.50m,Spain,Deportivo Alavés,CD Leganés,2.00m
+Oliver Dovin,Goalkeeper,22,2.50m,Sweden,Hammarby IF,Coventry City,1.90m
+Mauro Luna Diale,Attacking Midfield,25,2.50m,Argentina,CA Unión (Santa Fe),Akhmat Grozny,1.85m
+Patrik Wålemark,Right Winger,23,2.50m,Sweden,Feyenoord Rotterdam,Lech Poznan,1.80m
+Jacob Widell Zetterström,Goalkeeper,26,2.50m,Sweden,Djurgårdens IF,Derby County,1.75m
+Silvan Hefti,Right-Back,26,2.50m,Switzerland,Genoa CFC,Hamburger SV,1.50m
+Bartlomiej Dragowski,Goalkeeper,26,2.50m,Poland,Spezia Calcio,Panathinaikos FC,1.50m
+Marko Pjaca,Left Winger,29,2.50m,Croatia,HNK Rijeka,GNK Dinamo Zagreb,1.50m
+Hugo Novoa,Right-Back,21,2.50m,Spain,RB Leipzig,Deportivo Alavés,1.50m
+Federico Bonazzoli,Centre-Forward,27,2.50m,Italy,US Salernitana 1919,US Cremonese,1.50m
+Félix Correia,Left Winger,23,2.50m,Portugal,Juventus Next Gen,Gil Vicente FC,1.50m
+Marvin Mehlem,Attacking Midfield,26,2.50m,Germany,SV Darmstadt 98,Hull City,1.50m
+Anouar Ait El Hadj,Attacking Midfield,22,2.50m,Belgium,KRC Genk,Union Saint-Gilloise,1.50m
+Anis Slimane,Central Midfield,23,2.50m,Tunisia,Sheffield United,Norwich City,1.45m
+Matías Galarza Fonda,Central Midfield,22,2.50m,Paraguay,Clube de Regatas Vasco da Gama,CA Talleres,1.38m
+Ioannis Pittas,Centre-Forward,28,2.50m,Cyprus,AIK,CSKA-Sofia,1.20m
+Rober González,Right Winger,23,2.50m,Spain,Real Betis Balompié,NEC Nijmegen,1.20m
+Cas Odenthal,Centre-Back,23,2.50m,Netherlands,Como 1907,US Sassuolo,1.20m
+Theodore Ku-DiPietro,Attacking Midfield,23,2.50m,United States,D.C. United,Colorado Rapids,1.10m
+Pierre Dwomoh,Central Midfield,20,2.50m,Belgium,Royal Antwerp FC,Watford FC,1.00m
+Asier Villalibre,Centre-Forward,26,2.50m,Spain,Athletic Bilbao,Deportivo Alavés,1.00m
+Pierluigi Gollini,Goalkeeper,29,2.50m,Italy,Atalanta BC,AS Roma,800k
+Njegos Petrovic,Defensive Midfield,24,2.50m,Serbia,Granada CF,FK Vojvodina Novi Sad,800k
+Mathew Ryan,Goalkeeper,32,2.50m,Australia,AS Roma,RC Lens,800k
+Jovane Cabral,Left Winger,26,2.50m,Cape Verde,Sporting CP,CF Estrela Amadora,800k
+Lukas Kacavenda,Attacking Midfield,21,2.50m,Croatia,NK Lokomotiva Zagreb,GNK Dinamo Zagreb,750k
+Andraz Sporar,Centre-Forward,30,2.50m,Slovenia,Panathinaikos FC,Alanyaspor,750k
+Thomas Galdames,Left-Back,25,2.50m,Chile,CD Godoy Cruz Antonio Tomba,Krylya Sovetov Samara,650k
+Bernardo Vital,Centre-Back,23,2.50m,Portugal,GD Estoril Praia,Real Zaragoza,600k
+Giangiacomo Magnani,Centre-Back,29,2.50m,Italy,Hellas Verona,Palermo FC,600k
+Callum Styles,Left-Back,24,2.50m,Hungary,Barnsley FC,West Bromwich Albion,600k
+Oleksiy Gutsulyak,Right Winger,26,2.50m,Ukraine,SC Dnipro-1 ( - 2024),Polissya Zhytomyr,600k
+Henry Kessler,Centre-Back,26,2.50m,United States,New England Revolution,St. Louis CITY SC,549k
+Tin Jedvaj,Centre-Back,28,2.50m,Croatia,Lokomotiv Moscow,Panathinaikos FC,500k
+Rayyan Baniya,Centre-Back,25,2.50m,Türkiye,Trabzonspor,Palermo FC,Loan fee:450k
+Giorgi Gocholeishvili,Right-Back,23,2.50m,Georgia,Shakhtar Donetsk,FC Copenhagen,Loan fee:400k
+Ruan,Centre-Back,25,2.50m,Brazil,US Sassuolo,São Paulo Futebol Clube,Loan fee:400k
+Irvin Cardona,Centre-Forward,27,2.50m,France,FC Augsburg,RCD Espanyol Barcelona,Loan fee:400k
+Tomasz Kedziora,Centre-Back,30,2.50m,Poland,Dynamo Kyiv,PAOK Thessaloniki,400k
+Jorge Fernandes,Centre-Back,27,2.50m,Portugal,Vitória Guimarães SC,Al-Fateh SC,386k
+Mateus Vital,Attacking Midfield,26,2.50m,Brazil,Cruzeiro Esporte Clube,Shanghai Port,316k
+Mickaël Biron,Centre-Forward,26,2.50m,Martinique,RWD Molenbeek,Oud-Heverlee Leuven,Loan fee:300k
+Moussa Sylla,Centre-Forward,24,2.50m,Mali,SM Caen,Pau FC,300k
+Jón Dagur Thorsteinsson,Left Winger,25,2.50m,Iceland,Oud-Heverlee Leuven,Hertha BSC,250k
+Horațiu Moldovan,Goalkeeper,26,2.50m,Romania,Atlético de Madrid,US Sassuolo,Loan fee:250k
+Raul Gustavo,Centre-Back,25,2.50m,Brazil,Sport Club Corinthians Paulista,Ferencvárosi TC,180k
+Jayden Nelson,Left Winger,21,2.50m,Canada,Rosenborg BK,SSV Ulm 1846,Loan fee:100k
+Marvin Mehlem,Attacking Midfield,27,2.50m,Germany,Hull City,SC Paderborn 07,Loan fee:100k
+Luca Waldschmidt,Centre-Forward,28,2.50m,Germany,VfL Wolfsburg,1.FC Köln,free transfer
+Robin Knoche,Centre-Back,32,2.50m,Germany,1.FC Union Berlin,1.FC Nuremberg,free transfer
+Neto,Goalkeeper,35,2.50m,Brazil,AFC Bournemouth,Arsenal FC,loan transfer
+Aleksandar Dragovic,Centre-Back,33,2.50m,Austria,Red Star Belgrade,Austria Vienna,free transfer
+Matt Clarke,Centre-Back,28,2.50m,England,Middlesbrough FC,Derby County,?
+Noah Mbamba,Central Midfield,19,2.50m,Belgium,Bayer 04 Leverkusen,Fortuna Düsseldorf,loan transfer
+Kevin Sessa,Central Midfield,23,2.50m,Germany,1.FC Heidenheim 1846,Hertha BSC,free transfer
+Joseph Nonge,Central Midfield,19,2.50m,Belgium,Juventus Next Gen,Servette FC,loan transfer
+Justin Diehl,Left Winger,19,2.50m,Germany,1.FC Köln,VfB Stuttgart,free transfer
+Ivan Ordets,Centre-Back,31,2.50m,Ukraine,Dynamo Moscow,VfL Bochum,free transfer
+Dion Sanderson,Centre-Back,25,2.50m,England,Birmingham City,Blackburn Rovers,loan transfer
+Thomas Delaney,Central Midfield,32,2.50m,Denmark,Sevilla FC,FC Copenhagen,free transfer
+Pantelis Hatzidiakos,Centre-Back,27,2.50m,Greece,Cagliari Calcio,FC Copenhagen,loan transfer
+Elias Cobbaut,Centre-Back,26,2.50m,Belgium,Parma Calcio 1913,AC Sparta Prague,?
+André Ramalho,Centre-Back,32,2.50m,Brazil,PSV Eindhoven,Sport Club Corinthians Paulista,free transfer
+Mileta Rajovic,Centre-Forward,25,2.50m,Denmark,Watford FC,Bröndby IF,loan transfer
+Valery Fernández,Right Winger,24,2.50m,Spain,Girona FC,RCD Mallorca,loan transfer
+Patrik Wålemark,Right Winger,22,2.50m,Sweden,Feyenoord Rotterdam,Lech Poznan,loan transfer
+Nemanja Tosic,Left-Back,27,2.50m,Serbia,FK Cukaricki,FC Zürich,?
+George Baldock,Right-Back,31,2.50m,Greece,Sheffield United,Panathinaikos FC,free transfer
+Faride Alidou,Left Winger,23,2.50m,Germany,Eintracht Frankfurt,Hellas Verona,loan transfer
+Gustaf Lagerbielke,Centre-Back,24,2.50m,Sweden,Celtic FC,Twente Enschede FC,loan transfer
+Bernard,Left Winger,31,2.50m,Brazil,Panathinaikos FC,Clube Atlético Mineiro,free transfer
+Nicholas Bonfanti,Centre-Forward,22,2.50m,Italy,Pisa Sporting Club,SSC Bari,loan transfer
+Taylor Gardner-Hickman,Central Midfield,22,2.50m,England,Bristol City,Birmingham City,loan transfer
+Pedro Díaz,Central Midfield,26,2.50m,Spain,FC Girondins Bordeaux,Rayo Vallecano,free transfer
+Álvaro Fernández,Goalkeeper,26,2.50m,Spain,SD Huesca,Sevilla FC,free transfer
+Jeppe Okkels,Left Winger,25,2.50m,Denmark,Preston North End,Aberdeen FC,loan transfer
+Kevin Nisbet,Centre-Forward,27,2.50m,Scotland,Millwall FC,Aberdeen FC,loan transfer
+Álex Valle,Left-Back,20,2.50m,Spain,FC Barcelona,Celtic FC,loan transfer
+Joe Rothwell,Central Midfield,29,2.50m,England,AFC Bournemouth,Leeds United,loan transfer
+Alexis Sánchez,Centre-Forward,35,2.50m,Chile,Inter Milan,Udinese Calcio,free transfer
+Stefan Savic,Centre-Back,33,2.50m,Montenegro,Atlético de Madrid,Trabzonspor,free transfer
+Chris Bedia,Centre-Forward,28,2.50m,Cote d'Ivoire,1.FC Union Berlin,BSC Young Boys,loan transfer
+Cristian Manea,Right-Back,26,2.50m,Romania,CFR Cluj,FC Rapid 1923,free transfer
+Andy Pelmard,Right-Back,24,2.50m,France,Clermont Foot 63,UD Las Palmas,loan transfer
+Ali Al-Hamadi,Centre-Forward,22,2.50m,Iraq,Ipswich Town,Stoke City,loan transfer
+Igor Jesus,Centre-Forward,23,2.50m,Brazil,Shabab Al-Ahli Club,Botafogo de Futebol e Regatas,free transfer
+Enzo Díaz,Left-Back,29,2.50m,Argentina,CA River Plate,São Paulo Futebol Clube,loan transfer
+Anwar El Ghazi,Right Winger,29,2.50m,Netherlands,1.FSV Mainz 05,Cardiff City,free transfer
+Jon Karrikaburu,Centre-Forward,21,2.50m,Spain,Real Sociedad,Racing Santander,loan transfer
+Sérgio Oliveira,Central Midfield,32,2.50m,Portugal,Galatasaray,Olympiacos Piraeus,free transfer
+Jalal Abdullai,Centre-Forward,20,2.50m,Ghana,IF Elfsborg,Molde FK,loan transfer
+Svit Seslar,Attacking Midfield,22,2.50m,Slovenia,Eyüpspor,NK Celje,loan transfer
+Naci Ünüvar,Left Winger,21,2.50m,Türkiye,Ajax Amsterdam,RCD Espanyol Barcelona,loan transfer
+Mahamadou Diawara,Central Midfield,19,2.50m,France,Olympique Lyon,Le Havre AC,loan transfer
+Timothée Pembélé,Right-Back,21,2.50m,France,Sunderland AFC,Le Havre AC,loan transfer
+Ola Solbakken,Right Winger,25,2.50m,Norway,AS Roma,FC Empoli,loan transfer
+Juan Carlos Gauto,Right Winger,20,2.50m,Argentina,FC Basel 1893,Deportivo de La Coruña,loan transfer
+Artem Timofeev,Defensive Midfield,30,2.50m,Russia,Akhmat Grozny,Lokomotiv Moscow,free transfer
+Mauricio Lemos,Centre-Back,29,2.50m,Uruguay,Clube Atlético Mineiro,Clube de Regatas Vasco da Gama,free transfer
+Lewis Dobbin,Left Winger,21,2.50m,England,Aston Villa,West Bromwich Albion,loan transfer
+Uroš Račić,Defensive Midfield,26,2.50m,Serbia,US Sassuolo,West Bromwich Albion,loan transfer
+Tino Kadewere,Centre-Forward,28,2.50m,Zimbabwe,Olympique Lyon,FC Nantes,free transfer
+Jean-Philippe Gbamin,Defensive Midfield,28,2.50m,Cote d'Ivoire,USL Dunkerque,FC Nantes,free transfer
+Tete Morente,Left Winger,27,2.50m,Spain,Elche CF,US Lecce,free transfer
+Adil Aouchiche,Attacking Midfield,22,2.50m,France,Sunderland AFC,Portsmouth FC,loan transfer
+Rafael Ratão,Left Winger,29,2.50m,Brazil,Esporte Clube Bahia,Cerezo Osaka,loan transfer
+Aaron Connolly,Centre-Forward,24,2.50m,Ireland,Sunderland AFC,Millwall FC,?
+Tomás Galván,Attacking Midfield,24,2.50m,Argentina,CA River Plate,CA Vélez Sarsfield,loan transfer
+Shandon Baptiste,Central Midfield,26,2.50m,Grenada,Brentford FC,Luton Town,free transfer
+Max Lowe,Left-Back,27,2.50m,England,Sheffield United,Sheffield Wednesday,free transfer
+Rémi Oudin,Attacking Midfield,28,2.50m,France,US Lecce,UC Sampdoria,loan transfer
+Paul Nardi,Goalkeeper,30,2.50m,France,KAA Gent,Queens Park Rangers,free transfer
+Sergi Roberto,Central Midfield,32,2.50m,Spain,FC Barcelona,Como 1907,free transfer
+Rafa Mir,Centre-Forward,27,2.50m,Spain,Sevilla FC,Valencia CF,loan transfer
+Maximiliano Caufriez,Centre-Back,27,2.50m,Belgium,Clermont Foot 63,Valencia CF,loan transfer
+Juan Bernat,Left-Back,31,2.50m,Spain,Paris Saint-Germain,Villarreal CF,free transfer
+Uroš Račić,Defensive Midfield,26,2.50m,Serbia,US Sassuolo,SC Braga,loan transfer
+Thomas Meunier,Right-Back,32,2.50m,Belgium,Trabzonspor,LOSC Lille,free transfer
+Soualiho Meïté,Defensive Midfield,30,2.50m,France,SL Benfica,PAOK Thessaloniki,loan transfer
+Carles Aleñá,Central Midfield,27,2.50m,Spain,Getafe CF,Deportivo Alavés,loan transfer
+Lewis Dobbin,Left Winger,22,2.50m,England,Aston Villa,Norwich City,loan transfer
+Anis Slimane,Central Midfield,23,2.50m,Tunisia,Sheffield United,Norwich City,loan transfer
+Roberto López,Attacking Midfield,24,2.50m,Spain,Real Sociedad,CD Leganés,free transfer
+Munir El Haddadi,Right Winger,28,2.50m,Morocco,UD Las Palmas,CD Leganés,free transfer
+Óscar Rodríguez,Attacking Midfield,26,2.50m,Spain,Sevilla FC,CD Leganés,free transfer
+Bruno Barticciotto,Centre-Forward,23,2.50m,Chile,CA Talleres,Santos Laguna,loan transfer
+Cédric Kipré,Centre-Back,27,2.50m,Cote d'Ivoire,West Bromwich Albion,Stade Reims,free transfer
+Lucas Halter,Centre-Back,24,2.50m,Brazil,Botafogo de Futebol e Regatas,Esporte Clube Vitória,loan transfer
+Marco Nasti,Centre-Forward,20,2.50m,Italy,AC Milan,US Cremonese,free transfer
+Zan Vipotnik,Centre-Forward,22,2.50m,Slovenia,FC Girondins Bordeaux,Swansea City,free transfer
+Clayton,Centre-Forward,25,2.50m,Brazil,Clube de Regatas Vasco da Gama,Rio Ave FC,loan transfer
+Omar Richards,Left-Back,26,2.50m,England,Nottingham Forest,Rio Ave FC,loan transfer
+Juan Otero,Right Winger,29,2.50m,Colombia,CF América,Sporting Gijón,free transfer
+Alessandro Bianco,Central Midfield,21,2.50m,Italy,ACF Fiorentina,AC Monza,loan transfer
+Chris Bedia,Centre-Forward,28,2.50m,Cote d'Ivoire,1.FC Union Berlin,Hull City,loan transfer
+Dennis Eckert Ayensa,Centre-Forward,27,2.50m,Germany,Union Saint-Gilloise,Standard Liège,loan transfer
+Mario González,Centre-Forward,28,2.50m,Spain,Los Angeles FC,FC Famalicão,loan transfer
+Erik Expósito,Centre-Forward,28,2.50m,Spain,Slask Wroclaw,Al-Ahli SC,free transfer
+Cristián Borja,Left-Back,31,2.50m,Colombia,SC Braga,CF América,free transfer
+Juan Bernat,Left-Back,31,2.50m,Spain,Villarreal CF,Getafe CF,free transfer
+Carles Pérez,Right Winger,26,2.50m,Spain,Celta de Vigo,Getafe CF,loan transfer
+Edouard Michut,Central Midfield,21,2.50m,France,Paris Saint-Germain,Adana Demirspor,free transfer
+Abdoulaye Ndiaye,Centre-Back,22,2.50m,Senegal,ESTAC Troyes,Stade Brestois 29,loan transfer
+Emanuel Reynoso,Attacking Midfield,29,2.50m,Argentina,Club Tijuana,CA Talleres,?
+Borja Bastón,Centre-Forward,31,2.50m,Spain,Real Oviedo,CF Pachuca,free transfer
+Riccardo Pagano,Central Midfield,19,2.50m,Italy,AS Roma,US Catanzaro,loan transfer
+Markus Solbakken,Defensive Midfield,24,2.50m,Norway,AC Sparta Prague,Pisa Sporting Club,loan transfer
+Oliver Abildgaard,Defensive Midfield,28,2.50m,Denmark,Como 1907,Pisa Sporting Club,loan transfer
+James Rodríguez,Attacking Midfield,33,2.50m,Colombia,Rayo Vallecano,Club León FC,free transfer
+Rúben Semedo,Centre-Back,30,2.50m,Portugal,Al-Duhail SC,Al-Khor SC,loan transfer
+Haris Seferovic,Centre-Forward,32,2.50m,Switzerland,Al-Wasl FC,Al-Nasr SC (UAE),?
+M'Baye Niang,Centre-Forward,29,2.50m,Senegal,FC Empoli,Wydad Casablanca,free transfer
+Henrique Araújo,Centre-Forward,22,2.50m,Portugal,SL Benfica,FC Arouca,loan transfer
+Marino Hinestroza,Right Winger,22,2.50m,Colombia,Columbus Crew,Atlético Nacional,loan transfer
+Thibault De Smet,Left-Back,26,2.50m,Belgium,Stade Reims,Paris FC,loan transfer
+João Moreira,Right-Back,20,2.50m,Brazil,São Paulo Futebol Clube,FC Porto B,loan transfer
+Kady Borges,Right Winger,28,2.50m,Brazil,Ferencvárosi TC,Qarabağ FK,free transfer
+Dylan Borrero,Left Winger,22,2.50m,Colombia,New England Revolution,Fortaleza Esporte Clube,free transfer
+Breno Lopes,Left Winger,28,2.50m,Brazil,Sociedade Esportiva Palmeiras,Fortaleza Esporte Clube,free transfer
+Rony Lopes,Right Winger,28,2.50m,Portugal,SC Braga,Alanyaspor,free transfer
+Emanuel Reynoso,Attacking Midfield,28,2.50m,Argentina,Minnesota United FC,Club Tijuana,?
+Ilya Shkurin,Centre-Forward,24,2.50m,Belarus,CSKA Moscow,Stal Mielec,free transfer
+Ali Madan,Right Winger,29,2.50m,Bahrain,Al-Riffa SC,Ajman Club,loan transfer
+Haykeul Chikhaoui,Attacking Midfield,28,2.50m,Tunisia,Ajman Club,Al-Nasr SC (Kuwait),?
+Vladimir Lucic,Left Winger,22,2.50m,Serbia,Red Star Belgrade,FK IMT Belgrad,loan transfer
+Romarinho,Centre-Forward,33,2.50m,Brazil,Al-Ittihad Club,NEOM SC,free transfer
+Noel Buck,Central Midfield,19,2.50m,England,New England Revolution,Southampton FC U21,loan transfer
+Gaëtan Coucke,Goalkeeper,25,2.50m,Belgium,KV Mechelen,Al-Orobah FC,free transfer
+Felix Afena-Gyan,Centre-Forward,21,2.50m,Ghana,US Cremonese,Juventus Next Gen,loan transfer
+Faisal Al-Ghamdi,Central Midfield,23,2.50m,Saudi Arabia,Al-Ittihad Club,Beerschot VA,loan transfer
+Jesús Murillo,Centre-Back,30,2.50m,Colombia,Los Angeles FC,FC Juárez,free transfer
+Chris Smalling,Centre-Back,34,2.50m,England,AS Roma,Al-Fayha FC,free transfer
+Frankie Amaya,Central Midfield,24,2.50m,United States,Deportivo Toluca,Los Angeles FC,loan transfer
+Jeremy Ebobisse,Centre-Forward,27,2.50m,United States,San Jose Earthquakes,Los Angeles FC,free transfer
+Riccieli,Centre-Back,26,2.50m,Brazil,FC Famalicão,Qingdao West Coast,loan transfer
+Aziz Yakubu,Centre-Forward,26,2.50m,Ghana,Shimizu S-Pulse,Qingdao West Coast,loan transfer
+Ibrahima Koné,Centre-Forward,25,2.50m,Mali,UD Almería,Al-Okhdood Club,loan transfer
+Muath Fagihy,Left-Back,22,650k,Saudi Arabia,Al-Hilal SFC,Al-Ittihad Club,0
+Mohammed Al-Burayk,Right-Back,31,650k,Saudi Arabia,Al-Hilal SFC,NEOM SC,0
+Agustín Martegani,Attacking Midfield,24,1.80m,Argentina,CA San Lorenzo de Almagro,CA Boca Juniors,0
+Alex Palmer,Goalkeeper,28,1.20m,England,West Bromwich Albion,Ipswich Town,0
+Sam Smith,Centre-Forward,26,600k,England,Reading FC,Wrexham AFC,0
+Shapi Suleymanov,Right Winger,25,1.80m,Russia,Aris Thessaloniki,Sporting Kansas City,0
+Manu Fuster,Left Winger,26,2.40m,Spain,Albacete Balompié,UD Las Palmas,1.50m
+Pêpê,Central Midfield,27,2.40m,Portugal,Olympiacos Piraeus,Pafos FC,600k
+Rúben Vinagre,Left-Back,25,2.40m,Portugal,Sporting CP,Legia Warszawa,loan transfer
+Miha Zajc,Central Midfield,30,2.40m,Slovenia,Fenerbahce,FC Toulouse,loan transfer
+Pietro Beruatto,Left-Back,26,2.40m,Italy,Pisa Sporting Club,UC Sampdoria,loan transfer
+David Okereke,Centre-Forward,27,2.40m,Nigeria,US Cremonese,Gaziantep FK,loan transfer
+Giorgio Cittadini,Centre-Back,22,2.40m,Italy,Atalanta BC,Frosinone Calcio,loan transfer
+Nicholas Gioacchini,Centre-Forward,24,2.40m,United States,Como 1907,FC Cincinnati,loan transfer
+Michael Cooper,Goalkeeper,24,1.00m,England,Plymouth Argyle,Sheffield United,0
+Mason Burstow,Centre-Forward,21,1.80m,England,Chelsea FC U21,Hull City,0
+Alvin Ayman,Central Midfield,16,-,England,Wolverhampton Wanderers Youth,Liverpool FC U18,0
+José Juan Macías,Centre-Forward,24,1.50m,Mexico,Deportivo Guadalajara,Santos Laguna,0
+Rodrigo Aguirre,Centre-Forward,29,2.30m,Uruguay,CF Monterrey,CF América,0
+Miguel Monsalve,Attacking Midfield,20,1.00m,Colombia,Independiente Medellín,Grêmio Foot-Ball Porto Alegrense,0
+Steve Ngoura,Centre-Forward,19,800k,France,Le Havre AC,Cercle Brugge ,0
+Ayrton Costa,Centre-Back,24,2.00m,Argentina,CA Independiente,Royal Antwerp FC,0
+Omar Govea,Defensive Midfield,28,2.00m,Mexico,CF Monterrey,Deportivo Guadalajara,0
+Louis Munteanu,Centre-Forward,22,1.80m,Romania,ACF Fiorentina,CFR Cluj,0
+Umut Güneş,Central Midfield,24,2.30m,Türkiye,Trabzonspor,Basaksehir FK,2.00m
+Matías Reali,Right Winger,26,2.30m,Argentina,CS Independiente Rivadavia,CA San Lorenzo de Almagro,1.68m
+Ebrima Colley,Right Winger,24,2.30m,The Gambia,Atalanta BC,BSC Young Boys,1.65m
+Emir Sahiti,Right Winger,25,2.30m,Kosovo,HNK Hajduk Split,Hamburger SV,1.20m
+Lucas González,Central Midfield,24,2.30m,Argentina,CA Independiente,Defensa y Justicia,1.05m
+Tomás Durso,Goalkeeper,25,2.30m,Argentina,Club de Gimnasia y Esgrima La Plata,Club Atlético Tucumán,100k
+Emanuele Valeri,Left-Back,25,2.30m,Italy,Frosinone Calcio,Parma Calcio 1913,free transfer
+Virgil Misidjan,Left Winger,31,2.30m,Suriname,Al-Tai FC,Ferencvárosi TC,free transfer
+Alfons Sampsted,Right-Back,26,2.30m,Iceland,Twente Enschede FC,Birmingham City,loan transfer
+Antonio Candela,Right-Back,24,2.30m,Italy,Venezia FC,Real Valladolid CF,loan transfer
+Joshua King,Centre-Forward,32,2.30m,Norway,Fenerbahce,FC Toulouse,free transfer
+Filip Prebsl,Defensive Midfield,21,2.30m,Czech Republic,SK Slavia Prague,Górnik Zabrze,loan transfer
+Valber Huerta,Centre-Back,30,2.30m,Chile,Deportivo Toluca,CD Universidad Católica,free transfer
+Dijon Kameri,Attacking Midfield,20,2.30m,Austria,Red Bull Salzburg,SCR Altach,loan transfer
+Othmane Boussaid,Left Winger,24,2.30m,Belgium,FC Utrecht,Al-Nasr SC (UAE),free transfer
+Cristian Tello,Left Winger,33,2.30m,Spain,Al-Fateh SC,Al-Orobah FC,free transfer
+Álex Collado,Right Winger,25,2.30m,Spain,Real Betis Balompié,Al-Kholood Club,loan transfer
+Johan Rojas,Attacking Midfield,21,2.00m,Colombia,CD La Equidad Seguros SA,CF Monterrey,0
+Alex Paulsen,Goalkeeper,21,450k,New Zealand,Wellington Phoenix,AFC Bournemouth,0
+Luis Binks,Centre-Back,22,2.20m,England,Bologna FC 1909,Coventry City,0
+Simion Michez,Right Midfield,22,900k,Cameroon,Beerschot VA,SK Slavia Prague,0
+Alex Santana,Central Midfield,29,2.00m,Brazil,Club Athletico Paranaense,Sport Club Corinthians Paulista,0
+Pedro Mendes,Centre-Forward,24,1.80m,Portugal,Ascoli Calcio,Modena FC,0
+André Luiz,Right Winger,22,1.50m,Brazil,CF Estrela Amadora,Rio Ave FC,0
+Juan Berrocal,Centre-Back,25,1.00m,Spain,SD Eibar,Getafe CF,0
+Aiham Ousou,Centre-Back,24,2.20m,Syria,SK Slavia Prague,R Charleroi SC,1.80m
+Miguel Navarro,Left-Back,25,2.20m,Venezuela,Colorado Rapids,CA Talleres,1.75m
+Ravil Tagir,Centre-Back,21,2.20m,Türkiye,Basaksehir FK,Al-Jazira Club,1.70m
+Johan Mojica,Left-Back,31,2.20m,Colombia,Villarreal CF,RCD Mallorca,1.50m
+Joao Ortiz,Defensive Midfield,28,2.20m,Ecuador,Independiente del Valle,Portland Timbers,1.50m
+Eric-Junior Bocat,Left-Back,24,2.20m,France,Sint-Truidense VV,Stoke City,1.20m
+Josh Laurent,Central Midfield,29,2.20m,England,Stoke City,Burnley FC,1.19m
+Ignacio Rodríguez,Left Midfield,22,2.20m,Argentina,CA Banfield,Racing Club,1.15m
+Stanko Juric,Defensive Midfield,27,2.20m,Croatia,Parma Calcio 1913,Real Valladolid CF,950k
+Manolis Siopis,Defensive Midfield,30,2.20m,Greece,Cardiff City,Panathinaikos FC,800k
+Otabek Shukurov,Central Midfield,28,2.20m,Uzbekistan,Kayserispor,Al-Fayha FC,400k
+Stefan Kovac,Central Midfield,25,2.20m,Bosnia-Herzegovina,FK Cukaricki,FK Partizan Belgrade,350k
+Mohamed Bouldini,Centre-Forward,28,2.20m,Morocco,Levante UD,Deportivo de La Coruña,300k
+Yahia Attiyat Allah,Left-Back,29,2.20m,Morocco,FC Sochi,Al Ahly FC,Loan fee:200k
+Mateusz Wieteska,Centre-Back,27,2.20m,Poland,Cagliari Calcio,PAOK Thessaloniki,Loan fee:150k
+Hamdy Fathy,Central Midfield,30,2.20m,Egypt,Al-Wakrah SC,Al Ahly FC,loan transfer
+Callum O'Hare,Attacking Midfield,26,2.20m,England,Coventry City,Sheffield United,free transfer
+Ezequiel Bullaude,Attacking Midfield,23,2.20m,Argentina,Feyenoord Rotterdam,Fortuna Sittard,loan transfer
+Jan Mlakar,Left Winger,26,2.20m,Slovenia,Pisa Sporting Club,HNK Hajduk Split,loan transfer
+Kaine Kesler-Hayden,Right-Back,21,2.20m,England,Aston Villa,Preston North End,loan transfer
+Ashley Phillips,Centre-Back,19,2.20m,England,Tottenham Hotspur,Stoke City,loan transfer
+Marcelo Morales,Left-Back,21,2.20m,Chile,Club Universidad de Chile,New York Red Bulls,free transfer
+Unai Vencedor,Central Midfield,23,2.20m,Spain,Athletic Bilbao,Racing Santander,loan transfer
+Alfie Devine,Attacking Midfield,20,2.20m,England,Tottenham Hotspur,KVC Westerlo,loan transfer
+Siriki Dembélé,Left Winger,27,2.20m,Scotland,Birmingham City,Oxford United,?
+Ante Rebić,Left Winger,30,2.20m,Croatia,Besiktas JK,US Lecce,free transfer
+Gyrano Kerk,Right Winger,28,2.20m,Suriname,Lokomotiv Moscow,Royal Antwerp FC,free transfer
+Iddrisu Baba,Central Midfield,28,2.20m,Ghana,RCD Mallorca,UD Almería,free transfer
+Aké Loba,Centre-Forward,26,2.20m,Cote d'Ivoire,Club Tijuana,Querétaro FC,loan transfer
+Giuseppe Ambrosino,Centre-Forward,20,2.20m,Italy,SSC Napoli,Frosinone Calcio,loan transfer
+Wesley Hoedt,Centre-Back,30,2.20m,Netherlands,Watford FC,Al-Shabab FC,?
+Abdelhamid Sabiri,Attacking Midfield,27,2.20m,Morocco,ACF Fiorentina,Ajman Club,loan transfer
+Lukas Engel,Left-Back,26,2.20m,Denmark,Middlesbrough FC,FC Cincinnati,loan transfer
+Conrad Wallem,Right Midfield,24,2.20m,Norway,SK Slavia Prague,St. Louis CITY SC,loan transfer
+Juan Córdoba,Right Winger,21,1.20m,Colombia,Deportivo Cali,GNK Dinamo Zagreb,0
+Dorukhan Toköz,Central Midfield,28,2.10m,Türkiye,Adana Demirspor,Eyüpspor,free transfer
+Thaciano,Attacking Midfield,29,2.00m,Brazil,Esporte Clube Bahia,Santos FC,0
