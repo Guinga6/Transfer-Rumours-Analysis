@@ -71,44 +71,27 @@ Transcript:
 """
     return [{"role": "user", "content": user_prompt.strip()}]
 
-def build_system_user_prompt(names, text):
-    name_list = ', '.join(name.strip() for name in names)
-    cleaned_text = text.strip()
 
-    system_message = """
-You are a summarizer. Given a transcript and a list of names (player, coach, or club), generate a short summary for each entity mentioned.
 
-Instructions:
-- Focus on each name's **future or movement in football**, such as transfers, retirements, contract renewals, appointments, or departures.
-- Only return a valid JSON object.
-- Do NOT include any text outside the JSON.
-- Use this exact format:
+def build_system_user_prompt(player_names, contexts):
+    system_message = """You are a football transfer analyst. Read the text and extract transfer information for the mentioned players.
 
-{
-  "players": {
-    "name_1": "summary for name_1",
-    "name_2": "summary for name_2"
-  }
-}
+Focus only on sentences where the player's name is mentioned. Ignore all other text.
 
-Example output:
-{
-  "players": {
-    "Mats Hummels": "Mats Hummels has announced his retirement from professional football and will leave AS Roma at the end of the season.",
-    "AS Roma": "AS Roma will lose Mats Hummels at the end of the season due to his retirement."
-  }
-}
-"""
+Only extract information about player transfers (buying, selling, loaning, rumors, negotiations, interest, talks, discussions, bid, offer, deal, agreement, contract, signing, move, switch, departure, arrival, target, linked, approach, enquiry, pursuit, speculation, considering, exploring, monitoring, tracking, scouting, wants, desires, keen, eyeing, planning, preparing, close to, verge of, set to, expected to, likely to, potential, possible, reported, alleged, suggested, claimed).
 
-    user_prompt = f"""
-Names to summarize: {name_list}
+If a player's name is not mentioned in any transfer context, write "No transfer news mentioned"."""
 
-Transcript:
-{cleaned_text}
-"""
+    user_prompt = f"""Players: {player_names}
+
+players & their mentions:
+{contexts}
+Extract transfer information for each player in this format:
+Player_name(corrected): transfer information"""
+
     return [
-        {"role": "system", "content": system_message.strip()},
-        {"role": "user", "content": user_prompt.strip()}
+        {"role": "system", "content": system_message},
+        {"role": "user", "content": user_prompt}
     ]
 
 
