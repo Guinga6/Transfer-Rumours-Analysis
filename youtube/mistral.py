@@ -16,7 +16,6 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 # Add parent directory to path for custom imports
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 from transformation.ollama import build_system_user_prompt,run_ollama_prompt,extract_json,build_user_prompt,build_json_system_user_prompt
-from transformation.rag_pipline import build_rag_input
 from utils.progress import show_progress
 # Load spaCy transformer-based model
 nlp = spacy.load("en_core_web_trf")

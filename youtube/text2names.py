@@ -217,11 +217,11 @@ def cluster_mentions(entity: str, mentions: List[Dict]) -> List[Dict[str, any]]:
     # Try alternative vectorization methods if spaCy vectors fail
     valid_vectors = False
     
-    # APPROACH 1: First try with spaCy's built-in vectors
+    
     try:
-        # Import nlp here to avoid potential import errors
+        
         import spacy
-        nlp = spacy.load("en_core_web_md")  # Make sure this model is installed
+        nlp = spacy.load("en_core_web_trf")  
         
         # Process with spaCy
         mention_docs = list(nlp.pipe(clean_texts))
@@ -707,22 +707,22 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 nlp = spacy.load("en_core_web_trf") 
 
 # Iterate over JSON files in directory
-files = os.listdir('video_data')
+files = os.listdir('video_data\\result')
 
 for filename in files:
     if filename.endswith('.json'):
-        path = os.path.join('video_data', filename)
+        path = os.path.join('video_data\\result', filename)
         logging.info(f"Processing {filename}")
         
         try:
             with open(path, 'r', encoding='utf-8') as f:
                 video = json.load(f)
-                transcription = video['transcription']
+                transcription = video['transcription_ponctuer']
                 
                 start_time = time.time()
                 
                 # Reset extracted_players_info to empty
-                video["extracted_players_info"] = {}
+                video["player_context"] = {}
                 
                 # Process the transcription to extract entities, contexts, and relationships
                 logging.info("Starting entity extraction, context processing, and relationship analysis...")
@@ -731,7 +731,7 @@ for filename in files:
                 end_time = time.time()
                 processing_time = end_time - start_time
                 
-                video["extracted_players_info"] = extracted_data
+                video["player_context"] = extracted_data
                 
                 # Summary of results
                 total_entities = len(extracted_data["players"])

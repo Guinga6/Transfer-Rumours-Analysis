@@ -1,5 +1,0 @@
-first we start by dow ...............
-
-the logic based on the choosing models was just working with a model that serve our requirement and give a good output(give an exolanation of the choosing models)
-
-for cleaning we think of using llm with ollama server we start by testing qwen2.5 3b-instruct (he fails to extract the entities in the transcription) then we try a larger model mistral 7b-instruct same problem , solution then is to use and pre trained entities recognition model we make a benchmark of 3 candidate (en_core_web_ ,en_core_web_trf,dslim/bert-base-NER) in the end we choose en_core_web_trf as he give a resonable performance after that we divid the list of names into chunks and feed that to our models (qwen2.5 and mistral) we find that mistral has given the best output while qwen2.5 didn't give anyting good, but after that we found out that the model struggle and loose track of the instructions provid it to him because of the long transcriptions, our solution was then is to use RAG.
