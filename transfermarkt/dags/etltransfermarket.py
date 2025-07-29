@@ -19,7 +19,7 @@ def to_csv_file(dataf):
 
 def save_to_mongodb(dataframe):
 
-    mongo_url = 'mongodb+srv://airflow:airflow123@cluster0.z9trbzx.mongodb.net/etl?retryWrites=true&w=majority&appName=Cluster0'
+    mongo_url = 'mongodb+srv://cluster:password@cluster0.z9trbzx.mongodb.net/etl?retryWrites=true&w=majority&appName=Cluster0'
     database_name = 'etl'
     collection_name='TopTransfers'
     client = MongoClient(mongo_url)
