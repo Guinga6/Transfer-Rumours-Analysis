@@ -18,7 +18,7 @@ def to_csv_file(dataf):
 
 def save_to_mongodb(dataframe):
 
-    mongo_url = 'mongodb+srv://[password]@cluster0.z9trbzx.mongodb.net/etl?retryWrites=true&w=majority&appName=Cluster0'
+    mongo_url = ''
     database_name = 'etl'
     collection_name='RumoursDetail'
     client = MongoClient(mongo_url)
